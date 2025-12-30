@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Ship_Date,Region,Country,State,Category,Sub_Category,Customer_Segment,Sales,Quantity,Discount,Profit
+AMZ100000,2023-04-13,2023-10-02,North,India,Telangana,Books,Fiction,Corporate,953.69,5,0.05,95.37
+AMZ100001,2023-12-15,2023-04-07,Central,India,Maharashtra,Home & Kitchen,Laptops,Small Business,10469.26,7,0.37,-2303.24
+AMZ100002,2023-09-28,2023-08-16,West,India,Kerala,Beauty,Furniture,Small Business,47971.7,8,0.07,3837.74
+AMZ100003,2023-04-17,2023-02-09,East,India,Telangana,Home & Kitchen,Cookware,Small Business,30863.39,9,0.03,3703.61
+AMZ100004,2023-03-13,2023-10-30,Central,India,Gujarat,Books,Clothing,Consumer,13452.73,6,0.49,-4573.93
+AMZ100005,2023-07-08,2023-01-30,West,India,Tamil Nadu,Home & Kitchen,Fiction,Corporate,3816.06,9,0.48,-1259.3
+AMZ100006,2023-01-21,2023-11-15,East,India,Tamil Nadu,Beauty,Mobiles,Consumer,1895.47,8,0.03,227.46
+AMZ100007,2023-04-13,2023-09-03,North,India,Karnataka,Electronics,Fiction,Corporate,12614.88,9,0.22,-883.04
+AMZ100008,2023-05-02,2023-08-25,West,India,Maharashtra,Beauty,Footwear,Corporate,44133.55,4,0.09,2648.01
+AMZ100009,2023-08-03,2023-07-05,East,India,Gujarat,Electronics,Skincare,Consumer,21087.73,9,0.24,-1897.9
+AMZ100010,2023-11-27,2023-09-30,North,India,Kerala,Fashion,Furniture,Small Business,36156.5,7,0.42,-9762.26
+AMZ100011,2023-03-29,2023-08-25,Central,India,Tamil Nadu,Beauty,Footwear,Corporate,45955.11,5,0.48,-15165.19
+AMZ100012,2023-04-10,2023-08-28,Central,India,Tamil Nadu,Beauty,Cookware,Small Business,20698.0,5,0.32,-3518.66
+AMZ100013,2023-12-26,2023-09-24,Central,India,Gujarat,Books,Mobiles,Consumer,9968.23,1,0.18,-299.05
+AMZ100014,2023-06-01,2023-12-26,Central,India,Telangana,Home & Kitchen,Furniture,Small Business,26097.34,2,0.3,-3914.6
+AMZ100015,2023-05-11,2023-12-07,South,India,Telangana,Electronics,Cookware,Corporate,45450.14,3,0.16,-454.5
+AMZ100016,2023-05-30,2023-03-07,West,India,Maharashtra,Electronics,Footwear,Corporate,40316.53,8,0.45,-12094.96
+AMZ100017,2023-11-05,2023-06-27,West,India,Karnataka,Books,Footwear,Corporate,3758.58,6,0.44,-1089.99
+AMZ100018,2023-09-15,2023-01-04,South,India,Tamil Nadu,Books,Skincare,Consumer,34782.35,5,0.28,-4521.71
+AMZ100019,2023-12-10,2023-05-23,East,India,Karnataka,Home & Kitchen,Furniture,Corporate,28808.93,1,0.16,-288.09
+AMZ100020,2023-10-21,2023-06-08,East,India,Telangana,Home & Kitchen,Mobiles,Consumer,45419.43,9,0.15,0.0
+AMZ100021,2023-07-11,2023-11-21,Central,India,Telangana,Beauty,Footwear,Small Business,6562.83,3,0.02,853.17
+AMZ100022,2023-10-04,2023-05-27,North,India,Delhi,Fashion,Clothing,Corporate,26934.79,3,0.41,-7003.05
+AMZ100023,2023-06-10,2023-10-21,East,India,Kerala,Home & Kitchen,Skincare,Corporate,44033.4,2,0.23,-3522.67
+AMZ100024,2023-11-10,2023-06-03,North,India,Maharashtra,Books,Cookware,Corporate,20796.18,4,0.16,-207.96
+AMZ100025,2023-01-22,2023-07-13,West,India,Delhi,Home & Kitchen,Furniture,Small Business,24358.75,2,0.24,-2192.29
+AMZ100026,2023-09-10,2023-03-15,North,India,Kerala,Electronics,Laptops,Corporate,3987.8,9,0.41,-1036.83
+AMZ100027,2023-08-24,2023-11-02,West,India,Delhi,Fashion,Laptops,Consumer,14268.11,7,0.06,1284.13
+AMZ100028,2023-12-11,2023-12-11,South,India,Delhi,Beauty,Mobiles,Small Business,16563.08,8,0.43,-4637.66
+AMZ100029,2023-02-18,2023-05-21,South,India,Maharashtra,Electronics,Clothing,Small Business,47283.56,3,0.45,-14185.07
+AMZ100030,2023-02-28,2023-07-07,Central,India,Maharashtra,Electronics,Footwear,Small Business,14492.03,6,0.47,-4637.45
+AMZ100031,2023-06-19,2023-10-21,East,India,Gujarat,Fashion,Laptops,Small Business,23313.0,6,0.2,-1165.65
+AMZ100032,2023-07-07,2023-03-03,Central,India,Karnataka,Beauty,Mobiles,Small Business,33729.57,1,0.11,1349.18
+AMZ100033,2023-09-28,2023-07-18,West,India,Karnataka,Books,Cookware,Consumer,8528.08,6,0.19,-341.12
+AMZ100034,2023-07-09,2023-10-23,Central,India,Gujarat,Beauty,Skincare,Small Business,24578.9,3,0.17,-491.58
+AMZ100035,2023-06-24,2023-11-16,North,India,Gujarat,Home & Kitchen,Clothing,Corporate,37057.68,3,0.09,2223.46
+AMZ100036,2023-02-20,2023-10-30,West,India,Telangana,Electronics,Clothing,Small Business,43409.33,3,0.3,-6511.4
+AMZ100037,2023-12-30,2023-12-11,South,India,Kerala,Home & Kitchen,Fiction,Small Business,31499.83,8,0.24,-2834.98
+AMZ100038,2023-02-24,2023-01-12,East,India,Delhi,Books,Mobiles,Small Business,33618.15,5,0.43,-9413.08
+AMZ100039,2023-09-01,2023-03-04,West,India,Gujarat,Home & Kitchen,Mobiles,Small Business,6751.03,4,0.02,877.63
+AMZ100040,2023-11-16,2023-11-30,West,India,Tamil Nadu,Beauty,Fiction,Small Business,47315.94,9,0.32,-8043.71
+AMZ100041,2023-05-11,2023-08-15,North,India,Karnataka,Home & Kitchen,Skincare,Consumer,7062.42,9,0.38,-1624.36
+AMZ100042,2023-11-03,2023-06-03,East,India,Gujarat,Books,Footwear,Consumer,38846.31,1,0.38,-8934.65
+AMZ100043,2023-05-15,2023-07-19,South,India,Tamil Nadu,Books,Mobiles,Small Business,13608.41,2,0.44,-3946.44
+AMZ100044,2023-01-21,2023-02-22,West,India,Tamil Nadu,Books,Fiction,Consumer,46712.86,8,0.36,-9809.7
+AMZ100045,2023-11-25,2023-09-18,West,India,Tamil Nadu,Beauty,Footwear,Corporate,36138.0,5,0.46,-11202.78
+AMZ100046,2023-06-16,2023-03-01,North,India,Telangana,Books,Skincare,Small Business,37813.78,7,0.17,-756.28
+AMZ100047,2023-10-01,2023-03-14,Central,India,Telangana,Electronics,Footwear,Corporate,11343.43,1,0.25,-1134.34
+AMZ100048,2023-03-30,2023-05-29,South,India,Tamil Nadu,Books,Furniture,Corporate,22430.48,5,0.01,3140.27
+AMZ100049,2023-11-12,2023-12-16,East,India,Kerala,Home & Kitchen,Clothing,Small Business,31081.75,3,0.0,4662.26
+AMZ100050,2023-01-14,2023-03-05,West,India,Telangana,Home & Kitchen,Cookware,Corporate,38613.69,2,0.12,1158.41
+AMZ100051,2023-08-30,2023-11-07,West,India,Delhi,Home & Kitchen,Clothing,Corporate,5645.99,2,0.05,564.6
+AMZ100052,2023-09-22,2023-09-01,South,India,Tamil Nadu,Beauty,Clothing,Corporate,48137.08,9,0.13,962.74
+AMZ100053,2023-12-12,2024-01-02,Central,India,Delhi,Home & Kitchen,Furniture,Small Business,44565.92,4,0.09,2673.96
+AMZ100054,2023-02-22,2023-11-27,West,India,Delhi,Beauty,Footwear,Small Business,13882.26,4,0.01,1943.52
+AMZ100055,2023-12-06,2023-04-18,South,India,Tamil Nadu,Beauty,Footwear,Corporate,41226.63,7,0.45,-12367.99
+AMZ100056,2023-04-02,2023-08-15,North,India,Karnataka,Books,Mobiles,Small Business,26157.03,2,0.0,3923.55
+AMZ100057,2023-09-21,2023-11-10,Central,India,Kerala,Electronics,Furniture,Small Business,23359.42,3,0.37,-5139.07
+AMZ100058,2023-02-04,2023-08-07,East,India,Tamil Nadu,Books,Mobiles,Corporate,16064.49,3,0.08,1124.51
+AMZ100059,2023-07-25,2023-08-30,West,India,Tamil Nadu,Books,Furniture,Small Business,29257.95,6,0.46,-9069.96
+AMZ100060,2023-03-22,2023-09-17,South,India,Telangana,Beauty,Mobiles,Consumer,36629.51,3,0.45,-10988.85
+AMZ100061,2023-02-19,2023-09-20,North,India,Tamil Nadu,Beauty,Laptops,Small Business,20841.18,5,0.33,-3751.41
+AMZ100062,2023-12-26,2023-01-06,East,India,Karnataka,Home & Kitchen,Fiction,Consumer,31646.35,4,0.34,-6012.81
+AMZ100063,2023-01-02,2023-09-19,South,India,Telangana,Home & Kitchen,Clothing,Corporate,35115.99,3,0.0,5267.4
+AMZ100064,2023-02-23,2023-02-24,South,India,Maharashtra,Books,Clothing,Small Business,35700.53,8,0.49,-12138.18
+AMZ100065,2023-04-16,2023-02-17,East,India,Maharashtra,Fashion,Skincare,Corporate,3072.32,3,0.44,-890.97
+AMZ100066,2023-09-17,2023-08-04,North,India,Delhi,Fashion,Cookware,Corporate,43057.52,6,0.45,-12917.26
+AMZ100067,2023-11-06,2023-06-27,North,India,Kerala,Home & Kitchen,Fiction,Corporate,23183.54,7,0.33,-4173.04
+AMZ100068,2023-07-10,2023-01-10,Central,India,Delhi,Fashion,Footwear,Corporate,13489.6,7,0.17,-269.79
+AMZ100069,2023-08-06,2023-04-10,West,India,Karnataka,Home & Kitchen,Cookware,Corporate,12467.34,2,0.45,-3740.2
+AMZ100070,2023-02-13,2023-01-21,East,India,Gujarat,Beauty,Laptops,Small Business,24409.2,3,0.15,0.0
+AMZ100071,2023-06-11,2023-08-30,East,India,Kerala,Books,Skincare,Consumer,44398.16,4,0.28,-5771.76
+AMZ100072,2023-07-21,2023-03-03,East,India,Maharashtra,Electronics,Cookware,Small Business,19228.21,7,0.05,1922.82
+AMZ100073,2023-09-27,2023-06-28,North,India,Delhi,Books,Skincare,Small Business,37611.42,2,0.46,-11659.54
+AMZ100074,2023-12-17,2023-12-05,West,India,Maharashtra,Home & Kitchen,Clothing,Small Business,5292.53,3,0.07,423.4
+AMZ100075,2023-10-31,2023-03-04,Central,India,Karnataka,Home & Kitchen,Footwear,Small Business,24064.81,7,0.11,962.59
+AMZ100076,2023-09-28,2023-05-26,South,India,Karnataka,Books,Laptops,Consumer,49588.46,7,0.28,-6446.5
+AMZ100077,2023-08-03,2023-08-05,South,India,Gujarat,Home & Kitchen,Clothing,Small Business,38636.67,3,0.38,-8886.43
+AMZ100078,2023-09-09,2023-01-04,East,India,Gujarat,Fashion,Fiction,Corporate,10921.16,1,0.31,-1747.39
+AMZ100079,2023-07-09,2023-06-10,West,India,Telangana,Fashion,Mobiles,Small Business,25321.35,3,0.12,759.64
+AMZ100080,2023-10-23,2023-08-16,North,India,Kerala,Home & Kitchen,Furniture,Small Business,12064.43,5,0.0,1809.66
+AMZ100081,2023-08-01,2023-09-27,West,India,Karnataka,Home & Kitchen,Laptops,Consumer,20773.27,7,0.38,-4777.85
+AMZ100082,2023-07-27,2023-05-01,West,India,Delhi,Fashion,Footwear,Consumer,39114.16,4,0.49,-13298.81
+AMZ100083,2023-08-25,2023-03-31,North,India,Maharashtra,Home & Kitchen,Skincare,Corporate,38675.63,1,0.4,-9668.91
+AMZ100084,2023-12-04,2023-11-26,East,India,Tamil Nadu,Home & Kitchen,Cookware,Small Business,11790.97,6,0.23,-943.28
+AMZ100085,2023-02-22,2023-03-10,West,India,Gujarat,Books,Fiction,Small Business,46150.05,2,0.45,-13845.02
+AMZ100086,2023-10-07,2023-12-24,South,India,Tamil Nadu,Electronics,Cookware,Small Business,29832.13,3,0.2,-1491.61
+AMZ100087,2023-08-05,2023-04-09,North,India,Delhi,Fashion,Laptops,Corporate,19306.25,4,0.26,-2123.69
+AMZ100088,2023-09-09,2023-09-25,Central,India,Gujarat,Books,Fiction,Consumer,25345.81,6,0.24,-2281.12
+AMZ100089,2023-07-07,2023-04-16,East,India,Tamil Nadu,Electronics,Footwear,Corporate,30451.03,6,0.22,-2131.57
+AMZ100090,2023-02-10,2023-11-20,North,India,Kerala,Home & Kitchen,Laptops,Small Business,28214.58,7,0.39,-6771.5
+AMZ100091,2023-06-06,2023-05-04,Central,India,Delhi,Home & Kitchen,Footwear,Consumer,24577.05,5,0.26,-2703.48
+AMZ100092,2023-01-15,2023-01-30,Central,India,Maharashtra,Books,Cookware,Consumer,25494.17,7,0.16,-254.94
+AMZ100093,2023-10-28,2023-05-18,West,India,Kerala,Home & Kitchen,Clothing,Corporate,9232.39,2,0.13,184.65
+AMZ100094,2023-03-06,2023-07-15,West,India,Delhi,Beauty,Fiction,Consumer,40730.28,1,0.02,5294.94
+AMZ100095,2023-12-11,2023-08-15,West,India,Telangana,Books,Mobiles,Consumer,27317.14,8,0.29,-3824.4
+AMZ100096,2023-11-23,2023-11-29,North,India,Gujarat,Electronics,Clothing,Small Business,6988.45,1,0.11,279.54
+AMZ100097,2023-01-09,2023-06-20,North,India,Karnataka,Books,Mobiles,Small Business,38424.78,2,0.07,3073.98
+AMZ100098,2023-12-10,2023-01-10,East,India,Maharashtra,Fashion,Cookware,Consumer,46655.98,6,0.33,-8398.08
+AMZ100099,2023-05-09,2023-02-10,West,India,Kerala,Books,Skincare,Consumer,47391.69,1,0.34,-9004.42
+AMZ100100,2023-05-16,2023-01-26,Central,India,Kerala,Home & Kitchen,Fiction,Corporate,18766.38,3,0.38,-4316.27
+AMZ100101,2023-03-04,2023-09-19,South,India,Tamil Nadu,Home & Kitchen,Clothing,Corporate,7208.09,7,0.25,-720.81
+AMZ100102,2023-05-19,2023-08-15,East,India,Gujarat,Beauty,Clothing,Consumer,26160.78,8,0.45,-7848.23
+AMZ100103,2023-03-22,2023-05-05,North,India,Karnataka,Beauty,Laptops,Small Business,6074.16,4,0.47,-1943.73
+AMZ100104,2023-06-12,2023-02-08,East,India,Delhi,Beauty,Furniture,Consumer,46732.38,3,0.4,-11683.1
+AMZ100105,2023-10-16,2023-11-25,East,India,Karnataka,Electronics,Cookware,Consumer,9587.19,1,0.32,-1629.82
+AMZ100106,2023-09-18,2023-09-09,East,India,Gujarat,Beauty,Footwear,Small Business,13011.91,9,0.15,0.0
+AMZ100107,2023-08-19,2023-06-26,East,India,Gujarat,Electronics,Cookware,Small Business,20628.51,6,0.49,-7013.69
+AMZ100108,2023-02-10,2023-04-01,South,India,Telangana,Beauty,Footwear,Corporate,19466.64,6,0.14,194.67
+AMZ100109,2023-01-28,2023-02-07,West,India,Telangana,Electronics,Fiction,Corporate,39835.81,9,0.1,1991.79
+AMZ100110,2023-05-15,2023-11-13,Central,India,Karnataka,Books,Footwear,Corporate,23087.68,1,0.22,-1616.14
+AMZ100111,2023-07-20,2023-06-26,East,India,Delhi,Books,Skincare,Corporate,8953.03,6,0.03,1074.36
+AMZ100112,2023-11-24,2023-10-12,East,India,Karnataka,Home & Kitchen,Mobiles,Small Business,13726.89,5,0.49,-4667.14
+AMZ100113,2023-09-25,2023-03-23,East,India,Gujarat,Electronics,Footwear,Consumer,25701.11,6,0.29,-3598.16
+AMZ100114,2023-02-02,2023-04-25,West,India,Gujarat,Fashion,Footwear,Corporate,7798.97,8,0.28,-1013.87
+AMZ100115,2023-02-17,2023-02-10,North,India,Tamil Nadu,Home & Kitchen,Laptops,Corporate,30776.96,5,0.33,-5539.85
+AMZ100116,2023-03-03,2023-10-29,North,India,Telangana,Books,Clothing,Small Business,28504.49,2,0.25,-2850.45
+AMZ100117,2023-08-04,2023-08-13,South,India,Tamil Nadu,Electronics,Cookware,Small Business,35877.76,2,0.02,4664.11
+AMZ100118,2023-10-20,2023-11-15,North,India,Maharashtra,Beauty,Cookware,Consumer,46916.38,5,0.31,-7506.62
+AMZ100119,2023-04-09,2023-12-16,East,India,Gujarat,Fashion,Fiction,Consumer,45656.6,3,0.36,-9587.89
+AMZ100120,2023-06-21,2023-04-26,East,India,Tamil Nadu,Books,Fiction,Small Business,47330.74,3,0.21,-2839.84
+AMZ100121,2023-12-26,2023-07-06,East,India,Karnataka,Home & Kitchen,Skincare,Corporate,12613.42,8,0.38,-2901.09
+AMZ100122,2023-08-02,2023-11-20,South,India,Telangana,Electronics,Footwear,Corporate,7012.48,7,0.11,280.5
+AMZ100123,2023-02-04,2023-02-26,East,India,Telangana,Fashion,Furniture,Corporate,15462.7,1,0.11,618.51
+AMZ100124,2023-08-15,2023-02-10,North,India,Delhi,Electronics,Cookware,Consumer,44806.72,5,0.08,3136.47
+AMZ100125,2023-04-11,2023-12-21,West,India,Karnataka,Beauty,Fiction,Corporate,48616.65,9,0.19,-1944.67
+AMZ100126,2023-05-11,2023-02-10,West,India,Delhi,Home & Kitchen,Footwear,Corporate,43036.59,4,0.42,-11619.88
+AMZ100127,2023-09-14,2023-12-14,Central,India,Tamil Nadu,Electronics,Fiction,Small Business,5945.88,1,0.41,-1545.93
+AMZ100128,2023-01-05,2023-08-26,North,India,Kerala,Books,Skincare,Corporate,47397.69,8,0.19,-1895.91
+AMZ100129,2023-08-06,2023-10-17,East,India,Maharashtra,Home & Kitchen,Mobiles,Small Business,21456.22,5,0.29,-3003.87
+AMZ100130,2023-09-12,2023-09-20,West,India,Karnataka,Books,Mobiles,Corporate,960.86,2,0.36,-201.78
+AMZ100131,2023-12-25,2023-08-05,North,India,Karnataka,Electronics,Fiction,Consumer,22398.49,1,0.12,671.95
+AMZ100132,2023-10-10,2023-05-28,West,India,Karnataka,Home & Kitchen,Mobiles,Corporate,2780.42,3,0.08,194.63
+AMZ100133,2023-07-26,2023-12-03,East,India,Delhi,Books,Fiction,Corporate,27421.96,9,0.49,-9323.47
+AMZ100134,2023-01-15,2023-06-18,West,India,Tamil Nadu,Beauty,Footwear,Small Business,17258.42,1,0.31,-2761.35
+AMZ100135,2023-12-12,2023-04-03,Central,India,Karnataka,Beauty,Laptops,Small Business,23935.03,4,0.49,-8137.91
+AMZ100136,2023-02-11,2023-12-20,Central,India,Kerala,Electronics,Furniture,Small Business,30851.93,8,0.17,-617.04
+AMZ100137,2023-06-28,2023-03-01,West,India,Karnataka,Home & Kitchen,Footwear,Corporate,43505.65,8,0.35,-8701.13
+AMZ100138,2023-03-04,2023-03-01,North,India,Telangana,Fashion,Laptops,Corporate,33264.13,8,0.11,1330.57
+AMZ100139,2023-12-18,2023-11-01,North,India,Maharashtra,Home & Kitchen,Laptops,Consumer,21985.42,8,0.13,439.71
+AMZ100140,2023-08-19,2023-06-19,North,India,Telangana,Beauty,Cookware,Corporate,41061.68,4,0.26,-4516.78
+AMZ100141,2023-08-29,2023-09-27,West,India,Telangana,Books,Footwear,Consumer,45326.32,8,0.16,-453.26
+AMZ100142,2023-02-21,2023-12-30,North,India,Maharashtra,Fashion,Footwear,Small Business,6428.12,9,0.08,449.97
+AMZ100143,2023-04-06,2023-02-15,East,India,Kerala,Electronics,Fiction,Small Business,26830.68,7,0.13,536.61
+AMZ100144,2023-08-10,2023-12-12,Central,India,Tamil Nadu,Fashion,Laptops,Small Business,14583.34,2,0.02,1895.83
+AMZ100145,2023-08-19,2023-07-01,East,India,Telangana,Electronics,Laptops,Consumer,2829.53,9,0.35,-565.91
+AMZ100146,2023-08-25,2023-06-20,North,India,Tamil Nadu,Fashion,Laptops,Corporate,33593.06,8,0.25,-3359.31
+AMZ100147,2023-05-23,2023-12-23,East,India,Telangana,Electronics,Fiction,Small Business,43207.15,5,0.05,4320.72
+AMZ100148,2023-06-20,2023-07-11,North,India,Gujarat,Electronics,Cookware,Corporate,8563.68,3,0.09,513.82
+AMZ100149,2023-01-29,2023-06-05,West,India,Maharashtra,Fashion,Footwear,Corporate,40714.48,7,0.05,4071.45
+AMZ100150,2023-02-05,2023-07-08,East,India,Telangana,Fashion,Laptops,Small Business,42743.09,2,0.31,-6838.89
+AMZ100151,2023-01-13,2023-01-08,West,India,Gujarat,Electronics,Mobiles,Consumer,45759.85,3,0.05,4575.98
+AMZ100152,2023-06-09,2023-05-14,West,India,Delhi,Beauty,Footwear,Corporate,13631.61,9,0.38,-3135.27
+AMZ100153,2023-11-23,2023-08-24,South,India,Gujarat,Fashion,Fiction,Small Business,45245.68,4,0.01,6334.4
+AMZ100154,2023-07-06,2023-02-15,North,India,Karnataka,Home & Kitchen,Cookware,Corporate,16372.81,4,0.12,491.18
+AMZ100155,2023-08-31,2023-11-11,Central,India,Telangana,Books,Mobiles,Corporate,27840.73,3,0.45,-8352.22
+AMZ100156,2023-03-27,2023-09-07,North,India,Gujarat,Electronics,Fiction,Corporate,3000.12,5,0.36,-630.03
+AMZ100157,2023-10-11,2023-02-01,Central,India,Tamil Nadu,Electronics,Clothing,Corporate,2672.11,3,0.04,293.93
+AMZ100158,2023-03-07,2023-01-24,North,India,Delhi,Books,Footwear,Corporate,36158.47,9,0.41,-9401.2
+AMZ100159,2023-06-19,2023-06-10,West,India,Kerala,Beauty,Clothing,Consumer,22501.76,3,0.25,-2250.18
+AMZ100160,2023-02-14,2023-12-30,East,India,Telangana,Books,Fiction,Consumer,13186.47,2,0.42,-3560.35
+AMZ100161,2023-03-03,2023-06-08,East,India,Karnataka,Fashion,Fiction,Small Business,9925.47,5,0.3,-1488.82
+AMZ100162,2023-05-14,2023-02-09,South,India,Kerala,Books,Fiction,Consumer,33662.7,6,0.34,-6395.91
+AMZ100163,2023-10-11,2023-03-24,Central,India,Gujarat,Electronics,Laptops,Consumer,519.88,1,0.5,-181.96
+AMZ100164,2023-01-28,2023-12-23,Central,India,Kerala,Books,Cookware,Consumer,40391.61,6,0.12,1211.75
+AMZ100165,2023-04-18,2023-09-16,Central,India,Kerala,Home & Kitchen,Laptops,Corporate,4422.86,3,0.31,-707.66
+AMZ100166,2023-02-13,2023-07-26,West,India,Delhi,Fashion,Cookware,Corporate,9978.74,4,0.23,-798.3
+AMZ100167,2023-12-06,2023-03-19,Central,India,Kerala,Books,Furniture,Small Business,19618.7,6,0.02,2550.43
+AMZ100168,2023-10-13,2023-01-13,East,India,Kerala,Electronics,Laptops,Small Business,24500.51,8,0.01,3430.07
+AMZ100169,2023-11-27,2023-10-23,West,India,Telangana,Fashion,Clothing,Small Business,18072.26,9,0.06,1626.5
+AMZ100170,2023-05-08,2023-08-13,North,India,Delhi,Electronics,Cookware,Corporate,16375.25,6,0.32,-2783.79
+AMZ100171,2023-12-14,2023-01-14,Central,India,Karnataka,Beauty,Laptops,Consumer,48213.84,7,0.28,-6267.8
+AMZ100172,2023-08-19,2023-02-16,Central,India,Gujarat,Home & Kitchen,Footwear,Consumer,32258.19,5,0.28,-4193.56
+AMZ100173,2023-07-09,2023-06-05,North,India,Delhi,Beauty,Fiction,Corporate,1659.93,9,0.02,215.79
+AMZ100174,2023-08-13,2023-04-24,Central,India,Delhi,Home & Kitchen,Cookware,Small Business,21793.71,4,0.23,-1743.5
+AMZ100175,2023-10-10,2023-08-22,North,India,Maharashtra,Books,Cookware,Small Business,43812.93,6,0.46,-13582.01
+AMZ100176,2023-05-01,2023-01-18,West,India,Delhi,Fashion,Laptops,Small Business,15422.08,5,0.2,-771.1
+AMZ100177,2023-04-26,2023-12-27,East,India,Maharashtra,Books,Furniture,Corporate,5180.54,1,0.31,-828.89
+AMZ100178,2023-08-21,2023-08-12,North,India,Gujarat,Home & Kitchen,Laptops,Small Business,38040.05,5,0.39,-9129.61
+AMZ100179,2023-09-16,2023-12-21,South,India,Kerala,Home & Kitchen,Skincare,Small Business,30497.68,5,0.39,-7319.44
+AMZ100180,2023-12-25,2023-07-08,North,India,Telangana,Home & Kitchen,Clothing,Corporate,28730.47,9,0.26,-3160.35
+AMZ100181,2023-07-17,2023-12-11,Central,India,Telangana,Electronics,Clothing,Consumer,3152.04,1,0.43,-882.57
+AMZ100182,2023-05-17,2024-01-01,West,India,Gujarat,Fashion,Cookware,Corporate,7454.7,5,0.2,-372.74
+AMZ100183,2023-11-14,2023-06-13,West,India,Gujarat,Books,Cookware,Corporate,31316.2,7,0.44,-9081.7
+AMZ100184,2023-06-14,2023-11-23,North,India,Tamil Nadu,Books,Laptops,Corporate,10787.28,6,0.12,323.62
+AMZ100185,2023-08-13,2023-03-16,East,India,Kerala,Beauty,Clothing,Corporate,25451.47,6,0.14,254.51
+AMZ100186,2023-11-03,2023-08-22,South,India,Gujarat,Home & Kitchen,Clothing,Consumer,27471.64,7,0.03,3296.6
+AMZ100187,2023-08-22,2023-08-13,West,India,Delhi,Home & Kitchen,Furniture,Small Business,14533.61,6,0.4,-3633.4
+AMZ100188,2023-06-21,2023-11-16,Central,India,Telangana,Home & Kitchen,Footwear,Corporate,47447.05,5,0.21,-2846.82
+AMZ100189,2023-06-01,2023-03-02,Central,India,Karnataka,Books,Furniture,Consumer,42201.97,5,0.11,1688.08
+AMZ100190,2023-11-11,2023-12-02,East,India,Telangana,Beauty,Skincare,Small Business,36257.49,9,0.12,1087.72
+AMZ100191,2023-06-09,2023-08-11,West,India,Maharashtra,Electronics,Mobiles,Small Business,4360.7,8,0.45,-1308.21
+AMZ100192,2023-04-06,2023-02-07,North,India,Telangana,Fashion,Fiction,Small Business,5753.44,4,0.42,-1553.43
+AMZ100193,2023-08-21,2023-10-06,Central,India,Tamil Nadu,Electronics,Furniture,Corporate,24892.68,4,0.28,-3236.05
+AMZ100194,2023-06-29,2023-07-16,East,India,Kerala,Books,Skincare,Corporate,8455.31,5,0.31,-1352.85
+AMZ100195,2023-04-23,2023-12-19,West,India,Gujarat,Home & Kitchen,Laptops,Small Business,48924.14,3,0.24,-4403.17
+AMZ100196,2023-11-14,2023-08-31,West,India,Kerala,Fashion,Footwear,Small Business,8346.75,8,0.2,-417.34
+AMZ100197,2023-02-21,2023-11-21,West,India,Gujarat,Books,Laptops,Small Business,24629.66,7,0.46,-7635.19
+AMZ100198,2023-09-25,2023-08-08,West,India,Telangana,Books,Fiction,Small Business,18523.99,5,0.06,1667.16
+AMZ100199,2023-10-22,2023-07-12,West,India,Karnataka,Books,Skincare,Small Business,32149.63,3,0.21,-1928.98
+AMZ100200,2023-04-23,2023-01-18,Central,India,Karnataka,Fashion,Mobiles,Small Business,6887.3,5,0.17,-137.75
+AMZ100201,2023-04-11,2023-01-13,East,India,Tamil Nadu,Fashion,Footwear,Consumer,21800.66,3,0.25,-2180.07
+AMZ100202,2023-04-23,2023-07-13,West,India,Maharashtra,Beauty,Cookware,Small Business,14097.9,5,0.23,-1127.83
+AMZ100203,2023-03-22,2023-01-23,South,India,Telangana,Beauty,Clothing,Corporate,44443.7,1,0.26,-4888.81
+AMZ100204,2023-07-06,2023-05-01,South,India,Gujarat,Electronics,Furniture,Corporate,2508.99,6,0.07,200.72
+AMZ100205,2023-04-23,2023-07-30,East,India,Telangana,Fashion,Skincare,Corporate,45729.51,4,0.26,-5030.25
+AMZ100206,2023-01-02,2023-11-03,North,India,Tamil Nadu,Fashion,Laptops,Small Business,41733.21,4,0.12,1252.0
+AMZ100207,2023-05-10,2023-09-28,North,India,Delhi,Fashion,Mobiles,Corporate,15229.75,8,0.09,913.78
+AMZ100208,2023-08-08,2023-07-12,North,India,Delhi,Beauty,Clothing,Consumer,39569.89,2,0.03,4748.39
+AMZ100209,2023-02-23,2023-06-25,South,India,Tamil Nadu,Books,Furniture,Small Business,2045.07,4,0.38,-470.37
+AMZ100210,2023-12-09,2023-10-13,North,India,Gujarat,Home & Kitchen,Clothing,Corporate,48359.84,2,0.21,-2901.59
+AMZ100211,2023-08-12,2023-07-24,Central,India,Kerala,Beauty,Furniture,Consumer,26566.45,1,0.31,-4250.63
+AMZ100212,2023-08-13,2023-06-14,West,India,Tamil Nadu,Fashion,Skincare,Consumer,15512.41,3,0.36,-3257.61
+AMZ100213,2023-05-06,2023-09-09,South,India,Gujarat,Beauty,Cookware,Corporate,18447.87,8,0.34,-3505.1
+AMZ100214,2023-05-10,2023-08-16,East,India,Karnataka,Electronics,Footwear,Consumer,3787.06,6,0.24,-340.84
+AMZ100215,2023-02-22,2023-01-08,East,India,Tamil Nadu,Fashion,Skincare,Corporate,49472.8,7,0.19,-1978.91
+AMZ100216,2023-06-21,2023-01-30,West,India,Gujarat,Electronics,Clothing,Consumer,2444.95,2,0.19,-97.8
+AMZ100217,2023-08-06,2023-02-03,South,India,Tamil Nadu,Fashion,Clothing,Small Business,32917.9,6,0.32,-5596.04
+AMZ100218,2023-06-09,2023-05-15,North,India,Tamil Nadu,Beauty,Clothing,Small Business,22415.43,8,0.25,-2241.54
+AMZ100219,2023-07-17,2024-01-03,North,India,Kerala,Books,Footwear,Small Business,47471.35,8,0.42,-12817.26
+AMZ100220,2023-09-04,2023-03-21,Central,India,Kerala,Home & Kitchen,Mobiles,Small Business,12676.99,4,0.44,-3676.33
+AMZ100221,2023-11-20,2023-02-28,Central,India,Gujarat,Electronics,Furniture,Small Business,26838.3,6,0.09,1610.3
+AMZ100222,2023-07-22,2023-01-27,North,India,Gujarat,Beauty,Skincare,Corporate,24376.63,5,0.07,1950.13
+AMZ100223,2023-07-03,2023-08-15,East,India,Maharashtra,Books,Skincare,Small Business,35291.89,9,0.32,-5999.62
+AMZ100224,2023-05-03,2023-10-13,East,India,Tamil Nadu,Beauty,Cookware,Small Business,3866.51,8,0.15,0.0
+AMZ100225,2023-09-12,2023-01-05,Central,India,Delhi,Electronics,Clothing,Small Business,10092.56,2,0.01,1412.96
+AMZ100226,2023-10-21,2023-04-10,West,India,Tamil Nadu,Home & Kitchen,Fiction,Small Business,11120.96,7,0.44,-3225.08
+AMZ100227,2023-10-07,2023-02-09,North,India,Tamil Nadu,Beauty,Skincare,Consumer,37038.46,7,0.11,1481.54
+AMZ100228,2023-11-21,2023-09-29,Central,India,Gujarat,Fashion,Footwear,Small Business,9862.37,1,0.46,-3057.33
+AMZ100229,2023-04-08,2023-10-13,Central,India,Tamil Nadu,Books,Mobiles,Small Business,28887.84,1,0.36,-6066.45
+AMZ100230,2023-07-17,2023-06-07,North,India,Telangana,Beauty,Skincare,Corporate,11154.57,4,0.38,-2565.55
+AMZ100231,2023-08-28,2023-03-17,North,India,Tamil Nadu,Books,Furniture,Consumer,43150.44,5,0.1,2157.52
+AMZ100232,2023-05-24,2023-10-16,East,India,Telangana,Fashion,Footwear,Corporate,47138.18,4,0.12,1414.15
+AMZ100233,2023-04-07,2023-05-11,West,India,Kerala,Home & Kitchen,Cookware,Small Business,26165.4,7,0.26,-2878.19
+AMZ100234,2023-07-20,2023-06-25,West,India,Delhi,Home & Kitchen,Cookware,Corporate,17939.29,3,0.09,1076.36
+AMZ100235,2023-05-04,2023-03-26,North,India,Gujarat,Fashion,Furniture,Corporate,12085.86,7,0.15,0.0
+AMZ100236,2023-07-06,2023-01-23,South,India,Tamil Nadu,Books,Clothing,Small Business,2964.16,8,0.16,-29.64
+AMZ100237,2023-11-22,2023-01-28,Central,India,Telangana,Beauty,Cookware,Consumer,13790.75,6,0.08,965.35
+AMZ100238,2023-12-15,2023-07-15,Central,India,Telangana,Fashion,Mobiles,Consumer,32884.67,6,0.1,1644.23
+AMZ100239,2023-09-16,2023-12-04,North,India,Kerala,Electronics,Footwear,Corporate,26914.04,8,0.39,-6459.37
+AMZ100240,2023-05-28,2023-08-25,South,India,Telangana,Books,Skincare,Small Business,47230.04,8,0.08,3306.1
+AMZ100241,2023-09-09,2023-04-03,East,India,Karnataka,Home & Kitchen,Mobiles,Corporate,20115.72,7,0.01,2816.2
+AMZ100242,2023-12-12,2023-01-22,North,India,Maharashtra,Fashion,Clothing,Corporate,34846.24,6,0.31,-5575.4
+AMZ100243,2023-05-27,2023-10-31,North,India,Delhi,Home & Kitchen,Mobiles,Corporate,24721.48,6,0.49,-8405.3
+AMZ100244,2023-05-28,2023-12-24,Central,India,Kerala,Books,Mobiles,Small Business,25872.52,6,0.17,-517.45
+AMZ100245,2023-12-18,2023-03-26,North,India,Kerala,Home & Kitchen,Laptops,Small Business,13754.83,8,0.06,1237.93
+AMZ100246,2023-07-18,2023-09-20,North,India,Tamil Nadu,Fashion,Mobiles,Consumer,23020.06,1,0.29,-3222.81
+AMZ100247,2023-11-04,2023-05-28,North,India,Karnataka,Books,Furniture,Small Business,23803.86,5,0.45,-7141.16
+AMZ100248,2023-05-08,2023-09-15,Central,India,Tamil Nadu,Electronics,Footwear,Corporate,35478.8,3,0.39,-8514.91
+AMZ100249,2023-02-08,2023-02-28,East,India,Tamil Nadu,Fashion,Laptops,Corporate,47061.68,8,0.31,-7529.87
+AMZ100250,2023-12-04,2023-01-16,East,India,Gujarat,Beauty,Footwear,Consumer,16801.4,6,0.16,-168.01
+AMZ100251,2023-12-26,2023-06-12,North,India,Gujarat,Fashion,Footwear,Small Business,2588.92,2,0.27,-310.67
+AMZ100252,2023-05-09,2023-06-13,Central,India,Gujarat,Books,Clothing,Corporate,25066.61,7,0.05,2506.66
+AMZ100253,2023-09-24,2023-11-17,East,India,Karnataka,Fashion,Clothing,Consumer,27450.84,7,0.34,-5215.66
+AMZ100254,2023-05-31,2023-10-09,East,India,Tamil Nadu,Electronics,Laptops,Consumer,8837.81,5,0.36,-1855.94
+AMZ100255,2023-10-25,2023-10-08,East,India,Maharashtra,Electronics,Cookware,Corporate,38143.0,8,0.48,-12587.19
+AMZ100256,2023-04-09,2023-01-13,Central,India,Delhi,Beauty,Fiction,Corporate,49253.99,5,0.13,985.08
+AMZ100257,2023-09-20,2023-10-02,Central,India,Gujarat,Home & Kitchen,Clothing,Small Business,47315.85,1,0.01,6624.22
+AMZ100258,2023-09-09,2023-09-29,North,India,Gujarat,Books,Fiction,Consumer,10256.75,9,0.27,-1230.81
+AMZ100259,2023-05-24,2023-07-28,West,India,Kerala,Books,Clothing,Corporate,43830.48,4,0.35,-8766.1
+AMZ100260,2023-12-12,2023-01-28,East,India,Tamil Nadu,Home & Kitchen,Clothing,Consumer,35372.44,2,0.4,-8843.11
+AMZ100261,2023-04-22,2023-03-14,West,India,Tamil Nadu,Electronics,Footwear,Small Business,22965.4,4,0.1,1148.27
+AMZ100262,2023-03-01,2023-03-02,Central,India,Karnataka,Electronics,Laptops,Corporate,27260.24,9,0.13,545.2
+AMZ100263,2023-01-02,2023-05-26,Central,India,Karnataka,Fashion,Footwear,Small Business,42555.21,2,0.26,-4681.07
+AMZ100264,2023-10-31,2023-04-04,Central,India,Gujarat,Beauty,Skincare,Consumer,24266.68,4,0.17,-485.33
+AMZ100265,2023-09-11,2023-11-06,West,India,Tamil Nadu,Beauty,Furniture,Small Business,18973.76,2,0.43,-5312.65
+AMZ100266,2023-05-20,2023-01-09,Central,India,Maharashtra,Beauty,Footwear,Small Business,24915.75,5,0.24,-2242.42
+AMZ100267,2023-02-06,2023-03-21,North,India,Delhi,Fashion,Fiction,Consumer,29166.93,3,0.4,-7291.73
+AMZ100268,2023-06-09,2023-01-28,Central,India,Tamil Nadu,Beauty,Fiction,Small Business,9859.34,2,0.29,-1380.31
+AMZ100269,2023-01-09,2023-06-24,South,India,Kerala,Home & Kitchen,Furniture,Consumer,45094.93,9,0.39,-10822.78
+AMZ100270,2023-08-21,2023-02-20,West,India,Tamil Nadu,Fashion,Mobiles,Corporate,33872.25,5,0.17,-677.45
+AMZ100271,2023-04-09,2023-07-19,South,India,Telangana,Home & Kitchen,Mobiles,Consumer,31846.81,5,0.42,-8598.64
+AMZ100272,2023-05-27,2023-12-16,Central,India,Karnataka,Fashion,Furniture,Consumer,5425.06,1,0.14,54.25
+AMZ100273,2023-10-31,2023-07-01,North,India,Kerala,Beauty,Furniture,Corporate,30406.61,6,0.27,-3648.79
+AMZ100274,2023-07-27,2023-01-25,East,India,Delhi,Home & Kitchen,Footwear,Consumer,6487.55,7,0.11,259.5
+AMZ100275,2023-05-11,2023-11-13,Central,India,Gujarat,Home & Kitchen,Furniture,Corporate,4395.53,1,0.24,-395.6
+AMZ100276,2023-06-01,2023-02-16,North,India,Kerala,Home & Kitchen,Skincare,Corporate,26601.89,9,0.16,-266.02
+AMZ100277,2023-02-23,2023-01-16,West,India,Tamil Nadu,Fashion,Laptops,Consumer,20437.88,8,0.13,408.76
+AMZ100278,2023-04-30,2023-06-03,South,India,Gujarat,Books,Mobiles,Small Business,29646.11,8,0.48,-9783.22
+AMZ100279,2023-06-10,2023-08-11,South,India,Tamil Nadu,Beauty,Mobiles,Small Business,4916.5,7,0.08,344.16
+AMZ100280,2023-04-26,2023-07-26,South,India,Gujarat,Home & Kitchen,Skincare,Corporate,21833.66,5,0.39,-5240.08
+AMZ100281,2023-03-16,2023-10-01,West,India,Delhi,Books,Cookware,Small Business,9151.94,3,0.49,-3111.66
+AMZ100282,2023-04-23,2023-08-25,North,India,Karnataka,Beauty,Skincare,Small Business,49361.45,9,0.01,6910.6
+AMZ100283,2023-04-14,2023-12-07,West,India,Delhi,Beauty,Skincare,Consumer,28276.94,7,0.35,-5655.39
+AMZ100284,2023-12-06,2023-08-17,South,India,Telangana,Home & Kitchen,Furniture,Corporate,34528.12,8,0.13,690.56
+AMZ100285,2023-09-11,2023-01-10,Central,India,Maharashtra,Home & Kitchen,Clothing,Corporate,16608.2,6,0.02,2159.07
+AMZ100286,2023-08-15,2023-06-16,East,India,Karnataka,Fashion,Clothing,Consumer,5189.58,5,0.2,-259.48
+AMZ100287,2023-04-22,2023-11-16,West,India,Delhi,Books,Skincare,Small Business,48805.61,8,0.47,-15617.8
+AMZ100288,2023-04-09,2023-08-03,West,India,Telangana,Books,Furniture,Corporate,14669.82,3,0.01,2053.77
+AMZ100289,2023-06-02,2023-04-28,North,India,Maharashtra,Home & Kitchen,Laptops,Small Business,21478.51,7,0.29,-3006.99
+AMZ100290,2023-12-15,2023-12-11,North,India,Telangana,Beauty,Clothing,Corporate,32668.26,2,0.25,-3266.83
+AMZ100291,2023-12-04,2023-03-14,West,India,Tamil Nadu,Home & Kitchen,Cookware,Corporate,1722.52,3,0.44,-499.53
+AMZ100292,2023-07-13,2023-03-06,South,India,Tamil Nadu,Beauty,Fiction,Corporate,40607.83,2,0.04,4466.86
+AMZ100293,2023-11-06,2023-07-25,East,India,Gujarat,Beauty,Furniture,Corporate,27060.62,5,0.34,-5141.52
+AMZ100294,2023-06-12,2023-07-29,North,India,Karnataka,Home & Kitchen,Skincare,Small Business,14271.75,7,0.34,-2711.63
+AMZ100295,2023-07-27,2023-03-14,South,India,Tamil Nadu,Electronics,Laptops,Small Business,3549.6,1,0.33,-638.93
+AMZ100296,2023-06-18,2023-10-05,Central,India,Kerala,Books,Laptops,Small Business,8543.67,9,0.47,-2733.97
+AMZ100297,2023-06-10,2023-10-02,North,India,Telangana,Beauty,Footwear,Small Business,44804.18,1,0.41,-11649.09
+AMZ100298,2023-03-09,2023-11-17,South,India,Karnataka,Beauty,Laptops,Consumer,34458.2,1,0.02,4479.57
+AMZ100299,2023-10-16,2023-12-05,South,India,Kerala,Electronics,Clothing,Corporate,12870.14,8,0.24,-1158.31
+AMZ100300,2023-10-04,2024-01-02,East,India,Tamil Nadu,Fashion,Skincare,Corporate,3747.24,6,0.2,-187.36
+AMZ100301,2023-10-31,2023-04-06,East,India,Gujarat,Electronics,Fiction,Corporate,34685.46,6,0.16,-346.85
+AMZ100302,2023-05-15,2023-06-16,Central,India,Delhi,Electronics,Clothing,Consumer,28834.18,9,0.23,-2306.73
+AMZ100303,2023-07-14,2023-02-02,South,India,Gujarat,Beauty,Furniture,Small Business,20523.72,4,0.19,-820.95
+AMZ100304,2023-05-08,2023-01-12,South,India,Kerala,Books,Fiction,Corporate,18498.77,8,0.22,-1294.91
+AMZ100305,2023-02-02,2023-10-29,East,India,Maharashtra,Electronics,Furniture,Small Business,11232.31,4,0.49,-3818.99
+AMZ100306,2023-06-25,2023-08-06,North,India,Tamil Nadu,Fashion,Laptops,Small Business,33645.76,2,0.04,3701.03
+AMZ100307,2023-01-22,2023-10-17,North,India,Kerala,Home & Kitchen,Cookware,Consumer,48548.07,8,0.46,-15049.9
+AMZ100308,2023-08-26,2023-04-13,West,India,Maharashtra,Electronics,Mobiles,Consumer,9197.9,7,0.24,-827.81
+AMZ100309,2023-06-07,2023-09-25,East,India,Maharashtra,Electronics,Fiction,Small Business,30057.27,4,0.31,-4809.16
+AMZ100310,2023-02-07,2023-08-03,West,India,Telangana,Fashion,Skincare,Corporate,21497.16,9,0.42,-5804.23
+AMZ100311,2023-08-18,2023-06-29,East,India,Karnataka,Books,Footwear,Corporate,22611.09,9,0.18,-678.33
+AMZ100312,2023-12-31,2023-03-30,Central,India,Telangana,Electronics,Mobiles,Consumer,13080.29,8,0.22,-915.62
+AMZ100313,2023-02-20,2023-02-11,South,India,Tamil Nadu,Electronics,Laptops,Consumer,41344.18,1,0.2,-2067.21
+AMZ100314,2023-09-21,2023-03-18,Central,India,Maharashtra,Books,Laptops,Consumer,24520.15,7,0.19,-980.81
+AMZ100315,2023-10-10,2023-02-16,East,India,Kerala,Fashion,Skincare,Consumer,27398.59,5,0.46,-8493.56
+AMZ100316,2023-01-27,2023-06-10,South,India,Delhi,Electronics,Mobiles,Consumer,15585.67,7,0.41,-4052.27
+AMZ100317,2023-08-14,2023-03-22,North,India,Maharashtra,Books,Footwear,Consumer,9499.52,9,0.05,949.95
+AMZ100318,2023-10-04,2023-11-07,North,India,Kerala,Electronics,Fiction,Consumer,4752.56,2,0.05,475.26
+AMZ100319,2023-10-13,2023-03-28,West,India,Delhi,Home & Kitchen,Fiction,Corporate,35848.9,4,0.21,-2150.93
+AMZ100320,2023-04-07,2023-04-03,East,India,Telangana,Beauty,Mobiles,Consumer,10213.6,4,0.05,1021.36
+AMZ100321,2023-10-11,2023-05-29,East,India,Telangana,Home & Kitchen,Furniture,Consumer,34658.73,2,0.31,-5545.4
+AMZ100322,2023-11-13,2023-06-11,North,India,Karnataka,Electronics,Clothing,Corporate,19823.63,3,0.07,1585.89
+AMZ100323,2023-10-31,2023-07-22,Central,India,Kerala,Fashion,Cookware,Corporate,21080.85,8,0.26,-2318.89
+AMZ100324,2023-05-27,2023-08-31,South,India,Maharashtra,Beauty,Furniture,Small Business,23724.29,9,0.0,3558.64
+AMZ100325,2023-01-04,2023-12-20,Central,India,Gujarat,Home & Kitchen,Fiction,Consumer,18701.57,6,0.16,-187.02
+AMZ100326,2023-02-04,2023-01-03,Central,India,Telangana,Books,Clothing,Consumer,5480.69,2,0.34,-1041.33
+AMZ100327,2023-07-11,2023-08-14,North,India,Telangana,Fashion,Cookware,Consumer,15826.77,2,0.24,-1424.41
+AMZ100328,2023-02-18,2023-10-17,North,India,Karnataka,Home & Kitchen,Cookware,Consumer,33354.85,7,0.49,-11340.65
+AMZ100329,2023-01-17,2023-08-22,North,India,Delhi,Books,Cookware,Small Business,33456.33,8,0.44,-9702.34
+AMZ100330,2023-06-21,2023-03-19,West,India,Karnataka,Electronics,Laptops,Corporate,14668.1,8,0.18,-440.04
+AMZ100331,2023-08-08,2023-04-27,Central,India,Maharashtra,Books,Skincare,Corporate,23275.08,6,0.02,3025.76
+AMZ100332,2023-06-07,2023-06-04,East,India,Kerala,Home & Kitchen,Cookware,Consumer,10075.64,8,0.42,-2720.42
+AMZ100333,2023-02-15,2023-04-14,South,India,Tamil Nadu,Home & Kitchen,Footwear,Consumer,10913.42,1,0.46,-3383.16
+AMZ100334,2023-01-06,2023-07-14,West,India,Tamil Nadu,Electronics,Mobiles,Consumer,1640.83,9,0.41,-426.62
+AMZ100335,2023-04-09,2023-06-16,East,India,Kerala,Books,Fiction,Small Business,44888.95,1,0.06,4040.01
+AMZ100336,2023-08-21,2023-12-26,Central,India,Delhi,Books,Footwear,Small Business,10929.98,3,0.5,-3825.49
+AMZ100337,2023-02-06,2023-04-01,North,India,Telangana,Electronics,Mobiles,Corporate,11762.93,9,0.13,235.26
+AMZ100338,2023-10-07,2023-06-24,Central,India,Delhi,Books,Furniture,Consumer,14340.27,5,0.36,-3011.46
+AMZ100339,2023-12-15,2023-05-03,South,India,Telangana,Electronics,Skincare,Consumer,6806.7,9,0.45,-2042.01
+AMZ100340,2023-10-29,2023-05-24,West,India,Telangana,Fashion,Furniture,Consumer,32143.51,9,0.12,964.31
+AMZ100341,2023-06-30,2023-04-17,West,India,Tamil Nadu,Home & Kitchen,Mobiles,Consumer,4219.58,6,0.45,-1265.87
+AMZ100342,2023-04-05,2023-11-02,South,India,Delhi,Fashion,Footwear,Small Business,7143.02,1,0.15,0.0
+AMZ100343,2023-04-09,2023-12-27,East,India,Karnataka,Beauty,Mobiles,Corporate,32415.46,7,0.49,-11021.26
+AMZ100344,2023-07-07,2023-11-14,East,India,Telangana,Beauty,Cookware,Corporate,17313.2,6,0.14,173.13
+AMZ100345,2023-04-26,2023-05-04,West,India,Gujarat,Beauty,Laptops,Small Business,35543.42,9,0.48,-11729.33
+AMZ100346,2023-07-10,2023-01-10,West,India,Gujarat,Electronics,Fiction,Consumer,28092.52,7,0.03,3371.1
+AMZ100347,2023-09-10,2023-09-20,North,India,Karnataka,Books,Furniture,Corporate,13173.05,4,0.35,-2634.61
+AMZ100348,2023-06-10,2023-03-15,East,India,Gujarat,Fashion,Fiction,Corporate,32715.98,7,0.27,-3925.92
+AMZ100349,2023-09-13,2023-12-26,South,India,Maharashtra,Fashion,Laptops,Small Business,6255.55,2,0.24,-563.0
+AMZ100350,2023-11-19,2023-08-12,East,India,Telangana,Fashion,Cookware,Consumer,27052.31,6,0.11,1082.09
+AMZ100351,2023-05-08,2023-02-11,North,India,Karnataka,Fashion,Cookware,Corporate,22138.83,6,0.35,-4427.77
+AMZ100352,2023-01-18,2023-07-24,West,India,Delhi,Beauty,Furniture,Consumer,13759.74,2,0.1,687.99
+AMZ100353,2023-10-08,2023-09-22,West,India,Telangana,Fashion,Furniture,Corporate,30398.25,4,0.28,-3951.77
+AMZ100354,2023-08-11,2023-11-25,North,India,Karnataka,Books,Cookware,Small Business,43631.01,8,0.13,872.62
+AMZ100355,2023-02-23,2023-06-28,South,India,Tamil Nadu,Beauty,Clothing,Consumer,49945.78,8,0.48,-16482.11
+AMZ100356,2023-02-27,2023-12-15,West,India,Delhi,Fashion,Fiction,Small Business,30584.26,8,0.01,4281.8
+AMZ100357,2023-11-19,2023-11-15,Central,India,Tamil Nadu,Electronics,Skincare,Corporate,20532.94,8,0.1,1026.65
+AMZ100358,2023-12-26,2023-03-26,West,India,Telangana,Home & Kitchen,Laptops,Small Business,11647.75,1,0.12,349.43
+AMZ100359,2023-06-23,2023-11-15,Central,India,Delhi,Home & Kitchen,Fiction,Small Business,13226.26,2,0.21,-793.58
+AMZ100360,2023-10-07,2023-04-22,North,India,Gujarat,Home & Kitchen,Laptops,Small Business,24233.02,4,0.12,726.99
+AMZ100361,2023-04-24,2023-09-09,North,India,Karnataka,Beauty,Clothing,Corporate,18680.25,9,0.25,-1868.02
+AMZ100362,2023-10-15,2023-01-08,West,India,Telangana,Fashion,Skincare,Consumer,45733.82,3,0.44,-13262.81
+AMZ100363,2023-12-08,2023-03-26,East,India,Maharashtra,Beauty,Footwear,Small Business,18730.63,6,0.36,-3933.43
+AMZ100364,2023-05-31,2023-07-28,Central,India,Delhi,Books,Laptops,Consumer,18985.51,7,0.29,-2657.97
+AMZ100365,2023-05-07,2023-11-11,South,India,Delhi,Electronics,Fiction,Corporate,19484.96,8,0.04,2143.35
+AMZ100366,2023-06-04,2023-01-23,West,India,Kerala,Electronics,Mobiles,Consumer,41912.7,7,0.35,-8382.54
+AMZ100367,2023-09-30,2023-01-04,South,India,Telangana,Home & Kitchen,Skincare,Small Business,32714.02,3,0.08,2289.98
+AMZ100368,2023-04-14,2023-05-08,West,India,Telangana,Home & Kitchen,Cookware,Small Business,30901.36,6,0.39,-7416.33
+AMZ100369,2023-10-26,2023-10-25,East,India,Tamil Nadu,Home & Kitchen,Cookware,Small Business,17040.08,5,0.13,340.8
+AMZ100370,2023-09-03,2023-07-08,East,India,Kerala,Fashion,Clothing,Small Business,40986.26,4,0.21,-2459.18
+AMZ100371,2023-06-25,2023-12-29,East,India,Gujarat,Books,Laptops,Small Business,2399.01,1,0.18,-71.97
+AMZ100372,2023-02-08,2023-01-15,East,India,Tamil Nadu,Books,Footwear,Small Business,43604.46,7,0.43,-12209.25
+AMZ100373,2023-06-19,2023-01-13,North,India,Kerala,Books,Laptops,Corporate,25881.12,8,0.06,2329.3
+AMZ100374,2023-09-04,2023-03-29,North,India,Tamil Nadu,Books,Cookware,Corporate,20213.39,2,0.28,-2627.74
+AMZ100375,2023-01-26,2023-01-13,Central,India,Gujarat,Home & Kitchen,Furniture,Corporate,25109.78,7,0.07,2008.78
+AMZ100376,2023-12-21,2023-01-26,South,India,Kerala,Electronics,Mobiles,Consumer,33537.07,6,0.35,-6707.41
+AMZ100377,2023-11-02,2023-10-29,West,India,Kerala,Home & Kitchen,Skincare,Consumer,1131.89,5,0.45,-339.57
+AMZ100378,2023-01-13,2023-09-01,West,India,Maharashtra,Books,Clothing,Corporate,43641.82,4,0.22,-3054.93
+AMZ100379,2023-11-12,2023-05-03,North,India,Tamil Nadu,Home & Kitchen,Furniture,Consumer,22613.61,2,0.24,-2035.22
+AMZ100380,2023-11-09,2023-05-28,West,India,Tamil Nadu,Books,Fiction,Consumer,17476.84,6,0.46,-5417.82
+AMZ100381,2023-02-05,2023-02-25,North,India,Delhi,Beauty,Footwear,Small Business,7343.16,5,0.26,-807.75
+AMZ100382,2023-06-22,2023-08-27,Central,India,Gujarat,Electronics,Furniture,Small Business,22253.54,2,0.24,-2002.82
+AMZ100383,2023-01-20,2023-12-23,South,India,Karnataka,Beauty,Fiction,Consumer,25067.98,7,0.29,-3509.52
+AMZ100384,2023-11-17,2023-06-23,Central,India,Maharashtra,Fashion,Furniture,Consumer,20480.51,6,0.34,-3891.3
+AMZ100385,2023-09-21,2023-08-10,East,India,Kerala,Home & Kitchen,Footwear,Corporate,34093.67,9,0.05,3409.37
+AMZ100386,2023-05-22,2023-04-30,East,India,Kerala,Fashion,Skincare,Consumer,21334.38,5,0.41,-5546.94
+AMZ100387,2023-05-23,2023-11-06,East,India,Kerala,Home & Kitchen,Furniture,Small Business,48090.17,9,0.22,-3366.31
+AMZ100388,2023-04-02,2023-07-03,Central,India,Maharashtra,Beauty,Clothing,Consumer,30164.24,9,0.04,3318.07
+AMZ100389,2023-12-20,2023-10-16,West,India,Kerala,Books,Cookware,Corporate,40470.16,1,0.39,-9712.84
+AMZ100390,2023-11-18,2023-11-04,South,India,Kerala,Books,Laptops,Small Business,5913.12,5,0.19,-236.52
+AMZ100391,2023-10-15,2023-10-28,East,India,Gujarat,Home & Kitchen,Furniture,Small Business,20165.92,9,0.05,2016.59
+AMZ100392,2023-08-03,2023-03-24,East,India,Telangana,Books,Clothing,Small Business,17173.96,7,0.32,-2919.57
+AMZ100393,2023-12-08,2023-07-31,East,India,Telangana,Beauty,Laptops,Small Business,28689.38,6,0.44,-8319.92
+AMZ100394,2023-02-20,2023-05-31,South,India,Delhi,Books,Skincare,Consumer,43125.12,6,0.44,-12506.28
+AMZ100395,2023-06-02,2023-02-07,East,India,Delhi,Beauty,Fiction,Corporate,4377.74,7,0.48,-1444.65
+AMZ100396,2023-07-05,2023-12-19,South,India,Kerala,Fashion,Laptops,Consumer,4092.45,1,0.43,-1145.89
+AMZ100397,2023-03-04,2023-11-09,East,India,Gujarat,Beauty,Fiction,Consumer,42590.73,4,0.0,6388.61
+AMZ100398,2023-07-09,2023-12-28,Central,India,Kerala,Electronics,Furniture,Small Business,11036.08,1,0.19,-441.44
+AMZ100399,2023-05-05,2023-03-01,Central,India,Delhi,Electronics,Clothing,Corporate,33603.29,6,0.41,-8736.86
+AMZ100400,2023-05-30,2023-05-12,South,India,Maharashtra,Electronics,Cookware,Small Business,27372.47,4,0.18,-821.17
+AMZ100401,2023-11-10,2023-07-22,Central,India,Maharashtra,Home & Kitchen,Furniture,Consumer,41728.23,1,0.3,-6259.23
+AMZ100402,2023-02-27,2023-09-01,South,India,Karnataka,Home & Kitchen,Fiction,Consumer,6691.9,9,0.3,-1003.78
+AMZ100403,2023-12-08,2023-02-05,Central,India,Telangana,Home & Kitchen,Footwear,Small Business,6924.26,4,0.18,-207.73
+AMZ100404,2023-11-01,2023-04-04,Central,India,Gujarat,Beauty,Laptops,Consumer,28062.51,6,0.45,-8418.75
+AMZ100405,2023-06-29,2023-07-27,South,India,Tamil Nadu,Home & Kitchen,Furniture,Consumer,47345.74,7,0.25,-4734.57
+AMZ100406,2023-06-19,2023-12-20,West,India,Telangana,Fashion,Fiction,Small Business,21042.39,8,0.23,-1683.39
+AMZ100407,2023-11-22,2023-11-29,Central,India,Tamil Nadu,Electronics,Skincare,Consumer,16683.63,9,0.5,-5839.27
+AMZ100408,2023-09-28,2023-11-02,East,India,Karnataka,Beauty,Laptops,Corporate,30531.12,9,0.25,-3053.11
+AMZ100409,2023-02-23,2023-12-17,West,India,Karnataka,Electronics,Skincare,Small Business,46557.21,8,0.09,2793.43
+AMZ100410,2023-04-11,2023-08-02,South,India,Kerala,Home & Kitchen,Fiction,Corporate,41927.93,3,0.26,-4612.07
+AMZ100411,2023-09-21,2023-06-09,West,India,Delhi,Beauty,Clothing,Consumer,49776.44,2,0.41,-12941.87
+AMZ100412,2023-02-22,2023-01-25,North,India,Karnataka,Books,Mobiles,Consumer,1617.14,5,0.39,-388.11
+AMZ100413,2023-03-01,2023-10-21,North,India,Karnataka,Fashion,Skincare,Small Business,6086.48,1,0.39,-1460.76
+AMZ100414,2023-04-18,2023-01-05,Central,India,Tamil Nadu,Home & Kitchen,Furniture,Consumer,30668.65,3,0.35,-6133.73
+AMZ100415,2023-01-05,2023-08-09,Central,India,Delhi,Home & Kitchen,Cookware,Small Business,41118.53,1,0.13,822.37
+AMZ100416,2023-04-13,2023-12-31,East,India,Karnataka,Fashion,Furniture,Small Business,14619.59,3,0.43,-4093.49
+AMZ100417,2023-07-15,2023-01-21,West,India,Telangana,Fashion,Laptops,Small Business,12340.95,4,0.45,-3702.29
+AMZ100418,2023-09-19,2023-06-02,North,India,Karnataka,Books,Clothing,Small Business,39455.3,7,0.1,1972.76
+AMZ100419,2023-12-31,2023-02-20,Central,India,Delhi,Home & Kitchen,Fiction,Small Business,3290.9,5,0.07,263.27
+AMZ100420,2023-12-16,2023-06-27,West,India,Kerala,Home & Kitchen,Footwear,Corporate,18784.44,5,0.49,-6386.71
+AMZ100421,2023-02-16,2023-04-07,Central,India,Gujarat,Electronics,Cookware,Small Business,25537.56,1,0.43,-7150.52
+AMZ100422,2023-12-21,2023-04-16,Central,India,Delhi,Beauty,Clothing,Corporate,28237.26,8,0.45,-8471.18
+AMZ100423,2023-11-07,2023-09-08,North,India,Tamil Nadu,Beauty,Skincare,Consumer,36566.45,4,0.44,-10604.27
+AMZ100424,2023-11-04,2023-04-28,North,India,Gujarat,Electronics,Skincare,Small Business,18064.86,5,0.27,-2167.78
+AMZ100425,2023-05-24,2023-12-21,Central,India,Telangana,Beauty,Furniture,Consumer,30827.88,2,0.32,-5240.74
+AMZ100426,2023-09-26,2023-08-17,South,India,Maharashtra,Fashion,Footwear,Small Business,29476.08,1,0.27,-3537.13
+AMZ100427,2023-05-04,2023-03-08,Central,India,Delhi,Beauty,Clothing,Corporate,27607.0,9,0.03,3312.84
+AMZ100428,2023-04-16,2023-12-02,Central,India,Kerala,Beauty,Mobiles,Corporate,32203.92,2,0.37,-7084.86
+AMZ100429,2023-06-07,2023-09-20,East,India,Tamil Nadu,Electronics,Cookware,Corporate,13342.73,6,0.25,-1334.27
+AMZ100430,2023-05-27,2023-10-23,East,India,Telangana,Books,Laptops,Consumer,4690.11,1,0.32,-797.32
+AMZ100431,2023-05-25,2023-09-01,East,India,Gujarat,Beauty,Clothing,Small Business,6403.95,1,0.25,-640.4
+AMZ100432,2023-04-30,2023-07-06,South,India,Telangana,Beauty,Clothing,Consumer,11616.83,9,0.25,-1161.68
+AMZ100433,2023-11-15,2023-09-04,South,India,Delhi,Books,Mobiles,Corporate,25259.8,4,0.09,1515.59
+AMZ100434,2023-10-02,2023-05-06,Central,India,Karnataka,Electronics,Furniture,Consumer,42101.92,9,0.14,421.02
+AMZ100435,2023-04-02,2023-09-26,East,India,Kerala,Books,Fiction,Corporate,35214.02,5,0.08,2464.98
+AMZ100436,2023-02-27,2023-05-12,South,India,Delhi,Electronics,Fiction,Corporate,39557.51,7,0.1,1977.88
+AMZ100437,2023-12-12,2023-08-26,North,India,Maharashtra,Fashion,Cookware,Corporate,17873.29,1,0.49,-6076.92
+AMZ100438,2023-08-17,2023-01-19,Central,India,Delhi,Electronics,Cookware,Small Business,20530.36,6,0.08,1437.13
+AMZ100439,2023-04-27,2023-02-10,West,India,Gujarat,Fashion,Laptops,Small Business,19987.25,8,0.13,399.74
+AMZ100440,2023-11-14,2023-01-22,Central,India,Gujarat,Fashion,Clothing,Corporate,9997.72,1,0.3,-1499.66
+AMZ100441,2023-10-06,2023-08-14,West,India,Delhi,Electronics,Footwear,Consumer,3530.22,9,0.31,-564.84
+AMZ100442,2023-05-07,2023-12-22,East,India,Gujarat,Home & Kitchen,Clothing,Consumer,29750.35,3,0.08,2082.52
+AMZ100443,2023-05-09,2023-10-10,West,India,Karnataka,Electronics,Fiction,Small Business,49466.23,1,0.4,-12366.56
+AMZ100444,2023-02-27,2023-01-09,East,India,Telangana,Beauty,Laptops,Corporate,8758.07,1,0.39,-2101.94
+AMZ100445,2023-05-02,2023-04-11,North,India,Delhi,Beauty,Clothing,Consumer,2810.9,6,0.12,84.33
+AMZ100446,2023-01-01,2023-08-29,West,India,Kerala,Home & Kitchen,Mobiles,Corporate,39086.82,6,0.14,390.87
+AMZ100447,2023-08-27,2023-03-29,Central,India,Karnataka,Fashion,Fiction,Consumer,13003.01,1,0.47,-4160.96
+AMZ100448,2023-10-17,2023-10-26,East,India,Telangana,Home & Kitchen,Clothing,Small Business,41567.37,3,0.41,-10807.52
+AMZ100449,2023-04-06,2023-01-15,Central,India,Kerala,Beauty,Clothing,Corporate,35344.87,7,0.35,-7068.97
+AMZ100450,2023-05-06,2023-12-01,South,India,Kerala,Home & Kitchen,Fiction,Corporate,47310.84,3,0.04,5204.19
+AMZ100451,2023-04-28,2023-01-03,East,India,Kerala,Electronics,Footwear,Consumer,20741.9,3,0.21,-1244.51
+AMZ100452,2023-02-17,2023-10-21,West,India,Telangana,Home & Kitchen,Fiction,Consumer,33267.51,3,0.28,-4324.78
+AMZ100453,2023-03-30,2023-11-22,East,India,Karnataka,Fashion,Mobiles,Consumer,23510.31,7,0.09,1410.62
+AMZ100454,2023-08-25,2023-02-11,Central,India,Kerala,Electronics,Mobiles,Corporate,31714.14,4,0.22,-2219.99
+AMZ100455,2023-09-29,2023-11-15,North,India,Kerala,Books,Clothing,Small Business,22755.15,4,0.3,-3413.27
+AMZ100456,2023-07-08,2023-11-13,East,India,Tamil Nadu,Beauty,Cookware,Small Business,9837.3,3,0.16,-98.37
+AMZ100457,2023-07-11,2023-04-22,West,India,Delhi,Beauty,Footwear,Consumer,25640.92,9,0.39,-6153.82
+AMZ100458,2023-03-10,2023-01-15,South,India,Telangana,Home & Kitchen,Clothing,Small Business,26664.92,2,0.42,-7199.53
+AMZ100459,2023-10-05,2023-08-20,North,India,Telangana,Electronics,Fiction,Consumer,40624.89,4,0.16,-406.25
+AMZ100460,2023-12-15,2023-03-26,South,India,Gujarat,Books,Clothing,Small Business,36908.27,8,0.42,-9965.23
+AMZ100461,2023-09-04,2023-05-11,East,India,Telangana,Electronics,Laptops,Corporate,33357.69,6,0.05,3335.77
+AMZ100462,2023-03-17,2023-08-20,Central,India,Karnataka,Beauty,Laptops,Consumer,6112.66,7,0.42,-1650.42
+AMZ100463,2023-06-03,2023-11-23,Central,India,Telangana,Electronics,Cookware,Small Business,36170.51,7,0.08,2531.94
+AMZ100464,2023-05-24,2023-05-26,West,India,Tamil Nadu,Books,Footwear,Corporate,25265.11,2,0.04,2779.16
+AMZ100465,2023-03-27,2023-12-12,Central,India,Delhi,Home & Kitchen,Furniture,Small Business,44757.93,4,0.32,-7608.85
+AMZ100466,2023-07-04,2023-01-29,North,India,Delhi,Fashion,Skincare,Corporate,46033.61,6,0.24,-4143.02
+AMZ100467,2023-10-12,2023-03-08,Central,India,Telangana,Electronics,Laptops,Corporate,3230.25,3,0.45,-969.08
+AMZ100468,2023-08-08,2023-06-13,West,India,Kerala,Fashion,Furniture,Small Business,41121.76,9,0.18,-1233.65
+AMZ100469,2023-03-10,2023-08-18,East,India,Maharashtra,Beauty,Mobiles,Small Business,2366.02,4,0.14,23.66
+AMZ100470,2023-02-16,2023-09-19,East,India,Maharashtra,Home & Kitchen,Laptops,Corporate,18674.9,2,0.25,-1867.49
+AMZ100471,2023-04-04,2023-06-14,Central,India,Kerala,Home & Kitchen,Laptops,Corporate,27343.85,6,0.23,-2187.51
+AMZ100472,2023-08-26,2023-10-29,South,India,Kerala,Electronics,Footwear,Corporate,7830.99,1,0.17,-156.62
+AMZ100473,2023-07-23,2023-10-31,East,India,Kerala,Home & Kitchen,Cookware,Consumer,37442.53,6,0.35,-7488.51
+AMZ100474,2023-08-06,2023-10-15,Central,India,Karnataka,Electronics,Furniture,Corporate,913.56,1,0.38,-210.12
+AMZ100475,2023-12-07,2023-01-11,West,India,Maharashtra,Electronics,Fiction,Consumer,8845.65,8,0.43,-2476.78
+AMZ100476,2023-02-08,2023-07-15,Central,India,Kerala,Fashion,Laptops,Corporate,29249.44,5,0.49,-9944.81
+AMZ100477,2023-04-10,2023-04-29,East,India,Karnataka,Home & Kitchen,Laptops,Consumer,35862.18,6,0.13,717.24
+AMZ100478,2023-10-16,2023-09-28,West,India,Gujarat,Electronics,Footwear,Corporate,45873.83,2,0.36,-9633.5
+AMZ100479,2023-09-11,2023-03-22,Central,India,Karnataka,Fashion,Footwear,Corporate,35422.08,2,0.2,-1771.1
+AMZ100480,2023-08-10,2023-04-04,North,India,Maharashtra,Books,Cookware,Corporate,33753.07,9,0.34,-6413.08
+AMZ100481,2023-12-23,2023-09-24,West,India,Telangana,Fashion,Furniture,Small Business,20019.89,3,0.24,-1801.79
+AMZ100482,2023-01-23,2023-11-29,North,India,Gujarat,Fashion,Mobiles,Small Business,563.58,6,0.5,-197.25
+AMZ100483,2023-09-07,2023-12-17,South,India,Maharashtra,Electronics,Fiction,Corporate,6447.88,5,0.36,-1354.05
+AMZ100484,2023-01-10,2023-12-28,West,India,Karnataka,Beauty,Cookware,Consumer,26960.45,4,0.48,-8896.95
+AMZ100485,2023-09-03,2023-09-15,North,India,Tamil Nadu,Beauty,Skincare,Consumer,33918.93,2,0.42,-9158.11
+AMZ100486,2023-11-21,2023-05-14,East,India,Delhi,Beauty,Mobiles,Corporate,21163.69,8,0.45,-6349.11
+AMZ100487,2023-04-10,2023-10-04,East,India,Maharashtra,Fashion,Clothing,Small Business,36668.61,7,0.41,-9533.84
+AMZ100488,2023-10-17,2023-09-22,South,India,Kerala,Electronics,Laptops,Consumer,26332.18,2,0.23,-2106.57
+AMZ100489,2023-06-29,2023-06-21,West,India,Karnataka,Home & Kitchen,Furniture,Small Business,4171.72,6,0.13,83.43
+AMZ100490,2023-08-11,2023-01-02,West,India,Kerala,Fashion,Cookware,Consumer,10004.8,8,0.19,-400.19
+AMZ100491,2023-09-07,2023-11-10,West,India,Kerala,Fashion,Laptops,Corporate,42079.91,7,0.01,5891.19
+AMZ100492,2023-05-27,2023-03-06,South,India,Kerala,Electronics,Furniture,Small Business,36383.18,1,0.26,-4002.15
+AMZ100493,2023-04-06,2023-10-12,West,India,Kerala,Books,Furniture,Consumer,44790.72,5,0.25,-4479.07
+AMZ100494,2023-09-14,2023-05-02,East,India,Kerala,Fashion,Furniture,Corporate,6319.08,2,0.26,-695.1
+AMZ100495,2023-11-21,2023-04-18,North,India,Gujarat,Books,Laptops,Corporate,49516.02,6,0.49,-16835.45
+AMZ100496,2023-01-04,2023-06-25,East,India,Maharashtra,Books,Cookware,Corporate,10865.63,7,0.46,-3368.35
+AMZ100497,2023-01-16,2023-07-24,East,India,Maharashtra,Beauty,Fiction,Small Business,1083.1,7,0.08,75.82
+AMZ100498,2023-10-07,2023-06-15,North,India,Delhi,Electronics,Footwear,Small Business,49872.44,3,0.18,-1496.17
+AMZ100499,2023-12-02,2023-11-02,East,India,Karnataka,Books,Laptops,Corporate,14413.16,7,0.21,-864.79
+AMZ100500,2023-09-04,2023-05-01,South,India,Tamil Nadu,Electronics,Skincare,Small Business,33566.96,5,0.18,-1007.01
+AMZ100501,2023-09-15,2023-02-14,North,India,Gujarat,Beauty,Furniture,Consumer,9245.77,8,0.4,-2311.44
+AMZ100502,2023-06-09,2023-11-09,East,India,Karnataka,Electronics,Cookware,Corporate,29221.31,8,0.26,-3214.34
+AMZ100503,2023-12-06,2023-06-06,Central,India,Gujarat,Fashion,Fiction,Corporate,45249.73,7,0.29,-6334.96
+AMZ100504,2023-06-01,2024-01-03,East,India,Maharashtra,Books,Clothing,Small Business,16348.97,6,0.43,-4577.71
+AMZ100505,2023-06-27,2023-07-27,South,India,Kerala,Electronics,Skincare,Corporate,33677.57,2,0.4,-8419.39
+AMZ100506,2023-06-12,2023-04-19,West,India,Delhi,Home & Kitchen,Mobiles,Consumer,9801.23,6,0.07,784.1
+AMZ100507,2023-02-02,2023-09-09,East,India,Delhi,Electronics,Skincare,Small Business,31427.37,9,0.36,-6599.75
+AMZ100508,2023-06-28,2023-12-01,West,India,Telangana,Books,Furniture,Small Business,17154.29,2,0.22,-1200.8
+AMZ100509,2023-04-11,2023-05-11,Central,India,Tamil Nadu,Beauty,Clothing,Corporate,10954.81,1,0.15,0.0
+AMZ100510,2023-09-25,2023-10-21,East,India,Delhi,Beauty,Footwear,Corporate,16002.51,5,0.03,1920.3
+AMZ100511,2023-11-19,2023-01-21,North,India,Kerala,Books,Fiction,Corporate,9352.63,6,0.24,-841.74
+AMZ100512,2023-03-06,2023-10-10,West,India,Maharashtra,Fashion,Fiction,Small Business,45144.85,3,0.18,-1354.35
+AMZ100513,2023-06-17,2023-10-13,Central,India,Tamil Nadu,Fashion,Furniture,Corporate,20160.75,8,0.13,403.21
+AMZ100514,2023-11-26,2023-01-02,North,India,Karnataka,Beauty,Skincare,Consumer,12641.33,7,0.35,-2528.27
+AMZ100515,2023-02-12,2023-04-30,North,India,Kerala,Beauty,Skincare,Corporate,22696.19,2,0.38,-5220.12
+AMZ100516,2023-02-13,2023-02-05,North,India,Kerala,Books,Fiction,Corporate,16366.54,7,0.12,491.0
+AMZ100517,2023-10-12,2023-07-18,North,India,Delhi,Fashion,Clothing,Small Business,37348.75,1,0.02,4855.34
+AMZ100518,2023-01-12,2023-09-03,East,India,Tamil Nadu,Beauty,Furniture,Corporate,48575.39,9,0.42,-13115.36
+AMZ100519,2023-04-05,2023-03-01,East,India,Maharashtra,Fashion,Laptops,Small Business,22182.67,7,0.0,3327.4
+AMZ100520,2023-10-29,2023-11-22,East,India,Telangana,Beauty,Cookware,Corporate,43121.15,6,0.47,-13798.77
+AMZ100521,2023-09-10,2023-06-11,Central,India,Gujarat,Electronics,Clothing,Consumer,28510.22,2,0.31,-4561.64
+AMZ100522,2023-08-30,2023-06-29,Central,India,Gujarat,Home & Kitchen,Cookware,Consumer,8283.17,3,0.16,-82.83
+AMZ100523,2023-02-04,2023-07-26,Central,India,Maharashtra,Electronics,Laptops,Small Business,34685.83,1,0.12,1040.57
+AMZ100524,2023-08-03,2023-01-13,South,India,Maharashtra,Beauty,Laptops,Small Business,25915.01,5,0.0,3887.25
+AMZ100525,2023-12-03,2023-10-04,Central,India,Gujarat,Home & Kitchen,Cookware,Corporate,32705.02,9,0.12,981.15
+AMZ100526,2023-03-31,2023-07-01,East,India,Telangana,Home & Kitchen,Clothing,Corporate,44539.53,6,0.07,3563.16
+AMZ100527,2023-09-21,2023-08-31,East,India,Tamil Nadu,Beauty,Cookware,Consumer,22301.51,5,0.31,-3568.24
+AMZ100528,2023-04-03,2023-08-05,South,India,Gujarat,Beauty,Cookware,Corporate,45108.29,3,0.08,3157.58
+AMZ100529,2023-03-31,2023-09-09,South,India,Maharashtra,Fashion,Mobiles,Consumer,37658.12,5,0.26,-4142.39
+AMZ100530,2023-04-25,2023-10-27,Central,India,Delhi,Beauty,Clothing,Small Business,24685.94,8,0.3,-3702.89
+AMZ100531,2023-04-15,2023-05-07,West,India,Karnataka,Books,Skincare,Corporate,30359.5,2,0.15,0.0
+AMZ100532,2023-07-15,2023-08-06,South,India,Telangana,Beauty,Skincare,Small Business,16616.27,5,0.02,2160.12
+AMZ100533,2023-11-10,2023-11-03,North,India,Kerala,Books,Mobiles,Corporate,49188.07,6,0.02,6394.45
+AMZ100534,2023-04-24,2023-10-13,East,India,Telangana,Beauty,Furniture,Consumer,33533.88,8,0.01,4694.74
+AMZ100535,2023-03-16,2023-07-05,North,India,Delhi,Fashion,Fiction,Small Business,2670.42,8,0.37,-587.49
+AMZ100536,2023-08-05,2023-02-09,East,India,Delhi,Books,Skincare,Small Business,16667.78,5,0.16,-166.68
+AMZ100537,2023-10-04,2023-08-12,East,India,Kerala,Electronics,Cookware,Corporate,31354.06,9,0.4,-7838.52
+AMZ100538,2023-09-06,2023-07-04,South,India,Maharashtra,Books,Furniture,Small Business,3288.5,4,0.22,-230.2
+AMZ100539,2023-06-13,2023-06-28,South,India,Gujarat,Fashion,Skincare,Consumer,1682.27,9,0.23,-134.58
+AMZ100540,2023-12-23,2023-10-22,North,India,Tamil Nadu,Books,Clothing,Small Business,22776.2,7,0.26,-2505.38
+AMZ100541,2023-07-11,2023-12-07,East,India,Telangana,Beauty,Cookware,Small Business,16968.16,6,0.36,-3563.31
+AMZ100542,2023-08-15,2023-06-01,North,India,Kerala,Beauty,Fiction,Corporate,22195.78,4,0.14,221.96
+AMZ100543,2023-06-26,2023-05-07,West,India,Telangana,Fashion,Furniture,Small Business,13503.32,2,0.06,1215.3
+AMZ100544,2023-04-09,2023-10-29,North,India,Delhi,Home & Kitchen,Skincare,Corporate,8653.53,8,0.28,-1124.96
+AMZ100545,2023-02-05,2023-11-05,Central,India,Gujarat,Beauty,Skincare,Corporate,34612.6,6,0.16,-346.13
+AMZ100546,2023-04-06,2023-12-03,North,India,Telangana,Electronics,Footwear,Small Business,25971.27,3,0.22,-1817.99
+AMZ100547,2023-06-01,2023-08-23,Central,India,Tamil Nadu,Fashion,Skincare,Consumer,10407.63,7,0.32,-1769.3
+AMZ100548,2023-05-31,2023-01-09,Central,India,Delhi,Books,Laptops,Corporate,16319.68,7,0.25,-1631.97
+AMZ100549,2023-07-09,2023-12-08,Central,India,Tamil Nadu,Books,Cookware,Small Business,29794.49,6,0.31,-4767.12
+AMZ100550,2023-08-12,2023-05-10,West,India,Gujarat,Electronics,Fiction,Corporate,4075.35,2,0.27,-489.04
+AMZ100551,2023-02-06,2023-09-22,North,India,Telangana,Beauty,Laptops,Consumer,7798.92,8,0.37,-1715.76
+AMZ100552,2023-09-25,2023-06-07,North,India,Karnataka,Fashion,Mobiles,Consumer,4125.66,1,0.35,-825.13
+AMZ100553,2023-07-02,2023-12-19,West,India,Telangana,Electronics,Furniture,Corporate,40709.71,1,0.27,-4885.17
+AMZ100554,2023-01-13,2023-12-25,East,India,Gujarat,Beauty,Skincare,Consumer,37744.26,6,0.34,-7171.41
+AMZ100555,2023-10-06,2023-01-06,South,India,Telangana,Fashion,Mobiles,Small Business,37788.99,5,0.44,-10958.81
+AMZ100556,2023-08-05,2023-03-28,North,India,Kerala,Books,Fiction,Small Business,35958.1,9,0.22,-2517.07
+AMZ100557,2023-12-21,2023-06-25,South,India,Telangana,Fashion,Cookware,Corporate,33634.58,7,0.21,-2018.07
+AMZ100558,2023-12-27,2023-10-18,West,India,Maharashtra,Home & Kitchen,Laptops,Consumer,24111.1,2,0.38,-5545.55
+AMZ100559,2023-10-13,2023-07-13,East,India,Telangana,Fashion,Laptops,Small Business,32292.77,7,0.29,-4520.99
+AMZ100560,2023-09-30,2023-11-08,East,India,Telangana,Home & Kitchen,Furniture,Small Business,2398.9,3,0.04,263.88
+AMZ100561,2023-03-03,2023-04-30,East,India,Tamil Nadu,Fashion,Cookware,Small Business,31262.49,1,0.45,-9378.75
+AMZ100562,2023-03-25,2023-08-07,West,India,Karnataka,Home & Kitchen,Skincare,Corporate,39004.95,8,0.02,5070.64
+AMZ100563,2023-08-05,2023-04-25,Central,India,Tamil Nadu,Books,Footwear,Corporate,25267.74,3,0.37,-5558.9
+AMZ100564,2023-12-08,2023-05-26,Central,India,Tamil Nadu,Beauty,Footwear,Small Business,18196.91,8,0.38,-4185.29
+AMZ100565,2023-07-06,2023-01-27,South,India,Delhi,Home & Kitchen,Furniture,Small Business,14232.62,7,0.48,-4696.76
+AMZ100566,2023-01-19,2023-05-17,Central,India,Maharashtra,Home & Kitchen,Cookware,Consumer,32318.7,2,0.03,3878.24
+AMZ100567,2023-06-26,2023-10-31,Central,India,Tamil Nadu,Books,Furniture,Consumer,34793.66,1,0.3,-5219.05
+AMZ100568,2023-04-10,2023-08-21,East,India,Kerala,Home & Kitchen,Cookware,Consumer,43612.9,7,0.21,-2616.77
+AMZ100569,2023-08-21,2024-01-05,East,India,Gujarat,Electronics,Fiction,Corporate,17445.54,1,0.17,-348.91
+AMZ100570,2023-03-17,2023-03-18,South,India,Kerala,Books,Fiction,Small Business,38603.73,6,0.05,3860.37
+AMZ100571,2023-09-22,2023-11-25,North,India,Gujarat,Electronics,Mobiles,Corporate,28287.11,8,0.28,-3677.32
+AMZ100572,2023-10-11,2023-12-12,South,India,Telangana,Books,Skincare,Small Business,44200.41,7,0.24,-3978.04
+AMZ100573,2023-07-25,2023-10-30,South,India,Delhi,Home & Kitchen,Furniture,Consumer,26626.7,4,0.05,2662.67
+AMZ100574,2023-08-11,2023-10-17,West,India,Maharashtra,Electronics,Skincare,Consumer,26122.68,1,0.31,-4179.63
+AMZ100575,2023-02-21,2023-01-02,West,India,Kerala,Home & Kitchen,Cookware,Consumer,29104.92,1,0.37,-6403.08
+AMZ100576,2023-12-05,2023-05-28,South,India,Maharashtra,Books,Footwear,Consumer,37591.11,4,0.38,-8645.96
+AMZ100577,2023-05-24,2023-10-15,South,India,Kerala,Home & Kitchen,Skincare,Small Business,48252.18,5,0.45,-14475.65
+AMZ100578,2023-03-10,2023-05-23,South,India,Telangana,Electronics,Cookware,Consumer,4141.39,7,0.2,-207.07
+AMZ100579,2023-04-09,2023-02-23,Central,India,Gujarat,Electronics,Fiction,Small Business,3145.01,4,0.48,-1037.85
+AMZ100580,2023-01-25,2023-11-01,West,India,Karnataka,Home & Kitchen,Cookware,Small Business,46908.74,1,0.43,-13134.45
+AMZ100581,2023-02-22,2023-03-11,South,India,Delhi,Fashion,Furniture,Corporate,26728.84,7,0.15,0.0
+AMZ100582,2023-05-31,2023-12-28,East,India,Kerala,Books,Mobiles,Consumer,30937.7,2,0.08,2165.64
+AMZ100583,2023-05-24,2023-04-01,East,India,Kerala,Books,Mobiles,Consumer,24379.97,2,0.22,-1706.6
+AMZ100584,2023-02-26,2023-08-09,Central,India,Telangana,Home & Kitchen,Mobiles,Corporate,5136.04,8,0.2,-256.8
+AMZ100585,2023-02-08,2023-07-12,Central,India,Delhi,Fashion,Mobiles,Small Business,38520.42,5,0.29,-5392.86
+AMZ100586,2023-04-19,2023-03-05,North,India,Gujarat,Electronics,Fiction,Consumer,37487.62,2,0.29,-5248.27
+AMZ100587,2023-06-30,2023-03-15,North,India,Gujarat,Beauty,Clothing,Small Business,15929.31,5,0.37,-3504.45
+AMZ100588,2023-02-11,2023-06-11,North,India,Kerala,Beauty,Skincare,Corporate,15658.84,8,0.25,-1565.88
+AMZ100589,2023-07-05,2023-06-19,Central,India,Karnataka,Home & Kitchen,Furniture,Small Business,41973.15,6,0.05,4197.31
+AMZ100590,2023-08-11,2023-03-31,Central,India,Karnataka,Fashion,Laptops,Consumer,4081.68,3,0.43,-1142.87
+AMZ100591,2023-05-02,2023-06-26,Central,India,Maharashtra,Fashion,Furniture,Small Business,44114.7,8,0.15,0.0
+AMZ100592,2023-05-13,2023-09-27,East,India,Delhi,Books,Clothing,Small Business,13204.75,9,0.49,-4489.62
+AMZ100593,2023-06-12,2023-03-15,Central,India,Delhi,Electronics,Mobiles,Consumer,29852.75,5,0.06,2686.75
+AMZ100594,2023-08-03,2023-09-03,East,India,Gujarat,Fashion,Clothing,Consumer,46831.71,2,0.48,-15454.46
+AMZ100595,2023-08-09,2023-03-19,North,India,Maharashtra,Beauty,Footwear,Small Business,34067.06,2,0.05,3406.71
+AMZ100596,2023-08-23,2023-06-09,North,India,Telangana,Electronics,Footwear,Small Business,21014.28,7,0.12,630.43
+AMZ100597,2023-11-27,2023-11-21,North,India,Delhi,Electronics,Skincare,Corporate,34631.94,1,0.02,4502.15
+AMZ100598,2023-05-26,2023-04-09,South,India,Maharashtra,Home & Kitchen,Fiction,Consumer,17526.99,2,0.35,-3505.4
+AMZ100599,2023-08-27,2023-04-13,South,India,Maharashtra,Fashion,Furniture,Small Business,14224.29,4,0.43,-3982.8
+AMZ100600,2023-03-17,2023-05-13,West,India,Kerala,Home & Kitchen,Furniture,Consumer,49835.82,1,0.22,-3488.51
+AMZ100601,2023-01-09,2023-04-13,West,India,Gujarat,Fashion,Laptops,Corporate,37664.12,4,0.46,-11675.88
+AMZ100602,2023-03-15,2023-01-20,West,India,Maharashtra,Books,Fiction,Small Business,32413.64,5,0.3,-4862.05
+AMZ100603,2023-09-10,2023-03-24,South,India,Karnataka,Home & Kitchen,Laptops,Small Business,18086.84,9,0.32,-3074.76
+AMZ100604,2023-08-18,2023-10-07,South,India,Karnataka,Home & Kitchen,Footwear,Small Business,2933.46,1,0.42,-792.03
+AMZ100605,2023-01-07,2023-12-06,West,India,Tamil Nadu,Beauty,Mobiles,Consumer,2037.32,5,0.15,0.0
+AMZ100606,2023-06-23,2024-01-01,West,India,Gujarat,Home & Kitchen,Clothing,Corporate,27931.97,2,0.18,-837.96
+AMZ100607,2023-05-21,2023-11-28,Central,India,Kerala,Fashion,Laptops,Consumer,38220.62,9,0.45,-11466.19
+AMZ100608,2023-06-17,2023-05-10,West,India,Telangana,Beauty,Cookware,Small Business,27100.27,6,0.45,-8130.08
+AMZ100609,2023-06-19,2023-12-11,Central,India,Tamil Nadu,Home & Kitchen,Laptops,Corporate,42118.86,2,0.49,-14320.41
+AMZ100610,2023-10-10,2023-11-07,East,India,Karnataka,Home & Kitchen,Mobiles,Small Business,2154.61,3,0.45,-646.38
+AMZ100611,2023-05-02,2023-03-31,South,India,Kerala,Books,Mobiles,Small Business,18654.23,8,0.06,1678.88
+AMZ100612,2023-07-13,2023-08-02,West,India,Tamil Nadu,Home & Kitchen,Furniture,Consumer,12234.98,1,0.41,-3181.09
+AMZ100613,2023-01-05,2023-05-24,South,India,Gujarat,Electronics,Clothing,Small Business,22640.01,3,0.2,-1132.0
+AMZ100614,2023-01-29,2023-03-07,South,India,Kerala,Beauty,Mobiles,Corporate,4082.63,1,0.5,-1428.92
+AMZ100615,2023-06-14,2023-03-18,South,India,Gujarat,Electronics,Fiction,Small Business,47729.52,8,0.24,-4295.66
+AMZ100616,2023-12-05,2023-07-19,East,India,Maharashtra,Beauty,Laptops,Small Business,11551.14,1,0.28,-1501.65
+AMZ100617,2023-05-16,2023-05-24,North,India,Delhi,Books,Laptops,Consumer,46154.23,5,0.26,-5076.97
+AMZ100618,2023-12-31,2023-11-13,West,India,Maharashtra,Home & Kitchen,Footwear,Corporate,21581.71,4,0.16,-215.82
+AMZ100619,2023-11-17,2023-04-04,North,India,Gujarat,Home & Kitchen,Mobiles,Consumer,49283.44,7,0.04,5421.18
+AMZ100620,2023-12-08,2023-11-02,North,India,Kerala,Home & Kitchen,Cookware,Small Business,27925.89,5,0.45,-8377.77
+AMZ100621,2023-05-25,2023-08-13,North,India,Karnataka,Beauty,Furniture,Consumer,46576.23,8,0.4,-11644.06
+AMZ100622,2023-11-23,2023-10-19,South,India,Telangana,Home & Kitchen,Clothing,Consumer,764.77,1,0.07,61.18
+AMZ100623,2023-08-05,2023-04-13,Central,India,Karnataka,Electronics,Cookware,Consumer,37537.82,5,0.39,-9009.08
+AMZ100624,2023-10-28,2023-09-25,South,India,Kerala,Home & Kitchen,Furniture,Consumer,45201.01,4,0.31,-7232.16
+AMZ100625,2023-05-12,2023-12-22,South,India,Maharashtra,Books,Laptops,Small Business,7416.17,3,0.2,-370.81
+AMZ100626,2023-10-19,2023-04-21,North,India,Telangana,Electronics,Cookware,Small Business,5258.23,5,0.13,105.16
+AMZ100627,2023-03-11,2023-11-27,South,India,Kerala,Home & Kitchen,Furniture,Corporate,21516.34,3,0.43,-6024.58
+AMZ100628,2023-09-09,2023-09-23,North,India,Gujarat,Home & Kitchen,Laptops,Consumer,46717.11,8,0.35,-9343.42
+AMZ100629,2023-10-02,2023-01-04,Central,India,Karnataka,Fashion,Laptops,Consumer,27348.13,3,0.27,-3281.78
+AMZ100630,2023-12-30,2023-03-27,West,India,Gujarat,Beauty,Laptops,Corporate,26609.09,1,0.3,-3991.36
+AMZ100631,2023-07-01,2023-10-10,North,India,Telangana,Electronics,Laptops,Consumer,7485.74,9,0.05,748.57
+AMZ100632,2023-06-16,2023-11-25,Central,India,Telangana,Fashion,Fiction,Corporate,539.08,9,0.24,-48.52
+AMZ100633,2023-04-01,2023-11-01,West,India,Karnataka,Books,Laptops,Small Business,40601.93,6,0.1,2030.1
+AMZ100634,2023-07-21,2023-04-28,East,India,Gujarat,Beauty,Footwear,Corporate,4834.94,1,0.1,241.75
+AMZ100635,2023-12-12,2023-08-10,North,India,Tamil Nadu,Electronics,Cookware,Consumer,31875.57,8,0.33,-5737.6
+AMZ100636,2023-01-19,2023-06-04,North,India,Gujarat,Home & Kitchen,Furniture,Corporate,45773.51,2,0.46,-14189.79
+AMZ100637,2023-02-08,2023-06-03,East,India,Telangana,Electronics,Footwear,Small Business,10828.27,9,0.2,-541.41
+AMZ100638,2023-05-06,2023-01-13,East,India,Gujarat,Home & Kitchen,Fiction,Consumer,33431.01,8,0.1,1671.55
+AMZ100639,2023-06-22,2023-05-14,North,India,Kerala,Beauty,Skincare,Small Business,4395.58,3,0.32,-747.25
+AMZ100640,2023-05-21,2023-11-01,East,India,Maharashtra,Home & Kitchen,Skincare,Small Business,30385.88,5,0.44,-8811.91
+AMZ100641,2023-08-30,2023-10-21,South,India,Tamil Nadu,Books,Footwear,Corporate,8614.62,9,0.37,-1895.22
+AMZ100642,2023-08-08,2023-10-28,West,India,Delhi,Home & Kitchen,Mobiles,Small Business,36929.7,1,0.43,-10340.32
+AMZ100643,2023-05-06,2023-08-17,West,India,Kerala,Books,Mobiles,Consumer,15410.95,9,0.27,-1849.31
+AMZ100644,2023-02-27,2023-09-29,West,India,Maharashtra,Beauty,Mobiles,Small Business,23437.85,4,0.38,-5390.71
+AMZ100645,2023-05-28,2023-02-13,South,India,Delhi,Beauty,Clothing,Small Business,30171.81,4,0.07,2413.74
+AMZ100646,2023-11-13,2023-12-10,East,India,Karnataka,Electronics,Mobiles,Corporate,8978.03,4,0.17,-179.56
+AMZ100647,2023-12-27,2023-11-23,Central,India,Delhi,Books,Furniture,Small Business,37211.07,9,0.19,-1488.44
+AMZ100648,2023-01-01,2023-10-30,East,India,Kerala,Books,Footwear,Corporate,15480.7,6,0.26,-1702.88
+AMZ100649,2023-12-14,2023-12-31,North,India,Gujarat,Fashion,Furniture,Corporate,33287.41,8,0.46,-10319.1
+AMZ100650,2023-07-09,2023-01-22,West,India,Kerala,Fashion,Cookware,Consumer,8335.01,4,0.44,-2417.15
+AMZ100651,2023-07-10,2023-04-18,East,India,Delhi,Fashion,Mobiles,Consumer,34561.82,3,0.07,2764.95
+AMZ100652,2023-11-08,2023-12-03,Central,India,Telangana,Home & Kitchen,Fiction,Consumer,6845.31,1,0.09,410.72
+AMZ100653,2023-04-27,2023-10-31,North,India,Maharashtra,Fashion,Clothing,Consumer,21555.15,7,0.18,-646.65
+AMZ100654,2023-05-14,2023-04-28,South,India,Maharashtra,Books,Cookware,Corporate,12736.7,4,0.15,0.0
+AMZ100655,2023-02-27,2023-05-05,South,India,Delhi,Home & Kitchen,Fiction,Small Business,37544.57,8,0.31,-6007.13
+AMZ100656,2023-02-13,2023-10-09,Central,India,Maharashtra,Beauty,Clothing,Consumer,13470.73,3,0.45,-4041.22
+AMZ100657,2023-06-22,2023-10-20,North,India,Telangana,Electronics,Skincare,Consumer,44145.01,1,0.48,-14567.85
+AMZ100658,2023-06-09,2023-07-23,West,India,Kerala,Fashion,Cookware,Consumer,44645.1,5,0.33,-8036.12
+AMZ100659,2023-06-22,2023-02-21,East,India,Maharashtra,Beauty,Skincare,Small Business,10223.85,2,0.42,-2760.44
+AMZ100660,2023-11-13,2023-09-29,North,India,Delhi,Books,Footwear,Consumer,30885.37,3,0.26,-3397.39
+AMZ100661,2023-10-30,2023-11-21,South,India,Tamil Nadu,Electronics,Furniture,Small Business,4842.02,6,0.1,242.1
+AMZ100662,2023-05-29,2023-10-05,Central,India,Tamil Nadu,Beauty,Laptops,Corporate,19881.09,3,0.26,-2186.92
+AMZ100663,2023-03-21,2023-05-22,Central,India,Karnataka,Electronics,Furniture,Corporate,35809.43,3,0.28,-4655.23
+AMZ100664,2023-08-01,2023-10-03,East,India,Maharashtra,Fashion,Mobiles,Corporate,33141.45,6,0.37,-7291.12
+AMZ100665,2023-07-22,2023-10-18,Central,India,Kerala,Books,Skincare,Small Business,31422.68,5,0.11,1256.91
+AMZ100666,2023-09-09,2023-12-01,Central,India,Delhi,Electronics,Fiction,Consumer,14485.77,9,0.18,-434.57
+AMZ100667,2023-08-17,2023-02-22,North,India,Maharashtra,Beauty,Laptops,Consumer,19212.23,1,0.18,-576.37
+AMZ100668,2023-06-13,2023-01-28,West,India,Gujarat,Fashion,Clothing,Consumer,5595.83,3,0.48,-1846.62
+AMZ100669,2023-08-15,2023-06-07,East,India,Telangana,Fashion,Skincare,Consumer,36091.63,3,0.22,-2526.41
+AMZ100670,2023-05-27,2023-08-28,North,India,Maharashtra,Beauty,Footwear,Consumer,25442.5,6,0.38,-5851.78
+AMZ100671,2023-01-20,2023-06-06,West,India,Maharashtra,Beauty,Footwear,Small Business,35583.9,8,0.38,-8184.3
+AMZ100672,2023-02-16,2023-10-19,North,India,Tamil Nadu,Electronics,Skincare,Corporate,12822.7,3,0.13,256.45
+AMZ100673,2023-08-21,2023-05-17,North,India,Telangana,Home & Kitchen,Skincare,Consumer,16559.69,3,0.29,-2318.36
+AMZ100674,2023-11-01,2023-05-25,Central,India,Delhi,Fashion,Skincare,Corporate,17043.66,6,0.45,-5113.1
+AMZ100675,2023-01-14,2023-04-17,West,India,Maharashtra,Electronics,Clothing,Small Business,1774.25,8,0.24,-159.68
+AMZ100676,2023-05-23,2023-06-08,East,India,Tamil Nadu,Beauty,Mobiles,Small Business,17381.87,6,0.47,-5562.2
+AMZ100677,2023-01-01,2023-05-27,East,India,Karnataka,Electronics,Clothing,Consumer,40263.58,3,0.11,1610.54
+AMZ100678,2023-02-23,2023-01-03,West,India,Telangana,Beauty,Cookware,Small Business,44916.28,4,0.04,4940.79
+AMZ100679,2023-09-16,2023-03-19,Central,India,Tamil Nadu,Books,Fiction,Corporate,26151.81,1,0.45,-7845.54
+AMZ100680,2023-05-24,2023-05-13,South,India,Tamil Nadu,Beauty,Skincare,Consumer,23047.33,8,0.42,-6222.78
+AMZ100681,2023-01-12,2023-04-01,North,India,Kerala,Beauty,Fiction,Consumer,2025.82,4,0.5,-709.04
+AMZ100682,2023-11-26,2023-12-12,Central,India,Tamil Nadu,Beauty,Mobiles,Corporate,44020.61,6,0.34,-8363.92
+AMZ100683,2023-08-12,2023-12-17,West,India,Kerala,Home & Kitchen,Laptops,Consumer,1144.01,3,0.47,-366.08
+AMZ100684,2023-09-29,2023-09-21,North,India,Maharashtra,Beauty,Clothing,Consumer,47265.13,6,0.41,-12288.93
+AMZ100685,2023-12-24,2023-12-18,East,India,Maharashtra,Fashion,Mobiles,Corporate,24716.2,9,0.42,-6673.37
+AMZ100686,2023-06-05,2023-04-19,South,India,Karnataka,Fashion,Fiction,Consumer,17425.76,9,0.28,-2265.35
+AMZ100687,2023-01-08,2023-03-16,East,India,Gujarat,Electronics,Laptops,Consumer,46248.81,3,0.19,-1849.95
+AMZ100688,2023-05-02,2023-02-09,West,India,Gujarat,Home & Kitchen,Clothing,Corporate,1707.35,3,0.47,-546.35
+AMZ100689,2023-12-14,2023-06-09,North,India,Gujarat,Electronics,Footwear,Small Business,29280.53,4,0.22,-2049.64
+AMZ100690,2023-06-13,2023-03-13,West,India,Kerala,Fashion,Clothing,Corporate,27672.16,7,0.27,-3320.66
+AMZ100691,2023-03-31,2023-11-09,North,India,Telangana,Fashion,Furniture,Consumer,11356.36,3,0.22,-794.95
+AMZ100692,2023-05-16,2023-08-30,Central,India,Telangana,Books,Clothing,Corporate,21729.93,8,0.28,-2824.89
+AMZ100693,2023-07-05,2023-10-26,South,India,Karnataka,Beauty,Furniture,Consumer,32787.07,8,0.24,-2950.84
+AMZ100694,2023-11-12,2023-02-06,Central,India,Telangana,Fashion,Laptops,Consumer,36492.99,6,0.02,4744.09
+AMZ100695,2023-06-27,2023-03-26,Central,India,Gujarat,Electronics,Clothing,Corporate,535.48,4,0.44,-155.29
+AMZ100696,2023-01-28,2023-09-21,West,India,Gujarat,Electronics,Laptops,Consumer,46874.24,5,0.22,-3281.2
+AMZ100697,2023-08-08,2023-11-07,South,India,Tamil Nadu,Beauty,Laptops,Small Business,8644.01,2,0.29,-1210.16
+AMZ100698,2023-12-23,2023-06-22,North,India,Telangana,Beauty,Fiction,Consumer,12062.23,6,0.07,964.98
+AMZ100699,2023-02-10,2023-06-23,North,India,Maharashtra,Books,Mobiles,Corporate,13541.94,3,0.0,2031.29
+AMZ100700,2023-08-16,2023-12-29,East,India,Maharashtra,Home & Kitchen,Laptops,Small Business,2372.1,6,0.12,71.16
+AMZ100701,2023-07-11,2023-02-17,North,India,Tamil Nadu,Electronics,Laptops,Small Business,6591.08,5,0.35,-1318.22
+AMZ100702,2023-05-25,2023-05-22,West,India,Tamil Nadu,Beauty,Fiction,Consumer,49324.32,2,0.05,4932.43
+AMZ100703,2023-07-20,2023-04-29,Central,India,Tamil Nadu,Electronics,Fiction,Corporate,16103.23,5,0.45,-4830.97
+AMZ100704,2023-07-31,2023-10-05,Central,India,Maharashtra,Beauty,Clothing,Consumer,6207.4,5,0.11,248.3
+AMZ100705,2023-08-08,2023-08-03,Central,India,Gujarat,Fashion,Fiction,Consumer,5796.07,9,0.1,289.8
+AMZ100706,2023-08-28,2023-08-09,South,India,Tamil Nadu,Electronics,Clothing,Corporate,36113.27,8,0.09,2166.8
+AMZ100707,2023-02-15,2023-01-27,North,India,Karnataka,Fashion,Footwear,Corporate,42801.15,7,0.01,5992.16
+AMZ100708,2023-02-04,2023-01-10,West,India,Kerala,Electronics,Fiction,Consumer,13219.14,3,0.39,-3172.59
+AMZ100709,2023-09-10,2023-09-29,South,India,Tamil Nadu,Home & Kitchen,Mobiles,Small Business,1535.02,4,0.44,-445.16
+AMZ100710,2023-03-23,2023-01-11,East,India,Kerala,Books,Laptops,Consumer,11542.96,6,0.31,-1846.87
+AMZ100711,2023-09-13,2023-05-02,West,India,Delhi,Fashion,Mobiles,Small Business,3297.53,3,0.09,197.85
+AMZ100712,2023-07-16,2023-05-06,West,India,Tamil Nadu,Beauty,Furniture,Consumer,5618.05,9,0.14,56.18
+AMZ100713,2023-10-30,2023-06-20,West,India,Maharashtra,Home & Kitchen,Skincare,Corporate,21859.65,8,0.24,-1967.37
+AMZ100714,2023-01-10,2023-03-14,Central,India,Telangana,Electronics,Fiction,Small Business,11880.96,6,0.48,-3920.72
+AMZ100715,2023-11-08,2023-06-02,West,India,Tamil Nadu,Fashion,Laptops,Corporate,26039.32,4,0.12,781.18
+AMZ100716,2023-10-13,2023-07-28,North,India,Telangana,Electronics,Mobiles,Corporate,13047.94,7,0.37,-2870.55
+AMZ100717,2023-08-30,2023-02-19,West,India,Delhi,Electronics,Fiction,Corporate,47056.6,3,0.22,-3293.96
+AMZ100718,2023-09-08,2023-06-04,Central,India,Karnataka,Electronics,Fiction,Corporate,45344.23,8,0.15,0.0
+AMZ100719,2023-12-31,2023-12-14,West,India,Telangana,Books,Skincare,Corporate,28556.9,1,0.23,-2284.55
+AMZ100720,2023-01-05,2023-10-21,East,India,Kerala,Books,Footwear,Consumer,18043.99,3,0.04,1984.84
+AMZ100721,2023-04-29,2023-03-10,East,India,Gujarat,Beauty,Footwear,Small Business,19366.77,5,0.4,-4841.69
+AMZ100722,2023-10-16,2023-02-20,Central,India,Tamil Nadu,Fashion,Laptops,Consumer,20886.69,5,0.12,626.6
+AMZ100723,2023-03-06,2023-06-02,North,India,Delhi,Home & Kitchen,Furniture,Consumer,36515.18,2,0.36,-7668.19
+AMZ100724,2023-05-26,2023-01-20,North,India,Delhi,Home & Kitchen,Footwear,Consumer,22856.13,8,0.03,2742.74
+AMZ100725,2023-08-12,2023-04-11,South,India,Telangana,Home & Kitchen,Skincare,Corporate,42908.13,5,0.48,-14159.68
+AMZ100726,2023-08-27,2023-03-02,Central,India,Karnataka,Electronics,Footwear,Consumer,47232.69,7,0.1,2361.63
+AMZ100727,2023-06-26,2023-06-17,West,India,Maharashtra,Books,Furniture,Small Business,17129.33,7,0.44,-4967.51
+AMZ100728,2023-09-24,2023-07-22,Central,India,Tamil Nadu,Fashion,Mobiles,Consumer,28254.38,5,0.4,-7063.6
+AMZ100729,2023-12-07,2023-12-12,South,India,Delhi,Electronics,Footwear,Corporate,5205.3,8,0.48,-1717.75
+AMZ100730,2023-10-09,2023-05-27,Central,India,Karnataka,Books,Skincare,Small Business,10423.22,9,0.24,-938.09
+AMZ100731,2023-03-04,2023-06-14,Central,India,Gujarat,Books,Clothing,Small Business,20966.56,4,0.36,-4402.98
+AMZ100732,2023-08-05,2023-08-31,South,India,Delhi,Fashion,Skincare,Small Business,10707.03,4,0.19,-428.28
+AMZ100733,2023-12-08,2023-03-11,North,India,Karnataka,Fashion,Cookware,Small Business,43889.74,8,0.09,2633.38
+AMZ100734,2023-11-11,2023-06-25,West,India,Maharashtra,Fashion,Cookware,Consumer,8335.17,1,0.22,-583.46
+AMZ100735,2023-10-10,2023-02-19,South,India,Maharashtra,Electronics,Footwear,Corporate,23055.21,4,0.08,1613.86
+AMZ100736,2023-06-26,2023-04-19,East,India,Delhi,Beauty,Mobiles,Small Business,30482.11,6,0.49,-10363.92
+AMZ100737,2023-04-08,2023-08-15,North,India,Kerala,Fashion,Fiction,Small Business,34747.26,4,0.05,3474.73
+AMZ100738,2023-04-15,2023-06-11,East,India,Delhi,Beauty,Mobiles,Corporate,19461.93,6,0.29,-2724.67
+AMZ100739,2023-04-09,2023-04-30,North,India,Telangana,Electronics,Skincare,Consumer,43520.4,5,0.31,-6963.26
+AMZ100740,2023-11-07,2023-05-30,West,India,Tamil Nadu,Beauty,Laptops,Small Business,28631.8,9,0.27,-3435.82
+AMZ100741,2023-01-06,2023-05-31,West,India,Karnataka,Home & Kitchen,Clothing,Consumer,22255.64,9,0.33,-4006.02
+AMZ100742,2023-07-16,2023-10-21,Central,India,Delhi,Beauty,Mobiles,Consumer,3828.41,4,0.06,344.56
+AMZ100743,2023-12-17,2023-05-24,East,India,Tamil Nadu,Fashion,Furniture,Consumer,23502.13,4,0.28,-3055.28
+AMZ100744,2023-05-13,2023-06-10,North,India,Telangana,Electronics,Skincare,Consumer,41126.42,8,0.14,411.26
+AMZ100745,2023-12-24,2023-01-12,West,India,Tamil Nadu,Fashion,Clothing,Small Business,30919.78,4,0.47,-9894.33
+AMZ100746,2023-09-16,2023-05-19,South,India,Delhi,Home & Kitchen,Cookware,Small Business,41692.04,2,0.38,-9589.17
+AMZ100747,2023-01-23,2023-03-20,West,India,Maharashtra,Fashion,Skincare,Consumer,24953.58,2,0.49,-8484.22
+AMZ100748,2023-02-22,2023-03-19,South,India,Karnataka,Fashion,Clothing,Consumer,6363.85,1,0.02,827.3
+AMZ100749,2023-06-14,2023-09-12,North,India,Karnataka,Fashion,Furniture,Corporate,1175.17,5,0.14,11.75
+AMZ100750,2023-07-21,2023-09-16,West,India,Maharashtra,Books,Footwear,Corporate,15509.37,6,0.1,775.47
+AMZ100751,2023-03-24,2023-11-17,West,India,Kerala,Home & Kitchen,Furniture,Corporate,35050.53,9,0.01,4907.07
+AMZ100752,2023-05-25,2023-10-19,North,India,Delhi,Fashion,Furniture,Small Business,39617.87,5,0.12,1188.54
+AMZ100753,2023-03-26,2023-09-21,West,India,Karnataka,Fashion,Footwear,Corporate,15139.77,6,0.34,-2876.56
+AMZ100754,2023-03-19,2023-03-27,South,India,Delhi,Fashion,Footwear,Small Business,25034.87,6,0.12,751.05
+AMZ100755,2023-01-01,2023-05-27,West,India,Telangana,Electronics,Footwear,Small Business,21345.39,3,0.25,-2134.54
+AMZ100756,2023-02-20,2023-11-20,East,India,Delhi,Books,Footwear,Small Business,20820.88,4,0.44,-6038.06
+AMZ100757,2023-06-22,2023-02-12,Central,India,Tamil Nadu,Electronics,Footwear,Small Business,11951.76,1,0.35,-2390.35
+AMZ100758,2023-07-24,2023-05-06,South,India,Maharashtra,Books,Furniture,Corporate,7250.37,4,0.2,-362.52
+AMZ100759,2023-09-17,2023-06-17,East,India,Kerala,Fashion,Laptops,Consumer,10236.08,1,0.19,-409.44
+AMZ100760,2023-10-15,2023-08-30,North,India,Delhi,Home & Kitchen,Laptops,Consumer,3238.95,5,0.23,-259.12
+AMZ100761,2023-02-03,2023-10-08,South,India,Kerala,Beauty,Skincare,Consumer,10307.47,8,0.09,618.45
+AMZ100762,2023-12-14,2023-07-08,Central,India,Kerala,Beauty,Mobiles,Corporate,955.44,8,0.32,-162.42
+AMZ100763,2023-04-05,2023-10-30,Central,India,Telangana,Fashion,Laptops,Consumer,31549.29,5,0.18,-946.48
+AMZ100764,2023-03-13,2023-01-20,North,India,Gujarat,Electronics,Cookware,Corporate,16160.58,2,0.43,-4524.96
+AMZ100765,2023-02-08,2023-03-10,North,India,Maharashtra,Home & Kitchen,Laptops,Corporate,48670.66,6,0.38,-11194.25
+AMZ100766,2023-06-03,2023-08-07,South,India,Kerala,Books,Furniture,Corporate,10088.99,1,0.31,-1614.24
+AMZ100767,2023-09-07,2023-04-13,West,India,Karnataka,Fashion,Footwear,Consumer,17618.51,7,0.18,-528.56
+AMZ100768,2023-06-11,2023-02-12,North,India,Tamil Nadu,Home & Kitchen,Skincare,Consumer,18213.14,4,0.1,910.66
+AMZ100769,2023-04-28,2023-10-16,West,India,Karnataka,Home & Kitchen,Footwear,Consumer,918.35,5,0.39,-220.4
+AMZ100770,2023-09-16,2023-06-17,East,India,Telangana,Books,Fiction,Small Business,42040.79,6,0.24,-3783.67
+AMZ100771,2023-11-02,2023-04-20,Central,India,Telangana,Home & Kitchen,Fiction,Corporate,2083.73,1,0.11,83.35
+AMZ100772,2023-09-25,2023-02-06,West,India,Karnataka,Electronics,Fiction,Small Business,47038.9,9,0.1,2351.94
+AMZ100773,2023-02-23,2023-08-21,Central,India,Maharashtra,Electronics,Furniture,Corporate,44657.68,4,0.08,3126.04
+AMZ100774,2023-08-24,2023-08-18,West,India,Karnataka,Electronics,Cookware,Consumer,27008.33,8,0.39,-6482.0
+AMZ100775,2023-08-10,2023-12-20,East,India,Delhi,Home & Kitchen,Laptops,Corporate,27407.98,5,0.11,1096.32
+AMZ100776,2023-09-08,2023-06-14,North,India,Karnataka,Electronics,Furniture,Corporate,32862.01,8,0.26,-3614.82
+AMZ100777,2023-11-09,2023-03-15,East,India,Tamil Nadu,Books,Mobiles,Small Business,19658.98,1,0.23,-1572.72
+AMZ100778,2023-04-22,2023-05-17,North,India,Tamil Nadu,Home & Kitchen,Skincare,Corporate,32537.5,8,0.29,-4555.25
+AMZ100779,2023-09-12,2023-12-20,North,India,Gujarat,Beauty,Footwear,Consumer,2716.04,4,0.44,-787.65
+AMZ100780,2023-10-30,2023-03-12,Central,India,Tamil Nadu,Home & Kitchen,Fiction,Corporate,3175.36,2,0.43,-889.1
+AMZ100781,2023-07-26,2023-07-16,East,India,Karnataka,Books,Clothing,Corporate,23132.91,6,0.23,-1850.63
+AMZ100782,2023-08-17,2023-09-27,West,India,Tamil Nadu,Beauty,Mobiles,Corporate,27706.3,2,0.01,3878.88
+AMZ100783,2023-12-07,2023-02-19,East,India,Maharashtra,Home & Kitchen,Fiction,Small Business,44446.97,5,0.21,-2666.82
+AMZ100784,2023-03-07,2023-11-13,Central,India,Kerala,Electronics,Cookware,Corporate,5680.7,2,0.3,-852.1
+AMZ100785,2023-03-16,2023-05-11,North,India,Tamil Nadu,Fashion,Mobiles,Corporate,41221.07,3,0.28,-5358.74
+AMZ100786,2023-04-13,2023-01-06,Central,India,Delhi,Fashion,Furniture,Small Business,10897.34,6,0.33,-1961.52
+AMZ100787,2023-07-11,2023-01-28,South,India,Maharashtra,Electronics,Laptops,Small Business,20007.14,1,0.08,1400.5
+AMZ100788,2023-09-09,2023-06-10,South,India,Gujarat,Fashion,Footwear,Small Business,16171.82,6,0.32,-2749.21
+AMZ100789,2023-08-14,2023-05-30,West,India,Delhi,Fashion,Skincare,Small Business,20307.69,3,0.09,1218.46
+AMZ100790,2023-10-21,2023-09-22,Central,India,Karnataka,Electronics,Cookware,Consumer,7949.53,7,0.38,-1828.39
+AMZ100791,2023-11-02,2023-08-19,West,India,Kerala,Electronics,Cookware,Consumer,25426.72,2,0.17,-508.53
+AMZ100792,2023-04-08,2023-07-20,West,India,Karnataka,Home & Kitchen,Clothing,Corporate,40181.31,6,0.35,-8036.26
+AMZ100793,2023-12-04,2023-02-20,South,India,Kerala,Home & Kitchen,Mobiles,Consumer,22355.93,8,0.02,2906.27
+AMZ100794,2023-10-13,2023-03-09,West,India,Kerala,Electronics,Clothing,Corporate,24785.37,1,0.2,-1239.27
+AMZ100795,2023-12-01,2023-10-28,South,India,Karnataka,Books,Laptops,Consumer,42514.0,9,0.35,-8502.8
+AMZ100796,2023-12-13,2023-02-28,North,India,Delhi,Fashion,Fiction,Small Business,35449.88,5,0.11,1418.0
+AMZ100797,2023-11-04,2023-09-17,Central,India,Delhi,Home & Kitchen,Laptops,Small Business,24777.49,5,0.4,-6194.37
+AMZ100798,2023-09-06,2023-12-09,West,India,Kerala,Fashion,Fiction,Consumer,13255.93,5,0.32,-2253.51
+AMZ100799,2023-06-15,2023-11-23,South,India,Delhi,Beauty,Clothing,Consumer,44303.87,6,0.29,-6202.54
+AMZ100800,2023-12-01,2023-05-11,East,India,Kerala,Electronics,Footwear,Corporate,29062.51,2,0.18,-871.88
+AMZ100801,2023-01-30,2023-08-04,West,India,Kerala,Books,Laptops,Corporate,11446.81,6,0.24,-1030.21
+AMZ100802,2023-09-04,2023-06-22,North,India,Maharashtra,Beauty,Clothing,Corporate,13821.43,4,0.3,-2073.21
+AMZ100803,2023-04-16,2023-09-16,North,India,Telangana,Beauty,Mobiles,Small Business,40255.09,8,0.24,-3622.96
+AMZ100804,2023-02-20,2023-04-13,East,India,Maharashtra,Beauty,Clothing,Small Business,2685.21,9,0.35,-537.04
+AMZ100805,2023-03-22,2023-07-29,South,India,Karnataka,Electronics,Clothing,Small Business,49608.56,9,0.22,-3472.6
+AMZ100806,2023-05-13,2023-10-19,West,India,Telangana,Home & Kitchen,Furniture,Small Business,6952.41,8,0.1,347.62
+AMZ100807,2023-10-12,2023-12-21,South,India,Tamil Nadu,Electronics,Laptops,Corporate,39905.39,3,0.11,1596.22
+AMZ100808,2023-05-18,2023-10-14,North,India,Karnataka,Home & Kitchen,Skincare,Small Business,20041.38,4,0.0,3006.21
+AMZ100809,2023-07-03,2023-04-27,South,India,Gujarat,Beauty,Footwear,Small Business,24864.7,1,0.15,0.0
+AMZ100810,2023-11-26,2023-09-22,North,India,Maharashtra,Beauty,Footwear,Small Business,44092.2,9,0.37,-9700.28
+AMZ100811,2023-09-30,2023-05-31,South,India,Delhi,Books,Furniture,Small Business,20939.1,5,0.4,-5234.77
+AMZ100812,2023-12-06,2023-10-28,East,India,Maharashtra,Home & Kitchen,Fiction,Consumer,27105.94,6,0.1,1355.3
+AMZ100813,2023-03-10,2023-02-06,Central,India,Delhi,Beauty,Cookware,Corporate,2940.33,3,0.48,-970.31
+AMZ100814,2023-02-03,2023-11-30,East,India,Telangana,Fashion,Fiction,Corporate,616.2,8,0.25,-61.62
+AMZ100815,2023-09-19,2023-10-15,East,India,Gujarat,Books,Footwear,Small Business,12617.59,7,0.46,-3911.45
+AMZ100816,2023-02-22,2023-10-31,Central,India,Telangana,Electronics,Clothing,Consumer,34188.86,1,0.35,-6837.77
+AMZ100817,2023-07-24,2023-11-08,Central,India,Gujarat,Books,Furniture,Corporate,6502.61,5,0.36,-1365.55
+AMZ100818,2023-05-06,2023-07-28,West,India,Maharashtra,Fashion,Mobiles,Corporate,6131.22,9,0.04,674.43
+AMZ100819,2023-08-23,2023-04-17,West,India,Delhi,Home & Kitchen,Laptops,Small Business,20842.55,6,0.11,833.7
+AMZ100820,2023-02-12,2023-06-08,East,India,Telangana,Electronics,Laptops,Small Business,32567.93,8,0.0,4885.19
+AMZ100821,2023-08-28,2023-05-02,East,India,Gujarat,Electronics,Skincare,Corporate,35747.56,1,0.36,-7506.99
+AMZ100822,2023-04-21,2023-02-25,North,India,Kerala,Home & Kitchen,Laptops,Corporate,9333.31,7,0.17,-186.67
+AMZ100823,2023-09-06,2023-01-13,North,India,Karnataka,Books,Clothing,Consumer,4439.61,3,0.39,-1065.51
+AMZ100824,2023-05-31,2023-05-26,West,India,Karnataka,Beauty,Mobiles,Corporate,47049.65,9,0.17,-940.99
+AMZ100825,2023-07-02,2023-05-17,West,India,Telangana,Books,Furniture,Corporate,13402.99,6,0.41,-3484.78
+AMZ100826,2023-12-02,2023-01-04,North,India,Delhi,Fashion,Furniture,Small Business,42740.65,5,0.07,3419.25
+AMZ100827,2023-04-05,2023-05-25,North,India,Kerala,Beauty,Laptops,Corporate,43242.83,8,0.09,2594.57
+AMZ100828,2023-01-08,2023-01-31,South,India,Telangana,Books,Mobiles,Small Business,38739.87,8,0.17,-774.8
+AMZ100829,2023-12-26,2023-08-26,South,India,Maharashtra,Home & Kitchen,Mobiles,Corporate,8857.26,3,0.2,-442.86
+AMZ100830,2023-07-03,2023-10-07,North,India,Gujarat,Fashion,Mobiles,Corporate,41179.17,2,0.17,-823.58
+AMZ100831,2023-10-08,2023-12-15,South,India,Maharashtra,Fashion,Footwear,Corporate,38577.9,2,0.38,-8872.92
+AMZ100832,2023-07-14,2023-04-26,Central,India,Karnataka,Fashion,Footwear,Consumer,30037.79,5,0.05,3003.78
+AMZ100833,2023-12-18,2023-04-15,West,India,Gujarat,Beauty,Laptops,Small Business,17191.5,7,0.18,-515.74
+AMZ100834,2023-07-14,2023-04-29,West,India,Telangana,Electronics,Mobiles,Consumer,13494.18,8,0.42,-3643.43
+AMZ100835,2023-06-04,2023-01-06,North,India,Maharashtra,Beauty,Cookware,Corporate,6533.52,8,0.03,784.02
+AMZ100836,2023-04-03,2023-12-27,East,India,Tamil Nadu,Books,Mobiles,Consumer,25732.97,8,0.47,-8234.55
+AMZ100837,2023-06-09,2023-09-06,North,India,Delhi,Electronics,Furniture,Small Business,29470.41,3,0.49,-10019.94
+AMZ100838,2023-03-02,2023-12-31,South,India,Kerala,Books,Furniture,Corporate,18287.28,2,0.04,2011.6
+AMZ100839,2023-05-02,2023-11-18,East,India,Kerala,Electronics,Laptops,Consumer,24030.27,4,0.15,0.0
+AMZ100840,2023-02-20,2023-05-02,South,India,Delhi,Beauty,Cookware,Consumer,18493.97,1,0.19,-739.76
+AMZ100841,2023-10-04,2023-10-14,Central,India,Tamil Nadu,Fashion,Mobiles,Small Business,32229.8,3,0.39,-7735.15
+AMZ100842,2023-01-05,2023-05-30,South,India,Karnataka,Home & Kitchen,Fiction,Consumer,45112.33,9,0.3,-6766.85
+AMZ100843,2023-04-02,2023-03-26,Central,India,Gujarat,Fashion,Cookware,Small Business,8614.05,7,0.32,-1464.39
+AMZ100844,2023-06-19,2023-08-20,Central,India,Delhi,Beauty,Skincare,Corporate,19379.74,7,0.38,-4457.34
+AMZ100845,2023-11-13,2023-10-16,South,India,Tamil Nadu,Electronics,Laptops,Corporate,7473.0,1,0.06,672.57
+AMZ100846,2023-01-22,2023-06-11,South,India,Telangana,Fashion,Furniture,Consumer,31434.72,7,0.42,-8487.37
+AMZ100847,2023-11-22,2023-09-30,Central,India,Kerala,Beauty,Fiction,Corporate,36579.09,7,0.35,-7315.82
+AMZ100848,2023-01-01,2023-02-08,East,India,Tamil Nadu,Books,Furniture,Corporate,46629.68,4,0.29,-6528.16
+AMZ100849,2023-05-13,2023-08-15,Central,India,Karnataka,Home & Kitchen,Footwear,Consumer,14304.16,7,0.44,-4148.21
+AMZ100850,2023-08-21,2023-05-23,West,India,Karnataka,Fashion,Laptops,Corporate,47535.45,8,0.35,-9507.09
+AMZ100851,2023-01-12,2023-10-20,Central,India,Maharashtra,Electronics,Laptops,Consumer,3631.5,3,0.1,181.57
+AMZ100852,2023-12-12,2023-06-01,East,India,Delhi,Books,Mobiles,Small Business,30349.19,2,0.21,-1820.95
+AMZ100853,2023-02-15,2023-04-25,West,India,Maharashtra,Beauty,Mobiles,Small Business,3328.07,7,0.25,-332.81
+AMZ100854,2023-02-03,2023-08-26,North,India,Kerala,Home & Kitchen,Footwear,Small Business,44741.82,5,0.03,5369.02
+AMZ100855,2023-03-19,2023-03-08,North,India,Tamil Nadu,Electronics,Fiction,Consumer,26725.55,5,0.48,-8819.43
+AMZ100856,2023-08-06,2023-12-28,East,India,Gujarat,Beauty,Skincare,Consumer,33632.74,5,0.06,3026.95
+AMZ100857,2023-10-28,2023-12-08,Central,India,Gujarat,Beauty,Clothing,Corporate,41662.91,7,0.35,-8332.58
+AMZ100858,2023-03-14,2023-09-16,South,India,Karnataka,Fashion,Cookware,Corporate,7940.38,9,0.25,-794.04
+AMZ100859,2023-10-09,2023-09-07,East,India,Gujarat,Fashion,Clothing,Corporate,2410.28,8,0.01,337.44
+AMZ100860,2023-09-06,2023-11-28,West,India,Gujarat,Electronics,Clothing,Corporate,44004.62,6,0.46,-13641.43
+AMZ100861,2023-02-16,2023-11-20,West,India,Kerala,Beauty,Laptops,Corporate,16089.19,7,0.43,-4504.97
+AMZ100862,2023-05-01,2023-06-30,North,India,Gujarat,Fashion,Cookware,Consumer,6884.46,9,0.26,-757.29
+AMZ100863,2023-08-02,2023-07-10,West,India,Tamil Nadu,Home & Kitchen,Laptops,Consumer,23688.83,6,0.11,947.55
+AMZ100864,2023-08-27,2023-06-04,East,India,Gujarat,Home & Kitchen,Skincare,Small Business,30116.15,1,0.06,2710.45
+AMZ100865,2023-02-25,2023-07-16,West,India,Telangana,Beauty,Cookware,Small Business,2033.04,4,0.18,-60.99
+AMZ100866,2023-12-16,2023-11-08,East,India,Gujarat,Fashion,Furniture,Small Business,14107.34,8,0.13,282.15
+AMZ100867,2023-04-17,2023-09-20,South,India,Gujarat,Electronics,Laptops,Small Business,2123.59,7,0.25,-212.36
+AMZ100868,2023-11-15,2023-05-24,North,India,Maharashtra,Electronics,Laptops,Consumer,21306.6,3,0.48,-7031.18
+AMZ100869,2023-02-17,2023-12-09,West,India,Tamil Nadu,Electronics,Laptops,Consumer,44807.45,3,0.29,-6273.04
+AMZ100870,2023-03-02,2023-11-13,East,India,Karnataka,Home & Kitchen,Fiction,Consumer,49141.29,3,0.44,-14250.97
+AMZ100871,2023-12-03,2023-04-12,Central,India,Maharashtra,Fashion,Footwear,Corporate,32033.85,1,0.33,-5766.09
+AMZ100872,2023-01-26,2023-09-02,North,India,Delhi,Fashion,Laptops,Corporate,8501.07,1,0.24,-765.1
+AMZ100873,2023-10-19,2023-01-13,South,India,Tamil Nadu,Home & Kitchen,Skincare,Small Business,45339.54,6,0.43,-12695.07
+AMZ100874,2023-09-14,2023-08-28,East,India,Telangana,Electronics,Mobiles,Corporate,26054.27,1,0.24,-2344.88
+AMZ100875,2023-01-08,2023-02-19,South,India,Tamil Nadu,Electronics,Mobiles,Consumer,8110.59,5,0.43,-2270.97
+AMZ100876,2023-04-23,2023-02-12,South,India,Delhi,Beauty,Cookware,Small Business,46125.47,4,0.15,0.0
+AMZ100877,2023-12-21,2023-06-16,West,India,Delhi,Books,Furniture,Small Business,37994.72,5,0.06,3419.52
+AMZ100878,2023-09-10,2023-03-24,West,India,Delhi,Fashion,Footwear,Corporate,36719.41,7,0.43,-10281.43
+AMZ100879,2023-06-29,2023-10-19,East,India,Kerala,Fashion,Fiction,Small Business,35604.44,6,0.29,-4984.62
+AMZ100880,2023-07-26,2023-06-08,Central,India,Karnataka,Fashion,Cookware,Corporate,10416.82,9,0.44,-3020.88
+AMZ100881,2023-10-30,2023-08-05,East,India,Gujarat,Books,Mobiles,Corporate,10944.83,6,0.47,-3502.35
+AMZ100882,2023-05-07,2023-06-08,Central,India,Tamil Nadu,Beauty,Footwear,Small Business,34570.5,9,0.03,4148.46
+AMZ100883,2023-02-25,2023-05-15,South,India,Kerala,Books,Footwear,Corporate,11376.28,4,0.25,-1137.63
+AMZ100884,2023-08-02,2023-03-09,North,India,Gujarat,Electronics,Furniture,Corporate,22214.25,1,0.19,-888.57
+AMZ100885,2023-01-14,2023-12-03,East,India,Gujarat,Electronics,Skincare,Corporate,39209.09,1,0.31,-6273.45
+AMZ100886,2023-01-28,2023-01-08,East,India,Telangana,Fashion,Footwear,Corporate,39305.65,7,0.4,-9826.41
+AMZ100887,2023-03-19,2023-01-15,Central,India,Delhi,Home & Kitchen,Laptops,Small Business,22936.46,3,0.14,229.36
+AMZ100888,2023-08-04,2023-03-15,South,India,Karnataka,Fashion,Footwear,Consumer,39713.4,2,0.28,-5162.74
+AMZ100889,2023-12-31,2023-06-13,South,India,Telangana,Home & Kitchen,Furniture,Consumer,42011.78,6,0.35,-8402.36
+AMZ100890,2023-06-03,2023-03-08,Central,India,Maharashtra,Books,Cookware,Corporate,32911.4,6,0.07,2632.91
+AMZ100891,2023-01-14,2023-12-14,South,India,Kerala,Electronics,Furniture,Corporate,11807.08,7,0.41,-3069.84
+AMZ100892,2023-07-06,2023-05-11,West,India,Kerala,Home & Kitchen,Fiction,Corporate,14063.58,5,0.3,-2109.54
+AMZ100893,2023-11-08,2023-07-26,North,India,Karnataka,Books,Furniture,Consumer,16084.64,8,0.47,-5147.08
+AMZ100894,2023-01-07,2023-10-04,East,India,Gujarat,Electronics,Mobiles,Corporate,6281.8,7,0.17,-125.64
+AMZ100895,2023-01-03,2023-09-14,North,India,Kerala,Home & Kitchen,Laptops,Small Business,14021.4,2,0.05,1402.14
+AMZ100896,2023-04-21,2023-09-24,East,India,Karnataka,Fashion,Skincare,Small Business,10871.2,1,0.25,-1087.12
+AMZ100897,2023-08-26,2023-01-26,West,India,Kerala,Fashion,Mobiles,Small Business,23038.77,9,0.04,2534.26
+AMZ100898,2023-12-29,2023-10-09,South,India,Kerala,Fashion,Cookware,Consumer,45467.66,5,0.48,-15004.33
+AMZ100899,2023-08-27,2023-09-11,Central,India,Delhi,Books,Clothing,Corporate,5671.78,5,0.02,737.33
+AMZ100900,2023-10-01,2023-11-07,West,India,Maharashtra,Fashion,Cookware,Corporate,36153.26,4,0.38,-8315.25
+AMZ100901,2023-10-21,2023-10-17,North,India,Delhi,Beauty,Laptops,Corporate,34520.51,2,0.26,-3797.26
+AMZ100902,2023-08-15,2023-06-14,Central,India,Maharashtra,Electronics,Footwear,Consumer,5239.83,5,0.18,-157.19
+AMZ100903,2023-01-15,2023-04-06,South,India,Kerala,Books,Furniture,Consumer,46167.33,2,0.03,5540.08
+AMZ100904,2023-07-11,2023-09-28,West,India,Telangana,Fashion,Clothing,Consumer,28639.37,7,0.31,-4582.3
+AMZ100905,2023-04-29,2023-11-18,Central,India,Gujarat,Electronics,Laptops,Consumer,18504.41,9,0.29,-2590.62
+AMZ100906,2023-01-28,2023-04-21,West,India,Kerala,Home & Kitchen,Mobiles,Small Business,37948.66,9,0.14,379.49
+AMZ100907,2023-07-21,2023-12-03,West,India,Maharashtra,Fashion,Furniture,Consumer,13239.59,6,0.46,-4104.27
+AMZ100908,2023-02-08,2023-11-07,South,India,Maharashtra,Electronics,Cookware,Consumer,34828.74,1,0.15,0.0
+AMZ100909,2023-09-30,2023-08-27,East,India,Maharashtra,Beauty,Mobiles,Consumer,2465.7,6,0.22,-172.6
+AMZ100910,2023-08-19,2023-01-26,Central,India,Kerala,Home & Kitchen,Laptops,Corporate,42050.7,5,0.27,-5046.08
+AMZ100911,2023-03-27,2023-05-22,South,India,Karnataka,Beauty,Laptops,Corporate,22684.46,4,0.05,2268.45
+AMZ100912,2023-05-06,2023-04-28,West,India,Telangana,Electronics,Cookware,Corporate,32016.3,6,0.47,-10245.22
+AMZ100913,2023-10-27,2023-01-26,South,India,Karnataka,Beauty,Clothing,Small Business,11451.27,6,0.19,-458.05
+AMZ100914,2023-01-25,2023-03-21,East,India,Gujarat,Electronics,Cookware,Small Business,34015.15,6,0.04,3741.67
+AMZ100915,2023-05-25,2023-03-10,Central,India,Kerala,Electronics,Footwear,Consumer,38725.89,2,0.19,-1549.04
+AMZ100916,2023-01-13,2023-06-23,East,India,Maharashtra,Beauty,Mobiles,Corporate,23924.05,7,0.3,-3588.61
+AMZ100917,2023-07-31,2023-01-13,North,India,Telangana,Electronics,Clothing,Small Business,31077.48,4,0.26,-3418.52
+AMZ100918,2023-01-25,2023-10-16,Central,India,Telangana,Fashion,Furniture,Corporate,23088.13,9,0.35,-4617.63
+AMZ100919,2023-03-09,2023-05-09,East,India,Tamil Nadu,Electronics,Fiction,Small Business,44757.52,2,0.03,5370.9
+AMZ100920,2023-03-08,2023-04-07,West,India,Gujarat,Books,Footwear,Small Business,25144.52,5,0.14,251.45
+AMZ100921,2023-08-21,2023-04-03,Central,India,Telangana,Electronics,Clothing,Consumer,42169.53,4,0.41,-10964.08
+AMZ100922,2023-04-19,2023-05-22,Central,India,Kerala,Books,Fiction,Consumer,40166.93,9,0.04,4418.36
+AMZ100923,2023-05-26,2023-02-01,South,India,Maharashtra,Electronics,Fiction,Small Business,20819.99,4,0.43,-5829.6
+AMZ100924,2023-04-21,2023-12-01,West,India,Maharashtra,Electronics,Mobiles,Consumer,11889.18,8,0.05,1188.92
+AMZ100925,2023-08-16,2023-01-21,North,India,Telangana,Beauty,Laptops,Small Business,20601.07,8,0.42,-5562.29
+AMZ100926,2023-04-21,2023-05-27,East,India,Karnataka,Fashion,Furniture,Small Business,41397.76,6,0.18,-1241.93
+AMZ100927,2023-02-03,2023-11-13,South,India,Gujarat,Fashion,Cookware,Corporate,11767.81,6,0.31,-1882.85
+AMZ100928,2023-04-21,2023-06-10,East,India,Maharashtra,Home & Kitchen,Mobiles,Consumer,26459.6,8,0.08,1852.17
+AMZ100929,2023-09-21,2023-12-16,North,India,Telangana,Beauty,Footwear,Consumer,40401.79,9,0.03,4848.21
+AMZ100930,2023-08-24,2023-02-13,North,India,Maharashtra,Beauty,Skincare,Consumer,17997.14,5,0.11,719.89
+AMZ100931,2023-03-24,2023-09-12,Central,India,Telangana,Fashion,Fiction,Corporate,32289.38,1,0.06,2906.04
+AMZ100932,2023-02-11,2023-05-11,North,India,Gujarat,Beauty,Footwear,Corporate,12658.76,1,0.16,-126.59
+AMZ100933,2023-04-11,2023-03-02,East,India,Telangana,Fashion,Fiction,Corporate,5909.33,2,0.26,-650.03
+AMZ100934,2023-01-06,2023-06-01,West,India,Tamil Nadu,Beauty,Laptops,Consumer,39822.02,5,0.29,-5575.08
+AMZ100935,2023-06-29,2023-10-15,West,India,Telangana,Electronics,Skincare,Consumer,5398.95,4,0.39,-1295.75
+AMZ100936,2023-10-09,2023-01-06,Central,India,Telangana,Fashion,Laptops,Consumer,13933.38,1,0.33,-2508.01
+AMZ100937,2023-11-16,2023-09-24,East,India,Kerala,Fashion,Furniture,Corporate,42827.92,4,0.3,-6424.19
+AMZ100938,2023-08-14,2023-12-12,East,India,Gujarat,Books,Cookware,Corporate,17650.23,4,0.21,-1059.01
+AMZ100939,2023-11-11,2023-05-11,North,India,Kerala,Beauty,Furniture,Small Business,48665.74,4,0.24,-4379.92
+AMZ100940,2023-12-31,2023-09-25,East,India,Telangana,Beauty,Laptops,Corporate,48996.85,1,0.21,-2939.81
+AMZ100941,2023-08-17,2023-06-28,South,India,Gujarat,Fashion,Laptops,Small Business,13779.66,9,0.42,-3720.51
+AMZ100942,2023-10-16,2023-09-11,North,India,Tamil Nadu,Electronics,Footwear,Consumer,2528.42,3,0.12,75.85
+AMZ100943,2023-05-30,2023-02-26,South,India,Gujarat,Electronics,Laptops,Corporate,35400.63,4,0.0,5310.09
+AMZ100944,2023-10-04,2023-03-25,Central,India,Maharashtra,Electronics,Skincare,Consumer,22823.83,5,0.33,-4108.29
+AMZ100945,2023-07-17,2023-04-10,West,India,Kerala,Beauty,Skincare,Consumer,5487.27,7,0.1,274.36
+AMZ100946,2023-03-11,2023-05-30,Central,India,Gujarat,Books,Clothing,Consumer,35522.38,6,0.45,-10656.71
+AMZ100947,2023-04-22,2023-11-26,West,India,Tamil Nadu,Fashion,Fiction,Consumer,2043.16,5,0.43,-572.08
+AMZ100948,2023-01-04,2023-06-06,Central,India,Delhi,Home & Kitchen,Mobiles,Corporate,43574.74,8,0.04,4793.22
+AMZ100949,2023-12-16,2023-07-10,East,India,Telangana,Books,Laptops,Consumer,7363.3,1,0.05,736.33
+AMZ100950,2023-11-27,2023-09-21,South,India,Gujarat,Home & Kitchen,Furniture,Small Business,6801.94,7,0.25,-680.19
+AMZ100951,2023-11-14,2023-03-22,West,India,Telangana,Books,Cookware,Corporate,9195.78,6,0.3,-1379.37
+AMZ100952,2023-12-16,2023-09-10,North,India,Karnataka,Electronics,Fiction,Consumer,48033.18,5,0.14,480.33
+AMZ100953,2023-04-05,2023-04-08,South,India,Maharashtra,Beauty,Fiction,Corporate,34811.88,7,0.36,-7310.49
+AMZ100954,2023-06-01,2023-09-18,North,India,Kerala,Home & Kitchen,Cookware,Small Business,40167.89,3,0.3,-6025.18
+AMZ100955,2023-11-07,2023-09-18,South,India,Maharashtra,Books,Cookware,Consumer,20182.93,1,0.16,-201.83
+AMZ100956,2023-05-17,2023-04-14,South,India,Karnataka,Beauty,Fiction,Small Business,17147.48,9,0.01,2400.65
+AMZ100957,2023-09-04,2023-02-10,Central,India,Karnataka,Home & Kitchen,Clothing,Consumer,12106.96,2,0.38,-2784.6
+AMZ100958,2023-08-31,2023-10-01,West,India,Kerala,Fashion,Furniture,Small Business,24292.08,3,0.11,971.68
+AMZ100959,2023-01-31,2023-04-12,West,India,Gujarat,Books,Clothing,Consumer,27815.52,8,0.42,-7510.19
+AMZ100960,2023-02-09,2023-12-26,South,India,Karnataka,Fashion,Laptops,Corporate,31772.85,9,0.21,-1906.37
+AMZ100961,2023-08-17,2023-11-05,East,India,Delhi,Electronics,Mobiles,Consumer,13227.37,3,0.29,-1851.83
+AMZ100962,2023-02-05,2023-08-10,East,India,Telangana,Fashion,Cookware,Corporate,47458.38,6,0.44,-13762.93
+AMZ100963,2023-08-11,2023-11-05,North,India,Telangana,Fashion,Skincare,Consumer,8903.05,7,0.43,-2492.85
+AMZ100964,2023-01-06,2023-05-05,North,India,Tamil Nadu,Books,Furniture,Consumer,48299.83,1,0.19,-1931.99
+AMZ100965,2023-11-18,2023-08-20,Central,India,Karnataka,Electronics,Cookware,Small Business,1235.38,7,0.1,61.77
+AMZ100966,2023-08-08,2023-06-28,South,India,Karnataka,Fashion,Clothing,Small Business,24315.72,4,0.39,-5835.77
+AMZ100967,2023-03-16,2023-03-05,North,India,Delhi,Beauty,Footwear,Small Business,17001.71,5,0.22,-1190.12
+AMZ100968,2023-01-04,2023-04-27,North,India,Maharashtra,Home & Kitchen,Laptops,Consumer,22731.61,8,0.1,1136.58
+AMZ100969,2023-12-01,2023-07-11,South,India,Maharashtra,Fashion,Mobiles,Consumer,28747.9,4,0.45,-8624.37
+AMZ100970,2023-05-14,2023-03-04,Central,India,Telangana,Electronics,Laptops,Consumer,22061.66,4,0.1,1103.08
+AMZ100971,2023-04-28,2023-09-14,North,India,Telangana,Fashion,Footwear,Corporate,21034.92,8,0.01,2944.89
+AMZ100972,2023-04-04,2023-01-08,Central,India,Gujarat,Home & Kitchen,Mobiles,Corporate,36769.81,5,0.01,5147.77
+AMZ100973,2023-03-03,2023-06-05,West,India,Kerala,Electronics,Footwear,Consumer,34450.88,6,0.31,-5512.14
+AMZ100974,2023-07-13,2023-04-03,Central,India,Delhi,Books,Laptops,Small Business,41746.93,5,0.33,-7514.45
+AMZ100975,2023-12-01,2023-01-15,East,India,Kerala,Electronics,Clothing,Small Business,12872.97,1,0.16,-128.73
+AMZ100976,2023-07-22,2023-08-18,East,India,Kerala,Books,Fiction,Small Business,30671.66,7,0.16,-306.72
+AMZ100977,2023-01-26,2023-03-28,Central,India,Tamil Nadu,Electronics,Laptops,Consumer,29467.14,6,0.17,-589.34
+AMZ100978,2023-06-22,2023-05-14,East,India,Kerala,Home & Kitchen,Laptops,Small Business,18802.02,2,0.34,-3572.38
+AMZ100979,2023-10-27,2023-07-03,West,India,Tamil Nadu,Home & Kitchen,Laptops,Consumer,24559.85,7,0.03,2947.18
+AMZ100980,2023-05-13,2023-03-04,South,India,Kerala,Electronics,Furniture,Corporate,16032.22,6,0.46,-4969.99
+AMZ100981,2023-11-22,2023-08-08,East,India,Delhi,Fashion,Footwear,Small Business,7521.3,5,0.11,300.85
+AMZ100982,2023-04-28,2023-09-04,East,India,Tamil Nadu,Home & Kitchen,Skincare,Corporate,11083.16,8,0.5,-3879.11
+AMZ100983,2023-11-20,2023-08-19,Central,India,Maharashtra,Books,Footwear,Small Business,5722.93,5,0.09,343.38
+AMZ100984,2023-10-02,2023-03-21,West,India,Tamil Nadu,Books,Cookware,Consumer,34311.94,2,0.39,-8234.87
+AMZ100985,2023-07-31,2023-05-30,South,India,Tamil Nadu,Beauty,Footwear,Consumer,33206.01,6,0.11,1328.24
+AMZ100986,2023-08-13,2023-05-19,Central,India,Delhi,Books,Cookware,Consumer,47555.02,1,0.04,5231.05
+AMZ100987,2023-01-20,2023-11-11,Central,India,Delhi,Beauty,Furniture,Consumer,36619.08,5,0.44,-10619.53
+AMZ100988,2023-04-23,2023-03-07,West,India,Tamil Nadu,Electronics,Clothing,Small Business,3076.27,6,0.43,-861.36
+AMZ100989,2023-05-20,2023-01-14,South,India,Karnataka,Electronics,Cookware,Corporate,44270.14,7,0.2,-2213.51
+AMZ100990,2023-02-16,2023-08-02,West,India,Delhi,Electronics,Laptops,Consumer,43202.42,2,0.35,-8640.48
+AMZ100991,2023-01-01,2023-08-31,South,India,Gujarat,Fashion,Clothing,Small Business,22444.36,1,0.28,-2917.77
+AMZ100992,2023-03-31,2023-08-02,West,India,Gujarat,Fashion,Fiction,Corporate,29500.22,6,0.43,-8260.06
+AMZ100993,2023-05-22,2023-07-01,Central,India,Maharashtra,Beauty,Furniture,Consumer,48815.88,3,0.16,-488.16
+AMZ100994,2023-11-16,2023-12-05,Central,India,Kerala,Books,Footwear,Corporate,26849.07,5,0.26,-2953.4
+AMZ100995,2023-02-07,2023-06-23,North,India,Tamil Nadu,Books,Cookware,Consumer,45313.43,2,0.24,-4078.21
+AMZ100996,2023-10-20,2023-06-10,East,India,Karnataka,Electronics,Skincare,Corporate,4610.42,1,0.18,-138.31
+AMZ100997,2023-05-19,2023-06-14,West,India,Maharashtra,Home & Kitchen,Laptops,Corporate,9957.07,1,0.45,-2987.12
+AMZ100998,2023-12-22,2023-07-08,North,India,Tamil Nadu,Fashion,Mobiles,Consumer,22317.37,4,0.08,1562.22
+AMZ100999,2023-11-29,2023-07-11,East,India,Delhi,Fashion,Fiction,Small Business,29445.46,2,0.07,2355.64
+AMZ101000,2023-09-16,2023-11-05,West,India,Gujarat,Electronics,Mobiles,Corporate,40903.28,1,0.29,-5726.46
+AMZ101001,2023-06-10,2023-09-14,South,India,Telangana,Fashion,Clothing,Consumer,49418.97,6,0.33,-8895.41
+AMZ101002,2023-06-27,2023-07-03,East,India,Karnataka,Electronics,Footwear,Corporate,19748.15,4,0.1,987.41
+AMZ101003,2023-01-10,2023-04-28,Central,India,Telangana,Beauty,Skincare,Corporate,2847.07,7,0.2,-142.35
+AMZ101004,2023-09-18,2023-10-10,North,India,Gujarat,Books,Mobiles,Small Business,40157.99,6,0.47,-12850.56
+AMZ101005,2023-05-18,2023-07-16,East,India,Kerala,Home & Kitchen,Clothing,Corporate,30416.85,5,0.12,912.51
+AMZ101006,2023-06-21,2023-02-04,East,India,Kerala,Books,Furniture,Corporate,10327.87,2,0.33,-1859.02
+AMZ101007,2023-01-13,2023-02-22,Central,India,Telangana,Books,Clothing,Consumer,24994.01,5,0.37,-5498.68
+AMZ101008,2023-06-17,2023-04-23,West,India,Delhi,Beauty,Fiction,Consumer,37244.36,9,0.22,-2607.11
+AMZ101009,2023-05-10,2023-09-10,South,India,Tamil Nadu,Fashion,Skincare,Small Business,38635.38,9,0.47,-12363.32
+AMZ101010,2023-03-25,2023-03-24,Central,India,Delhi,Home & Kitchen,Skincare,Corporate,25231.11,2,0.37,-5550.84
+AMZ101011,2023-11-17,2023-08-21,South,India,Telangana,Fashion,Clothing,Corporate,15608.12,7,0.23,-1248.65
+AMZ101012,2023-11-15,2023-08-16,West,India,Delhi,Books,Fiction,Corporate,48700.26,4,0.28,-6331.03
+AMZ101013,2023-04-11,2023-08-22,East,India,Gujarat,Electronics,Clothing,Small Business,33336.45,3,0.35,-6667.29
+AMZ101014,2023-11-25,2023-08-10,South,India,Karnataka,Books,Skincare,Corporate,20707.76,1,0.3,-3106.16
+AMZ101015,2023-09-30,2023-02-12,North,India,Delhi,Fashion,Skincare,Consumer,14382.93,3,0.44,-4171.05
+AMZ101016,2023-09-22,2023-01-22,North,India,Gujarat,Books,Laptops,Small Business,36689.6,9,0.18,-1100.69
+AMZ101017,2023-02-07,2023-02-12,Central,India,Karnataka,Electronics,Clothing,Consumer,12488.08,9,0.15,0.0
+AMZ101018,2023-04-04,2023-04-24,West,India,Kerala,Beauty,Cookware,Consumer,8999.64,7,0.11,359.99
+AMZ101019,2023-04-05,2023-04-16,Central,India,Tamil Nadu,Fashion,Clothing,Small Business,26726.78,3,0.02,3474.48
+AMZ101020,2023-11-01,2023-07-12,Central,India,Telangana,Books,Skincare,Consumer,14854.38,3,0.02,1931.07
+AMZ101021,2023-03-10,2023-01-18,Central,India,Kerala,Fashion,Laptops,Corporate,31630.8,4,0.44,-9172.93
+AMZ101022,2023-11-14,2023-05-01,North,India,Tamil Nadu,Beauty,Laptops,Small Business,6337.96,7,0.34,-1204.21
+AMZ101023,2023-08-24,2023-05-10,North,India,Kerala,Books,Furniture,Consumer,32919.58,7,0.33,-5925.52
+AMZ101024,2023-11-30,2023-05-11,Central,India,Maharashtra,Books,Fiction,Corporate,14523.18,2,0.31,-2323.71
+AMZ101025,2023-05-17,2023-03-02,North,India,Kerala,Fashion,Footwear,Corporate,512.03,5,0.42,-138.25
+AMZ101026,2023-03-17,2023-02-18,West,India,Gujarat,Fashion,Mobiles,Consumer,6783.33,7,0.24,-610.5
+AMZ101027,2023-02-04,2023-01-30,Central,India,Karnataka,Electronics,Mobiles,Corporate,46713.96,7,0.44,-13547.05
+AMZ101028,2023-01-01,2023-04-08,North,India,Kerala,Beauty,Clothing,Small Business,43434.05,6,0.18,-1303.02
+AMZ101029,2023-10-23,2023-01-11,South,India,Delhi,Electronics,Furniture,Consumer,12063.65,8,0.46,-3739.73
+AMZ101030,2023-11-16,2023-08-31,Central,India,Tamil Nadu,Books,Clothing,Corporate,39029.41,3,0.35,-7805.88
+AMZ101031,2023-03-01,2023-11-11,Central,India,Kerala,Fashion,Mobiles,Corporate,30624.29,1,0.13,612.49
+AMZ101032,2023-11-16,2023-08-21,West,India,Karnataka,Books,Fiction,Consumer,48559.78,3,0.28,-6312.77
+AMZ101033,2023-12-15,2023-10-05,East,India,Gujarat,Books,Skincare,Consumer,18993.48,2,0.27,-2279.22
+AMZ101034,2023-11-24,2023-10-12,East,India,Maharashtra,Home & Kitchen,Fiction,Consumer,34232.3,2,0.07,2738.58
+AMZ101035,2023-09-24,2023-07-23,West,India,Tamil Nadu,Home & Kitchen,Fiction,Consumer,3645.02,2,0.3,-546.75
+AMZ101036,2023-12-27,2023-09-05,West,India,Telangana,Books,Laptops,Small Business,20114.24,5,0.16,-201.14
+AMZ101037,2023-08-17,2023-10-18,West,India,Karnataka,Fashion,Skincare,Consumer,48208.97,1,0.03,5785.08
+AMZ101038,2023-09-27,2023-09-22,East,India,Telangana,Books,Footwear,Small Business,27179.55,4,0.47,-8697.46
+AMZ101039,2023-11-12,2023-08-03,West,India,Karnataka,Home & Kitchen,Skincare,Small Business,14750.04,5,0.32,-2507.51
+AMZ101040,2023-10-13,2023-07-20,North,India,Karnataka,Fashion,Furniture,Consumer,6453.41,2,0.44,-1871.49
+AMZ101041,2023-10-18,2023-03-21,Central,India,Gujarat,Books,Laptops,Small Business,35324.65,5,0.34,-6711.68
+AMZ101042,2023-08-01,2023-12-10,Central,India,Gujarat,Beauty,Footwear,Consumer,32420.37,4,0.18,-972.61
+AMZ101043,2023-06-14,2023-12-11,South,India,Gujarat,Beauty,Furniture,Consumer,19009.97,8,0.26,-2091.1
+AMZ101044,2023-01-05,2023-06-23,South,India,Kerala,Books,Furniture,Corporate,47571.6,1,0.34,-9038.6
+AMZ101045,2023-12-05,2023-03-11,Central,India,Delhi,Fashion,Mobiles,Consumer,1599.04,5,0.48,-527.68
+AMZ101046,2023-03-19,2023-03-29,North,India,Karnataka,Books,Laptops,Corporate,15534.33,1,0.13,310.69
+AMZ101047,2023-03-03,2023-04-12,East,India,Tamil Nadu,Books,Furniture,Small Business,46092.94,4,0.44,-13366.95
+AMZ101048,2023-05-12,2023-01-09,East,India,Telangana,Home & Kitchen,Cookware,Corporate,16386.3,8,0.46,-5079.75
+AMZ101049,2023-03-30,2023-11-30,North,India,Gujarat,Beauty,Fiction,Small Business,12986.52,1,0.34,-2467.44
+AMZ101050,2023-08-25,2023-07-20,East,India,Kerala,Home & Kitchen,Furniture,Consumer,26943.91,2,0.47,-8622.05
+AMZ101051,2023-02-11,2023-03-29,West,India,Gujarat,Home & Kitchen,Footwear,Small Business,41278.19,1,0.2,-2063.91
+AMZ101052,2023-03-30,2023-02-13,Central,India,Telangana,Books,Mobiles,Small Business,5605.76,7,0.48,-1849.9
+AMZ101053,2023-10-23,2023-04-20,Central,India,Telangana,Home & Kitchen,Clothing,Consumer,47179.53,2,0.35,-9435.91
+AMZ101054,2023-11-24,2023-06-02,North,India,Karnataka,Beauty,Fiction,Small Business,39856.11,1,0.02,5181.29
+AMZ101055,2023-10-22,2023-01-18,East,India,Gujarat,Home & Kitchen,Mobiles,Consumer,9471.89,6,0.45,-2841.57
+AMZ101056,2023-04-14,2023-05-14,South,India,Telangana,Beauty,Clothing,Corporate,35744.39,6,0.24,-3217.0
+AMZ101057,2023-01-14,2023-05-29,South,India,Delhi,Home & Kitchen,Laptops,Consumer,19555.46,2,0.23,-1564.44
+AMZ101058,2023-10-15,2023-10-05,East,India,Delhi,Beauty,Laptops,Consumer,20413.59,1,0.28,-2653.77
+AMZ101059,2023-06-28,2023-08-21,South,India,Gujarat,Home & Kitchen,Furniture,Small Business,39272.86,3,0.07,3141.83
+AMZ101060,2023-05-05,2023-11-11,North,India,Kerala,Home & Kitchen,Cookware,Corporate,48157.85,5,0.23,-3852.63
+AMZ101061,2023-12-19,2024-01-02,North,India,Telangana,Fashion,Laptops,Consumer,6769.47,6,0.42,-1827.76
+AMZ101062,2023-01-23,2023-08-17,East,India,Karnataka,Beauty,Skincare,Corporate,21321.2,3,0.01,2984.97
+AMZ101063,2023-03-04,2023-05-20,South,India,Karnataka,Beauty,Furniture,Corporate,24306.61,9,0.14,243.07
+AMZ101064,2023-05-23,2023-07-31,North,India,Kerala,Beauty,Fiction,Small Business,19127.43,5,0.0,2869.11
+AMZ101065,2023-06-02,2023-01-29,North,India,Karnataka,Electronics,Mobiles,Consumer,18477.86,2,0.21,-1108.67
+AMZ101066,2023-05-25,2023-02-21,West,India,Maharashtra,Home & Kitchen,Laptops,Small Business,3087.3,6,0.36,-648.33
+AMZ101067,2023-08-13,2023-09-19,West,India,Gujarat,Beauty,Skincare,Consumer,34434.16,8,0.4,-8608.54
+AMZ101068,2023-11-05,2023-09-19,North,India,Karnataka,Electronics,Mobiles,Corporate,22092.61,6,0.47,-7069.64
+AMZ101069,2023-04-14,2023-12-17,East,India,Delhi,Fashion,Mobiles,Consumer,10142.29,4,0.3,-1521.34
+AMZ101070,2023-04-14,2023-12-19,Central,India,Telangana,Beauty,Cookware,Consumer,40893.66,6,0.13,817.87
+AMZ101071,2023-02-08,2023-01-09,Central,India,Tamil Nadu,Beauty,Laptops,Corporate,40226.76,8,0.46,-12470.3
+AMZ101072,2023-07-17,2023-11-17,North,India,Kerala,Electronics,Mobiles,Corporate,24576.39,8,0.39,-5898.33
+AMZ101073,2023-05-14,2023-05-19,North,India,Tamil Nadu,Home & Kitchen,Cookware,Consumer,15273.31,2,0.29,-2138.26
+AMZ101074,2023-03-08,2023-02-08,North,India,Karnataka,Fashion,Cookware,Small Business,32085.59,8,0.35,-6417.12
+AMZ101075,2023-06-28,2023-04-22,East,India,Tamil Nadu,Beauty,Laptops,Consumer,14763.53,6,0.46,-4576.69
+AMZ101076,2023-02-11,2024-01-04,West,India,Tamil Nadu,Home & Kitchen,Cookware,Corporate,12182.39,2,0.36,-2558.3
+AMZ101077,2023-01-15,2023-08-09,North,India,Maharashtra,Fashion,Laptops,Small Business,36660.48,1,0.18,-1099.81
+AMZ101078,2023-04-21,2023-12-04,North,India,Delhi,Books,Skincare,Corporate,2496.1,6,0.36,-524.18
+AMZ101079,2023-06-06,2023-08-12,South,India,Kerala,Books,Laptops,Corporate,5191.04,7,0.02,674.84
+AMZ101080,2023-10-16,2023-05-17,East,India,Delhi,Fashion,Clothing,Small Business,836.01,5,0.19,-33.44
+AMZ101081,2023-08-19,2023-09-14,North,India,Maharashtra,Electronics,Mobiles,Corporate,8070.69,8,0.2,-403.53
+AMZ101082,2023-06-06,2023-12-27,South,India,Maharashtra,Fashion,Skincare,Corporate,3915.01,9,0.08,274.05
+AMZ101083,2023-02-07,2023-11-26,Central,India,Tamil Nadu,Fashion,Footwear,Corporate,49792.22,4,0.01,6970.91
+AMZ101084,2023-04-07,2023-02-19,North,India,Gujarat,Electronics,Laptops,Corporate,14796.09,7,0.07,1183.69
+AMZ101085,2023-10-16,2023-10-20,North,India,Telangana,Electronics,Mobiles,Corporate,7888.77,8,0.33,-1419.98
+AMZ101086,2023-09-11,2023-11-21,South,India,Telangana,Home & Kitchen,Fiction,Corporate,12429.31,6,0.4,-3107.33
+AMZ101087,2023-07-15,2023-03-20,East,India,Tamil Nadu,Home & Kitchen,Cookware,Corporate,46838.22,2,0.49,-15924.99
+AMZ101088,2023-03-27,2023-04-16,North,India,Telangana,Electronics,Furniture,Corporate,26247.93,7,0.17,-524.96
+AMZ101089,2023-11-18,2023-06-19,Central,India,Maharashtra,Books,Laptops,Corporate,18558.5,9,0.3,-2783.78
+AMZ101090,2023-01-10,2023-08-06,North,India,Delhi,Books,Cookware,Consumer,43732.88,5,0.47,-13994.52
+AMZ101091,2023-01-05,2023-04-30,Central,India,Telangana,Fashion,Cookware,Consumer,20052.02,2,0.08,1403.64
+AMZ101092,2023-05-03,2023-07-10,West,India,Kerala,Beauty,Cookware,Corporate,17082.92,4,0.36,-3587.41
+AMZ101093,2023-11-26,2023-09-13,West,India,Tamil Nadu,Fashion,Cookware,Consumer,10760.48,3,0.38,-2474.91
+AMZ101094,2023-12-19,2023-09-24,Central,India,Gujarat,Fashion,Cookware,Small Business,19200.94,4,0.04,2112.1
+AMZ101095,2023-04-28,2023-05-30,East,India,Tamil Nadu,Beauty,Laptops,Consumer,16175.88,7,0.43,-4529.25
+AMZ101096,2023-10-21,2023-06-14,North,India,Karnataka,Electronics,Fiction,Corporate,34026.55,8,0.41,-8846.9
+AMZ101097,2023-06-08,2023-05-21,North,India,Tamil Nadu,Books,Footwear,Corporate,14834.34,1,0.02,1928.46
+AMZ101098,2023-10-30,2023-12-14,West,India,Maharashtra,Fashion,Clothing,Consumer,29071.39,8,0.05,2907.14
+AMZ101099,2023-08-16,2023-09-16,Central,India,Delhi,Beauty,Cookware,Corporate,3761.66,5,0.02,489.02
+AMZ101100,2023-12-31,2023-09-27,North,India,Delhi,Home & Kitchen,Cookware,Small Business,9968.81,7,0.17,-199.38
+AMZ101101,2023-08-04,2023-07-01,North,India,Kerala,Fashion,Clothing,Small Business,20666.56,1,0.25,-2066.66
+AMZ101102,2023-07-03,2023-06-10,East,India,Telangana,Books,Fiction,Corporate,46878.99,2,0.27,-5625.48
+AMZ101103,2023-01-15,2023-12-18,South,India,Maharashtra,Electronics,Skincare,Small Business,19173.97,1,0.13,383.48
+AMZ101104,2023-06-06,2023-10-16,West,India,Karnataka,Fashion,Fiction,Small Business,33371.67,5,0.46,-10345.22
+AMZ101105,2023-05-16,2023-10-16,West,India,Maharashtra,Fashion,Skincare,Consumer,13126.82,6,0.18,-393.8
+AMZ101106,2023-09-18,2023-08-15,South,India,Tamil Nadu,Beauty,Laptops,Small Business,6788.16,9,0.02,882.46
+AMZ101107,2023-06-06,2023-01-12,North,India,Maharashtra,Home & Kitchen,Mobiles,Consumer,3397.56,8,0.15,0.0
+AMZ101108,2023-02-16,2023-01-11,East,India,Maharashtra,Home & Kitchen,Furniture,Corporate,15617.97,7,0.27,-1874.16
+AMZ101109,2023-11-20,2023-09-29,East,India,Kerala,Electronics,Furniture,Consumer,8304.22,5,0.2,-415.21
+AMZ101110,2023-11-28,2023-10-01,West,India,Karnataka,Books,Mobiles,Corporate,9113.52,3,0.14,91.14
+AMZ101111,2023-06-22,2023-07-03,East,India,Tamil Nadu,Electronics,Laptops,Corporate,38157.59,9,0.07,3052.61
+AMZ101112,2023-05-10,2023-06-03,South,India,Gujarat,Fashion,Furniture,Corporate,1283.98,5,0.41,-333.83
+AMZ101113,2023-04-05,2023-11-12,North,India,Kerala,Fashion,Fiction,Corporate,28111.6,3,0.5,-9839.06
+AMZ101114,2023-04-25,2023-12-01,South,India,Gujarat,Home & Kitchen,Clothing,Corporate,19283.34,3,0.16,-192.83
+AMZ101115,2023-08-31,2023-05-05,Central,India,Kerala,Books,Mobiles,Consumer,25574.22,3,0.19,-1022.97
+AMZ101116,2023-10-19,2023-04-25,West,India,Delhi,Beauty,Fiction,Corporate,28360.1,6,0.31,-4537.62
+AMZ101117,2023-10-09,2023-10-06,East,India,Kerala,Books,Footwear,Small Business,16011.7,1,0.36,-3362.46
+AMZ101118,2023-10-26,2023-08-02,Central,India,Telangana,Fashion,Laptops,Small Business,15107.89,4,0.2,-755.39
+AMZ101119,2023-10-10,2023-06-22,East,India,Maharashtra,Beauty,Mobiles,Corporate,36803.39,8,0.45,-11041.02
+AMZ101120,2023-03-10,2023-10-16,North,India,Delhi,Books,Furniture,Small Business,43628.21,3,0.28,-5671.67
+AMZ101121,2023-05-28,2023-06-24,North,India,Karnataka,Books,Laptops,Consumer,10032.79,5,0.23,-802.62
+AMZ101122,2023-01-11,2023-04-24,North,India,Gujarat,Beauty,Clothing,Consumer,5332.13,2,0.32,-906.46
+AMZ101123,2023-09-11,2023-05-03,East,India,Kerala,Fashion,Laptops,Corporate,44940.89,2,0.48,-14830.49
+AMZ101124,2023-11-26,2023-02-02,Central,India,Maharashtra,Books,Laptops,Corporate,17819.83,7,0.4,-4454.96
+AMZ101125,2023-12-26,2023-08-11,North,India,Karnataka,Beauty,Clothing,Corporate,27790.21,3,0.02,3612.73
+AMZ101126,2023-02-07,2023-04-30,Central,India,Telangana,Fashion,Cookware,Small Business,18297.39,5,0.17,-365.95
+AMZ101127,2023-05-14,2023-02-09,East,India,Karnataka,Beauty,Clothing,Small Business,6727.22,3,0.24,-605.45
+AMZ101128,2023-07-19,2023-09-26,Central,India,Maharashtra,Beauty,Fiction,Consumer,29671.92,6,0.16,-296.72
+AMZ101129,2023-01-23,2023-08-22,East,India,Telangana,Books,Laptops,Small Business,26494.47,3,0.35,-5298.89
+AMZ101130,2023-10-30,2023-01-19,East,India,Karnataka,Fashion,Skincare,Consumer,10548.18,8,0.41,-2742.53
+AMZ101131,2023-12-12,2023-05-30,West,India,Telangana,Books,Clothing,Small Business,22867.52,2,0.37,-5030.85
+AMZ101132,2023-10-29,2023-05-30,East,India,Kerala,Electronics,Cookware,Consumer,39948.9,3,0.49,-13582.63
+AMZ101133,2023-12-29,2023-05-07,East,India,Kerala,Electronics,Fiction,Corporate,29726.09,8,0.14,297.26
+AMZ101134,2023-08-06,2023-10-30,South,India,Maharashtra,Fashion,Skincare,Small Business,5297.41,8,0.44,-1536.25
+AMZ101135,2023-05-21,2023-12-27,North,India,Maharashtra,Beauty,Skincare,Consumer,27627.06,1,0.38,-6354.22
+AMZ101136,2023-04-14,2023-08-27,West,India,Telangana,Books,Mobiles,Small Business,35285.55,8,0.18,-1058.57
+AMZ101137,2023-07-29,2023-05-16,West,India,Tamil Nadu,Books,Clothing,Corporate,39738.82,2,0.37,-8742.54
+AMZ101138,2023-04-21,2023-06-01,West,India,Delhi,Fashion,Clothing,Consumer,31641.32,7,0.05,3164.13
+AMZ101139,2023-04-14,2023-08-25,South,India,Karnataka,Fashion,Laptops,Small Business,8056.58,6,0.39,-1933.58
+AMZ101140,2023-11-12,2023-08-13,East,India,Karnataka,Electronics,Fiction,Small Business,35653.58,2,0.27,-4278.43
+AMZ101141,2023-06-20,2023-07-23,North,India,Tamil Nadu,Home & Kitchen,Mobiles,Corporate,34028.42,5,0.15,0.0
+AMZ101142,2023-12-22,2023-09-14,Central,India,Tamil Nadu,Fashion,Footwear,Corporate,1709.13,7,0.33,-307.64
+AMZ101143,2023-11-20,2023-03-28,East,India,Tamil Nadu,Home & Kitchen,Footwear,Consumer,20881.51,8,0.32,-3549.86
+AMZ101144,2023-05-13,2023-05-31,South,India,Gujarat,Fashion,Furniture,Small Business,16981.04,3,0.1,849.05
+AMZ101145,2023-10-20,2023-08-24,East,India,Gujarat,Beauty,Clothing,Small Business,33635.9,1,0.02,4372.67
+AMZ101146,2023-11-24,2023-12-12,East,India,Telangana,Beauty,Clothing,Corporate,11198.72,7,0.22,-783.91
+AMZ101147,2023-05-07,2023-01-23,South,India,Gujarat,Electronics,Mobiles,Corporate,29748.16,5,0.28,-3867.26
+AMZ101148,2023-04-16,2023-12-15,West,India,Kerala,Electronics,Cookware,Consumer,45703.7,5,0.44,-13254.07
+AMZ101149,2023-04-02,2023-10-13,West,India,Kerala,Home & Kitchen,Footwear,Small Business,39991.22,7,0.46,-12397.28
+AMZ101150,2023-10-14,2023-09-27,North,India,Maharashtra,Fashion,Furniture,Small Business,46112.16,1,0.26,-5072.34
+AMZ101151,2023-02-20,2023-09-16,North,India,Telangana,Books,Mobiles,Consumer,48936.05,8,0.38,-11255.29
+AMZ101152,2023-01-29,2023-01-30,West,India,Karnataka,Electronics,Clothing,Consumer,1028.17,5,0.22,-71.97
+AMZ101153,2023-10-23,2023-08-02,Central,India,Delhi,Books,Footwear,Corporate,31325.69,8,0.37,-6891.65
+AMZ101154,2023-10-24,2023-10-11,East,India,Maharashtra,Books,Fiction,Corporate,20935.55,5,0.1,1046.78
+AMZ101155,2023-08-02,2023-02-20,Central,India,Karnataka,Fashion,Furniture,Consumer,43062.8,7,0.19,-1722.51
+AMZ101156,2023-09-24,2023-04-06,East,India,Karnataka,Home & Kitchen,Laptops,Consumer,12964.83,3,0.32,-2204.02
+AMZ101157,2023-09-14,2023-03-30,West,India,Telangana,Fashion,Footwear,Small Business,49060.96,2,0.01,6868.53
+AMZ101158,2023-10-29,2023-02-14,North,India,Tamil Nadu,Electronics,Furniture,Consumer,30878.54,6,0.36,-6484.49
+AMZ101159,2023-04-11,2023-10-06,North,India,Tamil Nadu,Books,Mobiles,Consumer,39780.1,5,0.42,-10740.63
+AMZ101160,2023-12-12,2023-06-21,Central,India,Maharashtra,Fashion,Laptops,Small Business,4737.18,9,0.2,-236.86
+AMZ101161,2023-04-20,2023-07-09,North,India,Tamil Nadu,Fashion,Furniture,Consumer,9581.17,4,0.22,-670.68
+AMZ101162,2023-07-01,2023-12-20,West,India,Karnataka,Fashion,Furniture,Corporate,38040.98,3,0.43,-10651.47
+AMZ101163,2023-11-09,2023-07-04,Central,India,Tamil Nadu,Electronics,Skincare,Corporate,1588.33,9,0.39,-381.2
+AMZ101164,2023-01-01,2023-01-04,East,India,Gujarat,Home & Kitchen,Skincare,Small Business,40935.46,8,0.14,409.35
+AMZ101165,2023-11-15,2023-07-11,North,India,Tamil Nadu,Fashion,Skincare,Consumer,1190.48,6,0.16,-11.9
+AMZ101166,2023-02-24,2023-04-29,South,India,Karnataka,Electronics,Clothing,Corporate,33027.38,1,0.34,-6275.2
+AMZ101167,2023-05-29,2023-01-20,North,India,Telangana,Books,Cookware,Corporate,18572.15,1,0.28,-2414.38
+AMZ101168,2023-11-05,2023-01-24,East,India,Maharashtra,Beauty,Footwear,Corporate,30769.0,6,0.08,2153.83
+AMZ101169,2023-05-17,2023-01-31,Central,India,Delhi,Electronics,Clothing,Corporate,34953.55,3,0.15,0.0
+AMZ101170,2023-07-21,2023-10-23,East,India,Tamil Nadu,Beauty,Fiction,Consumer,17452.52,3,0.45,-5235.76
+AMZ101171,2023-11-09,2023-04-19,South,India,Kerala,Fashion,Laptops,Consumer,5844.14,6,0.34,-1110.39
+AMZ101172,2023-04-27,2024-01-03,West,India,Kerala,Fashion,Cookware,Consumer,3947.47,3,0.49,-1342.14
+AMZ101173,2023-06-03,2023-10-09,North,India,Karnataka,Electronics,Furniture,Consumer,29652.33,6,0.38,-6820.04
+AMZ101174,2023-10-18,2023-05-09,Central,India,Delhi,Beauty,Clothing,Corporate,26272.44,5,0.47,-8407.18
+AMZ101175,2023-03-04,2023-08-18,West,India,Delhi,Fashion,Skincare,Small Business,37238.95,4,0.11,1489.56
+AMZ101176,2023-09-01,2023-04-22,East,India,Gujarat,Books,Cookware,Small Business,25731.91,8,0.39,-6175.66
+AMZ101177,2023-01-25,2023-05-17,Central,India,Delhi,Home & Kitchen,Fiction,Corporate,21411.07,2,0.01,2997.55
+AMZ101178,2023-03-31,2023-12-29,West,India,Kerala,Home & Kitchen,Footwear,Corporate,20205.32,7,0.34,-3839.01
+AMZ101179,2023-03-16,2023-07-06,Central,India,Telangana,Fashion,Fiction,Small Business,1809.12,4,0.23,-144.73
+AMZ101180,2023-10-21,2023-05-25,South,India,Karnataka,Beauty,Laptops,Small Business,17110.08,2,0.17,-342.2
+AMZ101181,2023-07-29,2023-03-14,South,India,Karnataka,Fashion,Mobiles,Corporate,48813.0,7,0.43,-13667.64
+AMZ101182,2023-12-13,2023-05-10,North,India,Tamil Nadu,Beauty,Clothing,Corporate,43741.0,1,0.43,-12247.48
+AMZ101183,2023-01-17,2023-12-31,North,India,Tamil Nadu,Books,Skincare,Consumer,16804.21,4,0.01,2352.59
+AMZ101184,2023-05-08,2023-09-19,South,India,Tamil Nadu,Beauty,Laptops,Consumer,29595.87,9,0.3,-4439.38
+AMZ101185,2023-12-30,2023-01-04,Central,India,Kerala,Fashion,Mobiles,Small Business,42441.19,4,0.18,-1273.24
+AMZ101186,2023-09-08,2023-04-15,South,India,Kerala,Books,Skincare,Corporate,22343.08,3,0.21,-1340.58
+AMZ101187,2023-06-28,2023-08-13,North,India,Kerala,Electronics,Skincare,Small Business,1388.91,2,0.42,-375.01
+AMZ101188,2023-07-01,2023-11-17,South,India,Kerala,Home & Kitchen,Skincare,Consumer,4188.27,3,0.15,0.0
+AMZ101189,2023-06-01,2023-12-29,South,India,Kerala,Fashion,Clothing,Consumer,25764.44,1,0.47,-8244.62
+AMZ101190,2023-01-25,2023-12-21,Central,India,Kerala,Fashion,Laptops,Small Business,48487.25,8,0.09,2909.23
+AMZ101191,2023-06-29,2023-01-11,West,India,Telangana,Fashion,Skincare,Consumer,34813.87,1,0.33,-6266.5
+AMZ101192,2023-07-17,2023-10-30,North,India,Kerala,Books,Fiction,Corporate,4010.35,3,0.34,-761.97
+AMZ101193,2023-12-10,2023-08-20,Central,India,Delhi,Electronics,Laptops,Small Business,9873.36,3,0.13,197.47
+AMZ101194,2023-06-10,2023-08-08,South,India,Delhi,Beauty,Cookware,Corporate,38680.5,2,0.16,-386.81
+AMZ101195,2023-06-26,2023-03-08,South,India,Gujarat,Electronics,Fiction,Corporate,42151.27,5,0.42,-11380.84
+AMZ101196,2023-10-12,2023-04-23,West,India,Telangana,Books,Clothing,Consumer,31075.88,3,0.38,-7147.45
+AMZ101197,2023-03-04,2023-01-14,North,India,Tamil Nadu,Fashion,Skincare,Corporate,32398.95,3,0.16,-323.99
+AMZ101198,2023-05-30,2023-03-28,North,India,Maharashtra,Home & Kitchen,Laptops,Small Business,1902.7,8,0.27,-228.32
+AMZ101199,2023-06-03,2023-08-23,East,India,Kerala,Fashion,Furniture,Corporate,41512.25,4,0.03,4981.47
+AMZ101200,2023-06-05,2023-04-01,North,India,Gujarat,Beauty,Clothing,Corporate,39519.62,4,0.1,1975.98
+AMZ101201,2023-02-18,2023-11-11,West,India,Maharashtra,Home & Kitchen,Laptops,Corporate,13322.24,3,0.24,-1199.0
+AMZ101202,2023-12-03,2023-02-24,East,India,Delhi,Fashion,Cookware,Corporate,35579.5,1,0.04,3913.74
+AMZ101203,2023-03-25,2023-01-13,East,India,Gujarat,Home & Kitchen,Skincare,Corporate,11135.3,8,0.42,-3006.53
+AMZ101204,2023-12-27,2023-07-29,South,India,Gujarat,Electronics,Mobiles,Consumer,2496.34,1,0.36,-524.23
+AMZ101205,2023-06-26,2023-01-15,South,India,Karnataka,Books,Skincare,Small Business,10456.26,7,0.47,-3346.0
+AMZ101206,2023-05-28,2023-05-02,North,India,Delhi,Fashion,Mobiles,Consumer,9342.13,5,0.35,-1868.43
+AMZ101207,2023-04-28,2023-01-21,East,India,Delhi,Beauty,Furniture,Small Business,17218.53,4,0.47,-5509.93
+AMZ101208,2023-12-08,2023-03-17,South,India,Telangana,Electronics,Clothing,Small Business,21213.25,4,0.28,-2757.72
+AMZ101209,2023-03-04,2023-09-01,West,India,Gujarat,Fashion,Cookware,Small Business,25672.68,8,0.3,-3850.9
+AMZ101210,2023-07-08,2023-08-12,South,India,Kerala,Electronics,Laptops,Small Business,24099.32,6,0.49,-8193.77
+AMZ101211,2023-12-26,2023-03-12,South,India,Delhi,Beauty,Laptops,Small Business,13898.39,1,0.32,-2362.73
+AMZ101212,2023-02-18,2023-11-09,East,India,Gujarat,Fashion,Mobiles,Corporate,1943.95,8,0.02,252.71
+AMZ101213,2023-11-23,2023-07-31,East,India,Telangana,Beauty,Cookware,Consumer,30452.53,2,0.36,-6395.03
+AMZ101214,2023-09-14,2023-04-12,Central,India,Kerala,Home & Kitchen,Fiction,Consumer,20089.37,6,0.45,-6026.81
+AMZ101215,2023-08-12,2023-07-06,West,India,Telangana,Beauty,Furniture,Corporate,15284.27,9,0.4,-3821.07
+AMZ101216,2023-05-21,2023-05-13,East,India,Karnataka,Home & Kitchen,Mobiles,Small Business,43413.58,1,0.29,-6077.9
+AMZ101217,2023-08-03,2023-04-22,North,India,Kerala,Fashion,Mobiles,Consumer,37463.79,6,0.34,-7118.12
+AMZ101218,2023-07-30,2023-05-13,West,India,Gujarat,Home & Kitchen,Furniture,Corporate,42959.39,8,0.5,-15035.79
+AMZ101219,2023-11-14,2023-01-21,West,India,Delhi,Fashion,Clothing,Corporate,25001.65,2,0.05,2500.16
+AMZ101220,2023-02-01,2023-01-25,East,India,Delhi,Fashion,Laptops,Consumer,6981.1,5,0.33,-1256.6
+AMZ101221,2023-06-07,2023-08-16,West,India,Gujarat,Books,Clothing,Consumer,34962.96,6,0.14,349.63
+AMZ101222,2023-10-12,2023-06-04,East,India,Gujarat,Fashion,Cookware,Small Business,10700.65,5,0.32,-1819.11
+AMZ101223,2023-11-01,2023-10-21,South,India,Gujarat,Home & Kitchen,Fiction,Small Business,22340.87,3,0.3,-3351.13
+AMZ101224,2023-10-13,2023-08-19,Central,India,Tamil Nadu,Books,Skincare,Consumer,3717.54,4,0.08,260.23
+AMZ101225,2023-05-24,2023-11-07,South,India,Kerala,Books,Footwear,Small Business,41352.77,7,0.1,2067.64
+AMZ101226,2023-01-19,2023-12-26,East,India,Delhi,Fashion,Footwear,Corporate,6734.06,4,0.31,-1077.45
+AMZ101227,2023-01-18,2023-07-22,East,India,Kerala,Beauty,Footwear,Small Business,45203.33,9,0.06,4068.3
+AMZ101228,2023-09-14,2023-02-08,South,India,Telangana,Beauty,Furniture,Small Business,43279.41,2,0.13,865.59
+AMZ101229,2023-03-19,2023-09-18,North,India,Delhi,Books,Mobiles,Corporate,23496.85,5,0.42,-6344.15
+AMZ101230,2023-06-24,2023-07-08,North,India,Tamil Nadu,Fashion,Fiction,Small Business,37346.23,8,0.16,-373.46
+AMZ101231,2023-07-13,2023-02-27,North,India,Gujarat,Beauty,Clothing,Corporate,31162.53,5,0.24,-2804.63
+AMZ101232,2023-04-23,2023-01-21,East,India,Karnataka,Fashion,Skincare,Small Business,40252.24,8,0.47,-12880.72
+AMZ101233,2023-04-24,2023-10-01,West,India,Gujarat,Fashion,Laptops,Consumer,21874.35,8,0.11,874.97
+AMZ101234,2023-08-10,2023-04-30,East,India,Gujarat,Books,Footwear,Small Business,39397.52,9,0.19,-1575.9
+AMZ101235,2023-06-15,2023-03-13,West,India,Tamil Nadu,Books,Clothing,Consumer,23391.61,6,0.3,-3508.74
+AMZ101236,2023-11-15,2023-01-05,South,India,Kerala,Electronics,Footwear,Consumer,47077.81,4,0.38,-10827.9
+AMZ101237,2023-05-12,2023-08-10,Central,India,Delhi,Beauty,Fiction,Consumer,24575.42,3,0.45,-7372.63
+AMZ101238,2023-09-21,2023-01-15,West,India,Gujarat,Beauty,Footwear,Consumer,23399.65,5,0.46,-7253.89
+AMZ101239,2023-02-24,2023-01-04,North,India,Delhi,Beauty,Laptops,Consumer,39361.06,6,0.39,-9446.65
+AMZ101240,2023-12-25,2023-08-05,East,India,Maharashtra,Home & Kitchen,Skincare,Corporate,41168.1,3,0.11,1646.72
+AMZ101241,2023-05-11,2023-08-18,South,India,Telangana,Fashion,Cookware,Corporate,27947.21,2,0.01,3912.61
+AMZ101242,2023-10-15,2023-12-03,North,India,Kerala,Books,Cookware,Corporate,9399.99,7,0.19,-376.0
+AMZ101243,2023-09-23,2023-07-06,South,India,Delhi,Beauty,Fiction,Consumer,23654.03,5,0.07,1892.32
+AMZ101244,2023-06-11,2023-02-25,Central,India,Karnataka,Electronics,Cookware,Small Business,48419.59,9,0.36,-10168.11
+AMZ101245,2023-03-28,2023-09-12,East,India,Telangana,Beauty,Furniture,Corporate,37772.82,3,0.33,-6799.11
+AMZ101246,2023-02-24,2023-01-25,East,India,Karnataka,Fashion,Mobiles,Small Business,40652.55,8,0.02,5284.83
+AMZ101247,2023-10-15,2023-06-12,Central,India,Gujarat,Fashion,Furniture,Small Business,2124.86,6,0.42,-573.71
+AMZ101248,2023-06-27,2023-06-08,East,India,Telangana,Books,Clothing,Consumer,23659.04,4,0.12,709.77
+AMZ101249,2023-12-15,2023-03-24,West,India,Delhi,Home & Kitchen,Furniture,Consumer,32507.75,9,0.22,-2275.54
+AMZ101250,2023-01-08,2023-06-09,South,India,Telangana,Books,Clothing,Consumer,41586.62,5,0.33,-7485.59
+AMZ101251,2023-11-17,2023-07-08,North,India,Gujarat,Beauty,Clothing,Corporate,2939.05,6,0.21,-176.34
+AMZ101252,2023-11-09,2023-03-02,Central,India,Tamil Nadu,Electronics,Mobiles,Consumer,42695.72,9,0.22,-2988.7
+AMZ101253,2023-09-04,2023-11-02,West,India,Kerala,Books,Laptops,Corporate,27645.85,7,0.03,3317.5
+AMZ101254,2023-11-19,2023-11-16,North,India,Karnataka,Home & Kitchen,Skincare,Corporate,10267.04,5,0.2,-513.35
+AMZ101255,2023-09-12,2024-01-02,North,India,Gujarat,Books,Fiction,Corporate,16204.13,2,0.38,-3726.95
+AMZ101256,2023-11-24,2023-07-31,Central,India,Tamil Nadu,Fashion,Mobiles,Corporate,14455.51,4,0.46,-4481.21
+AMZ101257,2023-02-23,2023-06-02,West,India,Telangana,Beauty,Fiction,Consumer,26777.52,2,0.21,-1606.65
+AMZ101258,2023-09-06,2023-04-20,North,India,Telangana,Beauty,Cookware,Corporate,3058.44,3,0.21,-183.51
+AMZ101259,2023-08-27,2023-03-18,North,India,Gujarat,Beauty,Cookware,Consumer,8347.54,3,0.35,-1669.51
+AMZ101260,2023-08-17,2023-01-31,West,India,Delhi,Beauty,Furniture,Consumer,40728.31,4,0.47,-13033.06
+AMZ101261,2023-03-08,2023-11-11,East,India,Telangana,Beauty,Clothing,Corporate,7063.9,6,0.13,141.28
+AMZ101262,2023-02-20,2023-04-28,North,India,Delhi,Beauty,Footwear,Consumer,12053.12,3,0.22,-843.72
+AMZ101263,2023-04-07,2023-12-23,South,India,Delhi,Electronics,Footwear,Small Business,22941.84,1,0.4,-5735.46
+AMZ101264,2023-04-02,2023-07-12,West,India,Kerala,Home & Kitchen,Fiction,Consumer,26097.48,1,0.3,-3914.62
+AMZ101265,2023-09-21,2023-01-20,North,India,Delhi,Beauty,Clothing,Consumer,38298.72,9,0.06,3446.88
+AMZ101266,2023-10-18,2023-06-23,Central,India,Maharashtra,Home & Kitchen,Fiction,Corporate,22642.96,9,0.31,-3622.87
+AMZ101267,2023-04-06,2023-08-17,South,India,Kerala,Beauty,Mobiles,Corporate,39598.3,5,0.09,2375.9
+AMZ101268,2023-03-29,2023-12-17,North,India,Tamil Nadu,Books,Laptops,Consumer,31108.14,9,0.26,-3421.9
+AMZ101269,2023-03-19,2023-07-03,South,India,Tamil Nadu,Beauty,Skincare,Corporate,6098.44,7,0.26,-670.83
+AMZ101270,2023-10-15,2023-04-24,South,India,Telangana,Fashion,Mobiles,Small Business,8238.41,9,0.44,-2389.14
+AMZ101271,2023-04-30,2023-07-03,East,India,Telangana,Electronics,Clothing,Small Business,22133.17,7,0.23,-1770.65
+AMZ101272,2023-10-29,2023-05-27,South,India,Delhi,Books,Clothing,Corporate,20146.02,9,0.14,201.46
+AMZ101273,2023-06-14,2023-11-16,East,India,Kerala,Books,Laptops,Consumer,37305.44,2,0.12,1119.16
+AMZ101274,2023-07-01,2023-04-27,West,India,Kerala,Fashion,Fiction,Small Business,29246.49,8,0.44,-8481.48
+AMZ101275,2023-08-11,2023-04-24,East,India,Maharashtra,Beauty,Furniture,Small Business,19712.59,7,0.09,1182.76
+AMZ101276,2023-11-07,2023-09-09,Central,India,Delhi,Electronics,Furniture,Consumer,8952.63,6,0.21,-537.16
+AMZ101277,2023-01-07,2023-09-09,North,India,Maharashtra,Books,Laptops,Corporate,11728.44,5,0.09,703.71
+AMZ101278,2023-11-26,2023-10-31,West,India,Delhi,Electronics,Furniture,Small Business,28987.3,4,0.39,-6956.95
+AMZ101279,2023-09-20,2023-11-10,West,India,Karnataka,Books,Footwear,Consumer,21460.22,7,0.24,-1931.42
+AMZ101280,2023-06-10,2023-04-29,Central,India,Karnataka,Beauty,Furniture,Consumer,25988.91,3,0.18,-779.67
+AMZ101281,2023-05-31,2023-10-29,East,India,Gujarat,Books,Furniture,Small Business,8948.53,8,0.18,-268.46
+AMZ101282,2023-03-26,2023-06-11,North,India,Delhi,Books,Furniture,Corporate,33313.86,2,0.43,-9327.88
+AMZ101283,2023-05-27,2023-07-18,East,India,Kerala,Home & Kitchen,Footwear,Small Business,42700.67,1,0.28,-5551.09
+AMZ101284,2023-04-22,2023-09-18,South,India,Telangana,Beauty,Fiction,Consumer,13268.01,2,0.36,-2786.28
+AMZ101285,2023-02-05,2023-05-29,East,India,Tamil Nadu,Fashion,Furniture,Small Business,24829.95,9,0.45,-7448.99
+AMZ101286,2023-10-12,2023-08-29,West,India,Gujarat,Fashion,Cookware,Corporate,48788.6,5,0.45,-14636.58
+AMZ101287,2023-07-07,2023-02-17,North,India,Telangana,Beauty,Footwear,Consumer,16995.47,8,0.16,-169.95
+AMZ101288,2023-03-23,2023-07-18,East,India,Karnataka,Fashion,Laptops,Corporate,29954.79,3,0.48,-9885.08
+AMZ101289,2023-01-02,2023-02-17,North,India,Delhi,Beauty,Mobiles,Small Business,4964.69,7,0.01,695.06
+AMZ101290,2023-10-30,2023-03-20,North,India,Gujarat,Fashion,Laptops,Small Business,30497.74,2,0.19,-1219.91
+AMZ101291,2023-07-16,2023-05-05,South,India,Delhi,Home & Kitchen,Mobiles,Corporate,4936.77,8,0.45,-1481.03
+AMZ101292,2023-01-11,2023-03-17,South,India,Karnataka,Fashion,Skincare,Small Business,47982.15,7,0.14,479.82
+AMZ101293,2023-08-22,2023-12-26,West,India,Gujarat,Books,Laptops,Corporate,35925.3,5,0.14,359.25
+AMZ101294,2023-07-14,2023-05-18,Central,India,Karnataka,Beauty,Cookware,Small Business,39513.91,4,0.15,0.0
+AMZ101295,2023-04-29,2023-04-01,North,India,Maharashtra,Electronics,Mobiles,Corporate,35353.17,1,0.31,-5656.51
+AMZ101296,2023-01-20,2023-11-22,Central,India,Karnataka,Electronics,Mobiles,Corporate,29691.59,5,0.22,-2078.41
+AMZ101297,2023-09-18,2023-03-03,West,India,Kerala,Beauty,Clothing,Consumer,22770.68,9,0.36,-4781.84
+AMZ101298,2023-10-20,2023-05-19,North,India,Kerala,Home & Kitchen,Mobiles,Consumer,42989.48,4,0.45,-12896.84
+AMZ101299,2023-09-13,2023-02-20,North,India,Delhi,Fashion,Mobiles,Corporate,47863.37,9,0.34,-9094.04
+AMZ101300,2023-08-10,2023-09-17,Central,India,Tamil Nadu,Home & Kitchen,Clothing,Small Business,25202.29,2,0.1,1260.11
+AMZ101301,2023-08-14,2023-04-18,East,India,Karnataka,Electronics,Furniture,Small Business,46610.98,4,0.47,-14915.51
+AMZ101302,2023-02-22,2023-04-24,South,India,Telangana,Beauty,Furniture,Small Business,29374.98,9,0.13,587.5
+AMZ101303,2023-12-21,2023-12-17,East,India,Kerala,Beauty,Clothing,Corporate,27150.02,4,0.07,2172.0
+AMZ101304,2023-12-08,2023-09-12,Central,India,Tamil Nadu,Home & Kitchen,Footwear,Corporate,22996.9,5,0.04,2529.66
+AMZ101305,2023-12-30,2023-04-29,South,India,Maharashtra,Home & Kitchen,Skincare,Corporate,10859.74,8,0.28,-1411.77
+AMZ101306,2023-10-07,2023-07-18,East,India,Gujarat,Fashion,Mobiles,Corporate,684.12,1,0.06,61.57
+AMZ101307,2023-03-22,2023-12-04,South,India,Gujarat,Books,Mobiles,Consumer,12454.56,1,0.07,996.36
+AMZ101308,2023-07-21,2024-01-01,North,India,Kerala,Books,Clothing,Corporate,25731.3,9,0.15,0.0
+AMZ101309,2023-06-07,2023-02-21,East,India,Tamil Nadu,Fashion,Clothing,Small Business,19308.02,9,0.14,193.08
+AMZ101310,2023-04-30,2023-09-03,South,India,Kerala,Books,Footwear,Consumer,22700.02,4,0.3,-3405.0
+AMZ101311,2023-02-28,2023-02-05,South,India,Gujarat,Electronics,Cookware,Small Business,49042.09,2,0.41,-12750.94
+AMZ101312,2023-08-03,2023-10-30,South,India,Karnataka,Books,Furniture,Corporate,17838.48,9,0.38,-4102.85
+AMZ101313,2023-05-08,2023-03-11,East,India,Tamil Nadu,Fashion,Laptops,Consumer,22883.06,4,0.13,457.66
+AMZ101314,2023-08-12,2023-12-16,West,India,Delhi,Books,Cookware,Corporate,7109.02,6,0.12,213.27
+AMZ101315,2023-07-28,2023-11-17,East,India,Karnataka,Beauty,Fiction,Consumer,2873.91,1,0.48,-948.39
+AMZ101316,2023-04-25,2023-02-19,Central,India,Karnataka,Home & Kitchen,Furniture,Small Business,38882.77,9,0.0,5832.42
+AMZ101317,2023-07-28,2023-03-16,East,India,Karnataka,Electronics,Mobiles,Corporate,28748.82,5,0.44,-8337.16
+AMZ101318,2023-01-14,2023-07-12,South,India,Delhi,Beauty,Fiction,Corporate,38154.89,3,0.1,1907.74
+AMZ101319,2023-01-09,2023-09-19,North,India,Maharashtra,Beauty,Cookware,Consumer,7918.21,4,0.47,-2533.83
+AMZ101320,2023-02-09,2023-12-23,East,India,Telangana,Fashion,Clothing,Consumer,28805.52,1,0.17,-576.11
+AMZ101321,2023-08-25,2023-03-12,East,India,Kerala,Home & Kitchen,Footwear,Corporate,13055.3,9,0.22,-913.87
+AMZ101322,2023-10-08,2023-04-01,South,India,Gujarat,Home & Kitchen,Furniture,Consumer,11789.06,8,0.35,-2357.81
+AMZ101323,2023-12-25,2023-09-18,North,India,Kerala,Electronics,Footwear,Corporate,1070.54,4,0.29,-149.88
+AMZ101324,2023-07-20,2023-05-07,North,India,Tamil Nadu,Fashion,Fiction,Consumer,6951.87,2,0.16,-69.52
+AMZ101325,2023-09-03,2023-08-20,Central,India,Maharashtra,Electronics,Furniture,Small Business,15808.77,9,0.28,-2055.14
+AMZ101326,2023-10-05,2023-10-23,East,India,Tamil Nadu,Books,Skincare,Consumer,6285.5,4,0.37,-1382.81
+AMZ101327,2023-08-23,2023-05-10,North,India,Kerala,Beauty,Skincare,Small Business,49299.99,9,0.02,6409.0
+AMZ101328,2023-01-04,2023-10-08,North,India,Gujarat,Electronics,Cookware,Consumer,15777.32,3,0.01,2208.82
+AMZ101329,2023-06-03,2023-11-10,West,India,Delhi,Beauty,Mobiles,Consumer,6951.04,7,0.23,-556.08
+AMZ101330,2023-01-29,2023-04-11,West,India,Kerala,Fashion,Skincare,Corporate,10354.57,7,0.07,828.37
+AMZ101331,2023-04-19,2023-11-23,North,India,Karnataka,Books,Skincare,Consumer,29591.31,4,0.33,-5326.44
+AMZ101332,2023-04-08,2023-10-25,Central,India,Kerala,Fashion,Laptops,Consumer,3670.15,2,0.11,146.81
+AMZ101333,2023-08-03,2023-07-02,North,India,Karnataka,Books,Footwear,Small Business,43190.49,9,0.22,-3023.33
+AMZ101334,2023-10-20,2023-06-24,South,India,Delhi,Books,Footwear,Consumer,48094.23,4,0.1,2404.71
+AMZ101335,2023-03-16,2023-11-13,East,India,Kerala,Beauty,Skincare,Corporate,12714.0,8,0.27,-1525.68
+AMZ101336,2023-11-22,2023-12-31,Central,India,Maharashtra,Fashion,Laptops,Small Business,22779.72,2,0.06,2050.17
+AMZ101337,2023-05-26,2023-07-08,South,India,Maharashtra,Fashion,Footwear,Corporate,1595.66,8,0.01,223.39
+AMZ101338,2023-05-08,2023-02-27,Central,India,Tamil Nadu,Electronics,Footwear,Corporate,32215.16,5,0.03,3865.82
+AMZ101339,2023-12-07,2023-02-01,South,India,Delhi,Fashion,Furniture,Corporate,20989.34,7,0.48,-6926.48
+AMZ101340,2023-02-11,2023-03-26,East,India,Maharashtra,Electronics,Furniture,Corporate,13867.89,7,0.07,1109.43
+AMZ101341,2023-12-22,2023-06-02,East,India,Kerala,Home & Kitchen,Laptops,Small Business,10738.44,9,0.35,-2147.69
+AMZ101342,2023-02-10,2023-02-06,West,India,Delhi,Home & Kitchen,Fiction,Consumer,32874.14,3,0.03,3944.9
+AMZ101343,2023-02-03,2023-08-02,South,India,Gujarat,Home & Kitchen,Mobiles,Corporate,21102.74,4,0.05,2110.27
+AMZ101344,2023-01-17,2023-12-31,West,India,Karnataka,Fashion,Cookware,Small Business,9393.13,4,0.25,-939.31
+AMZ101345,2023-06-14,2023-04-17,South,India,Kerala,Fashion,Skincare,Corporate,34610.9,5,0.23,-2768.87
+AMZ101346,2023-06-02,2023-12-09,West,India,Karnataka,Electronics,Skincare,Consumer,28471.08,6,0.48,-9395.46
+AMZ101347,2023-03-17,2023-08-09,East,India,Karnataka,Books,Cookware,Small Business,43004.27,3,0.47,-13761.37
+AMZ101348,2023-03-28,2023-06-13,Central,India,Delhi,Electronics,Skincare,Small Business,6315.06,4,0.39,-1515.61
+AMZ101349,2023-04-27,2023-08-09,West,India,Delhi,Home & Kitchen,Skincare,Consumer,39390.5,3,0.3,-5908.58
+AMZ101350,2023-12-28,2023-09-28,South,India,Tamil Nadu,Electronics,Fiction,Small Business,33839.08,2,0.23,-2707.13
+AMZ101351,2023-12-08,2023-05-01,South,India,Karnataka,Books,Footwear,Consumer,6193.04,9,0.18,-185.79
+AMZ101352,2023-01-27,2023-12-03,East,India,Tamil Nadu,Fashion,Mobiles,Small Business,34893.63,1,0.47,-11165.96
+AMZ101353,2023-11-09,2023-07-02,South,India,Karnataka,Electronics,Skincare,Small Business,22356.59,2,0.3,-3353.49
+AMZ101354,2023-10-14,2023-04-17,North,India,Tamil Nadu,Home & Kitchen,Laptops,Consumer,47276.75,8,0.29,-6618.74
+AMZ101355,2023-05-14,2023-08-06,Central,India,Tamil Nadu,Home & Kitchen,Fiction,Consumer,7509.76,7,0.12,225.29
+AMZ101356,2023-08-07,2023-07-25,West,India,Gujarat,Fashion,Skincare,Small Business,32320.25,1,0.02,4201.63
+AMZ101357,2023-06-17,2023-03-12,Central,India,Tamil Nadu,Electronics,Laptops,Small Business,19408.01,5,0.47,-6210.56
+AMZ101358,2023-04-08,2023-02-14,East,India,Delhi,Books,Furniture,Consumer,47862.33,6,0.16,-478.62
+AMZ101359,2023-09-25,2023-11-26,West,India,Tamil Nadu,Fashion,Footwear,Consumer,16833.76,5,0.22,-1178.36
+AMZ101360,2023-08-25,2023-10-29,West,India,Karnataka,Electronics,Clothing,Small Business,48128.2,4,0.06,4331.54
+AMZ101361,2023-11-05,2023-08-17,North,India,Tamil Nadu,Beauty,Skincare,Small Business,45123.55,1,0.42,-12183.36
+AMZ101362,2023-06-22,2023-07-04,East,India,Maharashtra,Home & Kitchen,Laptops,Small Business,13883.97,7,0.01,1943.76
+AMZ101363,2023-07-09,2023-04-18,South,India,Telangana,Books,Fiction,Consumer,40275.32,9,0.42,-10874.34
+AMZ101364,2023-05-02,2023-03-26,North,India,Karnataka,Books,Footwear,Small Business,49782.41,6,0.07,3982.59
+AMZ101365,2023-02-15,2023-12-05,North,India,Maharashtra,Books,Mobiles,Corporate,13006.82,3,0.44,-3771.98
+AMZ101366,2023-03-05,2023-09-08,Central,India,Karnataka,Home & Kitchen,Fiction,Consumer,22120.47,4,0.36,-4645.3
+AMZ101367,2023-05-10,2023-12-30,Central,India,Delhi,Electronics,Furniture,Small Business,26248.95,5,0.08,1837.43
+AMZ101368,2023-11-06,2023-01-22,Central,India,Telangana,Fashion,Cookware,Consumer,15099.09,1,0.28,-1962.88
+AMZ101369,2023-12-29,2023-07-16,North,India,Telangana,Electronics,Skincare,Corporate,1255.61,5,0.16,-12.56
+AMZ101370,2023-07-12,2023-06-28,South,India,Delhi,Fashion,Mobiles,Consumer,11396.4,1,0.09,683.78
+AMZ101371,2023-11-03,2023-01-08,West,India,Telangana,Books,Laptops,Small Business,14455.88,9,0.43,-4047.65
+AMZ101372,2023-06-30,2023-03-12,Central,India,Delhi,Electronics,Skincare,Corporate,22458.19,7,0.2,-1122.91
+AMZ101373,2023-10-19,2023-05-08,South,India,Maharashtra,Books,Laptops,Corporate,8969.57,3,0.2,-448.48
+AMZ101374,2023-10-09,2023-06-10,East,India,Gujarat,Beauty,Mobiles,Small Business,43726.09,9,0.08,3060.83
+AMZ101375,2023-01-29,2023-09-06,Central,India,Karnataka,Books,Laptops,Small Business,35393.1,2,0.19,-1415.72
+AMZ101376,2023-05-29,2023-07-23,West,India,Delhi,Books,Fiction,Small Business,4717.42,7,0.44,-1368.05
+AMZ101377,2023-09-24,2023-05-29,East,India,Karnataka,Fashion,Footwear,Consumer,32679.58,9,0.18,-980.39
+AMZ101378,2023-10-23,2023-05-24,East,India,Maharashtra,Beauty,Laptops,Consumer,32856.0,6,0.48,-10842.48
+AMZ101379,2023-01-11,2023-07-19,West,India,Gujarat,Books,Furniture,Consumer,47832.95,5,0.47,-15306.54
+AMZ101380,2023-06-13,2023-06-04,Central,India,Maharashtra,Books,Footwear,Small Business,649.53,7,0.07,51.96
+AMZ101381,2023-04-23,2023-05-23,North,India,Telangana,Beauty,Fiction,Small Business,12772.66,6,0.09,766.36
+AMZ101382,2023-07-06,2023-11-10,West,India,Karnataka,Beauty,Skincare,Consumer,46425.68,5,0.43,-12999.19
+AMZ101383,2023-10-22,2023-06-15,West,India,Kerala,Electronics,Clothing,Corporate,46640.63,2,0.2,-2332.03
+AMZ101384,2023-08-20,2023-11-11,West,India,Gujarat,Fashion,Skincare,Consumer,36169.03,8,0.0,5425.35
+AMZ101385,2023-08-15,2023-01-22,East,India,Telangana,Beauty,Laptops,Corporate,38405.28,7,0.14,384.05
+AMZ101386,2023-11-06,2023-03-24,South,India,Gujarat,Beauty,Laptops,Small Business,5028.41,6,0.3,-754.26
+AMZ101387,2023-04-08,2023-03-11,North,India,Telangana,Home & Kitchen,Furniture,Small Business,25936.85,5,0.4,-6484.21
+AMZ101388,2023-02-24,2023-05-12,Central,India,Maharashtra,Beauty,Fiction,Consumer,11963.36,5,0.07,957.07
+AMZ101389,2023-04-21,2023-03-29,Central,India,Delhi,Fashion,Furniture,Consumer,9470.29,9,0.06,852.33
+AMZ101390,2023-06-01,2023-08-07,South,India,Karnataka,Books,Cookware,Small Business,40610.01,1,0.46,-12589.1
+AMZ101391,2023-09-03,2023-11-02,West,India,Tamil Nadu,Books,Fiction,Consumer,7184.39,9,0.38,-1652.41
+AMZ101392,2023-03-10,2023-12-12,North,India,Tamil Nadu,Books,Mobiles,Small Business,23698.26,6,0.29,-3317.76
+AMZ101393,2023-11-08,2023-12-08,Central,India,Maharashtra,Books,Mobiles,Small Business,46959.62,4,0.38,-10800.71
+AMZ101394,2023-10-16,2023-06-11,Central,India,Karnataka,Home & Kitchen,Mobiles,Corporate,9698.69,7,0.21,-581.92
+AMZ101395,2023-09-07,2023-06-28,West,India,Karnataka,Beauty,Furniture,Consumer,48910.67,9,0.38,-11249.45
+AMZ101396,2023-02-05,2023-04-28,South,India,Maharashtra,Books,Mobiles,Small Business,49717.26,5,0.19,-1988.69
+AMZ101397,2023-08-27,2023-07-16,North,India,Karnataka,Electronics,Fiction,Consumer,28003.05,5,0.12,840.09
+AMZ101398,2023-05-28,2023-11-24,South,India,Delhi,Books,Mobiles,Corporate,8922.07,8,0.36,-1873.63
+AMZ101399,2023-08-15,2023-03-28,South,India,Maharashtra,Beauty,Clothing,Corporate,16147.19,7,0.21,-968.83
+AMZ101400,2023-09-01,2023-10-17,North,India,Delhi,Books,Mobiles,Consumer,21512.4,8,0.49,-7314.22
+AMZ101401,2023-12-03,2023-03-23,North,India,Karnataka,Home & Kitchen,Laptops,Consumer,15811.55,2,0.17,-316.23
+AMZ101402,2023-12-31,2023-06-02,Central,India,Maharashtra,Fashion,Cookware,Small Business,14391.46,9,0.46,-4461.35
+AMZ101403,2023-07-20,2023-03-03,Central,India,Karnataka,Fashion,Furniture,Corporate,48625.37,3,0.47,-15560.12
+AMZ101404,2023-06-03,2023-03-03,North,India,Maharashtra,Beauty,Footwear,Corporate,8091.56,6,0.12,242.75
+AMZ101405,2023-03-14,2023-12-21,East,India,Karnataka,Fashion,Cookware,Corporate,36799.73,6,0.4,-9199.93
+AMZ101406,2023-07-20,2023-01-29,Central,India,Delhi,Fashion,Clothing,Consumer,520.31,2,0.22,-36.42
+AMZ101407,2023-10-23,2023-02-13,East,India,Kerala,Electronics,Furniture,Small Business,30011.04,7,0.46,-9303.42
+AMZ101408,2023-01-17,2023-06-19,North,India,Delhi,Beauty,Fiction,Consumer,45839.18,9,0.23,-3667.13
+AMZ101409,2023-05-09,2023-03-28,Central,India,Karnataka,Beauty,Skincare,Consumer,14752.74,1,0.37,-3245.6
+AMZ101410,2023-08-05,2023-06-27,South,India,Maharashtra,Fashion,Furniture,Consumer,9683.54,8,0.23,-774.68
+AMZ101411,2023-03-02,2023-01-18,North,India,Tamil Nadu,Fashion,Laptops,Small Business,32758.15,2,0.11,1310.33
+AMZ101412,2023-04-14,2023-04-09,West,India,Delhi,Fashion,Fiction,Consumer,35773.77,1,0.1,1788.69
+AMZ101413,2023-02-11,2023-07-18,East,India,Delhi,Home & Kitchen,Cookware,Corporate,34557.51,8,0.21,-2073.45
+AMZ101414,2023-01-25,2023-04-09,North,India,Telangana,Books,Cookware,Corporate,16306.19,2,0.38,-3750.42
+AMZ101415,2023-02-08,2023-03-07,North,India,Tamil Nadu,Home & Kitchen,Mobiles,Corporate,12984.02,6,0.3,-1947.6
+AMZ101416,2023-10-18,2023-11-27,Central,India,Karnataka,Beauty,Fiction,Small Business,47817.98,6,0.34,-9085.42
+AMZ101417,2023-05-11,2023-12-08,Central,India,Kerala,Electronics,Skincare,Consumer,46203.33,5,0.14,462.03
+AMZ101418,2023-08-17,2023-01-06,Central,India,Maharashtra,Books,Laptops,Small Business,23137.17,8,0.24,-2082.35
+AMZ101419,2023-04-18,2023-01-03,West,India,Telangana,Electronics,Mobiles,Consumer,42386.6,3,0.02,5510.26
+AMZ101420,2023-06-21,2023-01-23,Central,India,Karnataka,Beauty,Mobiles,Corporate,22890.01,4,0.41,-5951.4
+AMZ101421,2023-04-12,2023-04-23,North,India,Gujarat,Beauty,Skincare,Consumer,21507.26,7,0.49,-7312.47
+AMZ101422,2023-12-20,2023-02-27,Central,India,Kerala,Electronics,Furniture,Consumer,8259.77,7,0.2,-412.99
+AMZ101423,2023-01-12,2023-03-08,South,India,Delhi,Electronics,Cookware,Consumer,21607.1,8,0.01,3024.99
+AMZ101424,2023-10-02,2023-11-27,Central,India,Gujarat,Electronics,Mobiles,Small Business,27102.14,2,0.08,1897.15
+AMZ101425,2023-04-11,2023-04-09,West,India,Delhi,Beauty,Clothing,Consumer,1613.96,2,0.33,-290.51
+AMZ101426,2023-02-13,2023-05-25,South,India,Delhi,Fashion,Clothing,Consumer,22483.59,4,0.31,-3597.37
+AMZ101427,2023-11-01,2024-01-04,North,India,Gujarat,Electronics,Cookware,Consumer,39177.13,9,0.39,-9402.51
+AMZ101428,2023-01-17,2023-05-06,North,India,Kerala,Books,Clothing,Small Business,34162.28,9,0.13,683.25
+AMZ101429,2023-11-26,2023-06-17,East,India,Gujarat,Beauty,Skincare,Small Business,31940.27,4,0.38,-7346.26
+AMZ101430,2023-02-26,2023-03-28,South,India,Karnataka,Home & Kitchen,Furniture,Small Business,45522.99,9,0.34,-8649.37
+AMZ101431,2023-11-07,2023-03-18,East,India,Telangana,Home & Kitchen,Laptops,Consumer,1392.58,3,0.16,-13.93
+AMZ101432,2023-10-30,2023-12-11,South,India,Telangana,Books,Footwear,Corporate,28073.86,5,0.27,-3368.86
+AMZ101433,2023-01-12,2023-10-22,South,India,Gujarat,Fashion,Mobiles,Corporate,39473.77,9,0.07,3157.9
+AMZ101434,2023-11-14,2023-03-01,West,India,Karnataka,Electronics,Footwear,Corporate,27296.1,6,0.23,-2183.69
+AMZ101435,2023-03-21,2023-05-19,East,India,Telangana,Beauty,Laptops,Consumer,16532.83,3,0.44,-4794.52
+AMZ101436,2023-08-04,2023-04-10,West,India,Karnataka,Electronics,Laptops,Corporate,7244.4,9,0.21,-434.66
+AMZ101437,2023-12-05,2023-07-12,South,India,Karnataka,Beauty,Skincare,Corporate,44434.37,6,0.42,-11997.28
+AMZ101438,2023-09-21,2023-09-01,North,India,Delhi,Home & Kitchen,Furniture,Corporate,23802.74,4,0.3,-3570.41
+AMZ101439,2023-05-29,2023-11-16,South,India,Telangana,Electronics,Clothing,Consumer,43966.7,4,0.1,2198.33
+AMZ101440,2023-03-22,2023-02-19,West,India,Telangana,Books,Clothing,Corporate,29499.68,8,0.29,-4129.96
+AMZ101441,2023-08-03,2023-02-02,East,India,Delhi,Fashion,Skincare,Corporate,33872.51,7,0.25,-3387.25
+AMZ101442,2023-07-17,2023-10-05,East,India,Gujarat,Books,Laptops,Consumer,40310.93,1,0.2,-2015.55
+AMZ101443,2023-07-19,2023-01-21,West,India,Delhi,Fashion,Furniture,Small Business,33128.2,6,0.06,2981.54
+AMZ101444,2023-01-25,2023-06-04,East,India,Telangana,Electronics,Furniture,Corporate,20203.71,8,0.21,-1212.22
+AMZ101445,2023-03-30,2023-03-10,Central,India,Telangana,Electronics,Cookware,Small Business,25924.85,3,0.04,2851.73
+AMZ101446,2023-09-25,2024-01-02,North,India,Kerala,Fashion,Fiction,Corporate,40250.75,9,0.05,4025.08
+AMZ101447,2023-05-23,2023-08-03,North,India,Gujarat,Home & Kitchen,Mobiles,Consumer,18995.69,2,0.21,-1139.74
+AMZ101448,2023-02-28,2023-05-24,North,India,Delhi,Beauty,Skincare,Small Business,19712.01,6,0.15,0.0
+AMZ101449,2023-12-31,2023-08-21,East,India,Maharashtra,Books,Fiction,Small Business,5236.66,1,0.46,-1623.36
+AMZ101450,2023-01-26,2023-08-02,East,India,Maharashtra,Books,Skincare,Small Business,45771.93,2,0.19,-1830.88
+AMZ101451,2023-02-16,2023-03-21,South,India,Gujarat,Books,Clothing,Small Business,5006.3,5,0.38,-1151.45
+AMZ101452,2023-10-15,2023-08-03,South,India,Delhi,Electronics,Laptops,Corporate,32586.35,1,0.27,-3910.36
+AMZ101453,2023-09-23,2023-04-27,North,India,Delhi,Books,Skincare,Corporate,20953.13,8,0.35,-4190.63
+AMZ101454,2023-01-16,2023-04-03,Central,India,Karnataka,Beauty,Skincare,Small Business,20578.16,1,0.13,411.56
+AMZ101455,2023-07-18,2023-09-28,South,India,Telangana,Beauty,Cookware,Corporate,34137.82,9,0.47,-10924.1
+AMZ101456,2023-10-09,2023-06-18,South,India,Tamil Nadu,Fashion,Footwear,Small Business,3821.14,3,0.27,-458.54
+AMZ101457,2023-03-27,2023-02-28,East,India,Kerala,Electronics,Clothing,Small Business,29888.44,2,0.42,-8069.88
+AMZ101458,2023-09-07,2023-10-12,Central,India,Gujarat,Beauty,Mobiles,Consumer,38715.57,1,0.18,-1161.47
+AMZ101459,2023-09-27,2023-01-27,North,India,Tamil Nadu,Home & Kitchen,Furniture,Small Business,41496.53,9,0.05,4149.65
+AMZ101460,2023-12-01,2024-01-05,South,India,Tamil Nadu,Electronics,Laptops,Corporate,8941.25,4,0.34,-1698.84
+AMZ101461,2023-04-27,2023-03-08,Central,India,Gujarat,Electronics,Clothing,Small Business,44922.24,1,0.0,6738.34
+AMZ101462,2023-01-07,2023-09-06,Central,India,Delhi,Beauty,Footwear,Consumer,32979.23,1,0.24,-2968.13
+AMZ101463,2023-05-17,2023-09-12,North,India,Gujarat,Home & Kitchen,Skincare,Corporate,44151.81,7,0.1,2207.59
+AMZ101464,2023-06-25,2023-02-14,Central,India,Tamil Nadu,Fashion,Mobiles,Consumer,24521.4,2,0.31,-3923.42
+AMZ101465,2023-11-24,2023-04-08,Central,India,Telangana,Beauty,Skincare,Consumer,27330.65,7,0.49,-9292.42
+AMZ101466,2023-11-11,2023-02-12,Central,India,Kerala,Home & Kitchen,Mobiles,Small Business,45992.39,7,0.23,-3679.39
+AMZ101467,2023-08-03,2023-08-16,South,India,Kerala,Electronics,Cookware,Consumer,45045.52,9,0.41,-11711.84
+AMZ101468,2023-03-23,2023-09-20,North,India,Telangana,Home & Kitchen,Skincare,Consumer,22683.96,7,0.25,-2268.4
+AMZ101469,2023-08-11,2023-06-17,Central,India,Telangana,Electronics,Clothing,Corporate,14083.43,1,0.25,-1408.34
+AMZ101470,2023-04-13,2023-10-07,Central,India,Delhi,Beauty,Footwear,Consumer,19961.94,8,0.47,-6387.82
+AMZ101471,2023-09-30,2023-03-31,South,India,Maharashtra,Beauty,Mobiles,Small Business,19694.33,8,0.44,-5711.36
+AMZ101472,2023-01-14,2023-06-28,North,India,Gujarat,Books,Laptops,Small Business,14699.91,4,0.39,-3527.98
+AMZ101473,2023-06-08,2023-07-17,East,India,Kerala,Books,Mobiles,Small Business,13794.69,8,0.15,0.0
+AMZ101474,2023-06-01,2023-11-04,South,India,Telangana,Books,Footwear,Consumer,43122.62,4,0.27,-5174.71
+AMZ101475,2023-04-18,2023-09-25,North,India,Gujarat,Beauty,Furniture,Corporate,3958.17,8,0.11,158.33
+AMZ101476,2023-07-07,2023-09-26,Central,India,Kerala,Fashion,Furniture,Small Business,34041.75,5,0.22,-2382.92
+AMZ101477,2023-10-28,2023-03-16,North,India,Telangana,Beauty,Cookware,Consumer,9054.59,4,0.24,-814.91
+AMZ101478,2023-04-08,2023-01-09,North,India,Kerala,Home & Kitchen,Clothing,Small Business,17553.04,6,0.42,-4739.32
+AMZ101479,2023-05-11,2023-10-25,North,India,Delhi,Beauty,Footwear,Small Business,3546.38,2,0.45,-1063.91
+AMZ101480,2023-10-20,2023-06-14,East,India,Maharashtra,Beauty,Cookware,Corporate,13863.7,2,0.21,-831.82
+AMZ101481,2023-06-20,2023-03-27,North,India,Maharashtra,Electronics,Fiction,Small Business,38536.84,2,0.01,5395.16
+AMZ101482,2023-07-02,2023-03-14,East,India,Telangana,Electronics,Mobiles,Corporate,44308.26,9,0.43,-12406.31
+AMZ101483,2023-12-30,2023-02-25,Central,India,Kerala,Electronics,Fiction,Consumer,11465.59,3,0.09,687.94
+AMZ101484,2023-02-08,2023-02-17,East,India,Delhi,Beauty,Mobiles,Small Business,23445.62,4,0.31,-3751.3
+AMZ101485,2023-01-15,2023-08-27,Central,India,Karnataka,Fashion,Furniture,Consumer,23781.04,8,0.01,3329.35
+AMZ101486,2023-01-04,2023-04-15,Central,India,Gujarat,Home & Kitchen,Cookware,Consumer,43741.98,4,0.2,-2187.1
+AMZ101487,2023-12-15,2023-07-30,East,India,Gujarat,Home & Kitchen,Furniture,Consumer,38258.55,7,0.49,-13007.91
+AMZ101488,2023-07-29,2023-02-12,South,India,Tamil Nadu,Fashion,Laptops,Small Business,25897.32,5,0.05,2589.73
+AMZ101489,2023-06-10,2023-11-13,West,India,Delhi,Fashion,Fiction,Corporate,33701.99,9,0.21,-2022.12
+AMZ101490,2023-01-16,2023-09-26,North,India,Kerala,Home & Kitchen,Fiction,Small Business,42444.08,4,0.15,0.0
+AMZ101491,2023-04-18,2023-09-21,West,India,Tamil Nadu,Books,Furniture,Consumer,972.18,3,0.45,-291.65
+AMZ101492,2023-11-07,2023-12-03,North,India,Telangana,Electronics,Laptops,Corporate,20443.06,2,0.43,-5724.06
+AMZ101493,2023-08-15,2024-01-01,North,India,Kerala,Electronics,Mobiles,Consumer,45408.54,1,0.12,1362.26
+AMZ101494,2023-06-19,2023-09-17,Central,India,Tamil Nadu,Home & Kitchen,Cookware,Corporate,37145.5,6,0.04,4086.0
+AMZ101495,2023-02-03,2023-10-11,North,India,Maharashtra,Fashion,Laptops,Small Business,27370.65,2,0.31,-4379.3
+AMZ101496,2023-09-08,2023-04-25,North,India,Gujarat,Books,Cookware,Corporate,26717.4,8,0.17,-534.35
+AMZ101497,2023-09-04,2023-12-30,East,India,Kerala,Home & Kitchen,Fiction,Small Business,17714.62,6,0.34,-3365.78
+AMZ101498,2023-09-26,2023-02-10,West,India,Tamil Nadu,Electronics,Cookware,Consumer,26265.77,5,0.02,3414.55
+AMZ101499,2023-05-21,2023-08-09,East,India,Maharashtra,Beauty,Fiction,Corporate,32941.47,2,0.07,2635.32
